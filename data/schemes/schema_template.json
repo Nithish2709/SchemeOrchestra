@@ -1,0 +1,33 @@
+{
+  "scheme_id": "TN_SCH_000",
+  "name_en": "Scheme Name in English",
+  "name_ta": "திட்டப் பெயர் தமிழில்",
+  "type": "state",
+  "category": "education",
+  "description_en": "Brief description in English.",
+  "description_ta": "சுருக்கமான விளக்கம் தமிழில்.",
+  "eligibility": {
+    "target_group": ["students"],
+    "school_type": ["government"],
+    "class_range": ["1", "12"],
+    "income_limit_annual": 200000,
+    "caste": "all",
+    "gender": "all",
+    "state_resident": true
+  },
+  "benefits": {
+    "type": "financial",
+    "value": "₹X,XXX per year",
+    "frequency": "annual"
+  },
+  "documents_required": [
+    "Aadhaar card",
+    "Income certificate",
+    "Community certificate"
+  ],
+  "apply_url": "https://www.tn.gov.in/...",
+  "official_source": "https://www.tn.gov.in/scheme/data_view/XXXXX",
+  "last_updated": "2025-01-01",
+  "active": true,
+  "youtube_keywords": ["scheme name Tamil", "திட்டம் விளக்கம்"]
+}

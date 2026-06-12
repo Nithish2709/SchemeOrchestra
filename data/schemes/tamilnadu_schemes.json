@@ -1,0 +1,2168 @@
+[
+  {
+    "scheme_id": "TN_SCH_001",
+    "name_en": "Chief Minister's Breakfast Scheme",
+    "name_ta": "முதலமைச்சர் காலை உணவு திட்டம்",
+    "type": "state",
+    "category": "education",
+    "description_en": "Free breakfast for students in government schools.",
+    "description_ta": "அரசு பள்ளி மாணவர்களுக்கு இலவச காலை உணவு.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "school_type": [
+        "government"
+      ],
+      "class_range": [
+        "1",
+        "5"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true
+    },
+    "benefits": {
+      "type": "in-kind",
+      "value": "Free breakfast daily",
+      "frequency": "daily"
+    },
+    "documents_required": [
+      "School ID card",
+      "Aadhaar card"
+    ],
+    "apply_url": "https://www.tn.gov.in/scheme/data_view/11897",
+    "official_source": "https://www.tn.gov.in/scheme/data_view/11897",
+    "last_updated": "2024-12-01",
+    "active": true,
+    "youtube_keywords": [
+      "Chief Minister Breakfast Scheme Tamil",
+      "முதலமைச்சர் காலை உணவு"
+    ]
+  },
+  {
+    "scheme_id": "TN_SCH_002",
+    "name_en": "Free Laptop Scheme for Government College Students",
+    "name_ta": "அரசு கல்லூரி மாணவர்களுக்கு இலவச மடிக்கணினி திட்டம்",
+    "type": "state",
+    "category": "education",
+    "description_en": "Free laptop provided to students enrolled in government arts and science colleges.",
+    "description_ta": "அரசு கலை அறிவியல் கல்லூரிகளில் படிக்கும் மாணவர்களுக்கு இலவச மடிக்கணினி வழங்கப்படுகிறது.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "school_type": [
+        "government_college"
+      ],
+      "class_range": null,
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "college"
+      ]
+    },
+    "benefits": {
+      "type": "in-kind",
+      "value": "Free Laptop",
+      "frequency": "once"
+    },
+    "documents_required": [
+      "College ID card",
+      "Aadhaar card",
+      "Community certificate"
+    ],
+    "apply_url": "https://www.tn.gov.in/laptopscheme",
+    "official_source": "https://www.tn.gov.in/laptopscheme",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "Free Laptop Scheme Tamil Nadu",
+      "இலவச மடிக்கணினி திட்டம்"
+    ]
+  },
+  {
+    "scheme_id": "TN_SCH_003",
+    "name_en": "First Generation Graduate Scholarship",
+    "name_ta": "முதல் தலைமுறை பட்டதாரி உதவித்தொகை",
+    "type": "state",
+    "category": "scholarship",
+    "description_en": "Scholarship for students who are the first in their family to pursue higher education.",
+    "description_ta": "குடும்பத்தில் முதன்முதலில் உயர்கல்வி பயிலும் மாணவர்களுக்கான உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "school_type": [
+        "government_college",
+        "aided_college"
+      ],
+      "income_limit_annual": 200000,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "college"
+      ],
+      "first_graduate": true
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹10,000 per year",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Income certificate",
+      "Aadhaar card",
+      "College ID",
+      "Declaration of first graduate"
+    ],
+    "apply_url": "https://tnscholarships.gov.in",
+    "official_source": "https://tnscholarships.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "First Generation Graduate Scholarship Tamil Nadu",
+      "முதல் தலைமுறை பட்டதாரி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_SCH_004",
+    "name_en": "Free Uniform and Books Scheme",
+    "name_ta": "இலவச சீருடை மற்றும் புத்தகத் திட்டம்",
+    "type": "state",
+    "category": "education",
+    "description_en": "Free uniforms, shoes, and textbooks for government school students.",
+    "description_ta": "அரசு பள்ளி மாணவர்களுக்கு இலவச சீருடை, காலணி மற்றும் பாடப்புத்தகங்கள்.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "school_type": [
+        "government"
+      ],
+      "class_range": [
+        "1",
+        "12"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true
+    },
+    "benefits": {
+      "type": "in-kind",
+      "value": "Uniforms, shoes, textbooks",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "School ID card"
+    ],
+    "apply_url": "https://www.tn.gov.in",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "Free Uniform Books Scheme Tamil Nadu",
+      "இலவச சீருடை புத்தகம்"
+    ]
+  },
+  {
+    "scheme_id": "TN_SCH_005",
+    "name_en": "BC, MBC Scholarship for School Students",
+    "name_ta": "பிசி, எம்பிசி பள்ளி மாணவர் உதவித்தொகை",
+    "type": "state",
+    "category": "scholarship",
+    "description_en": "Scholarship for BC and MBC community students studying in schools.",
+    "description_ta": "பிசி மற்றும் எம்பிசி சமுதாய பள்ளி மாணவர்களுக்கான உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "school_type": [
+        "government",
+        "aided"
+      ],
+      "class_range": [
+        "6",
+        "12"
+      ],
+      "income_limit_annual": 200000,
+      "caste": [
+        "BC",
+        "MBC"
+      ],
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "school"
+      ]
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹500 - ₹1,000 per year",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Community certificate",
+      "Income certificate",
+      "Aadhaar card",
+      "School bonafide certificate"
+    ],
+    "apply_url": "https://tnscholarships.gov.in",
+    "official_source": "https://tnscholarships.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "BC MBC Scholarship Tamil Nadu",
+      "பிசி எம்பிசி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_SCH_006",
+    "name_en": "SC/ST Scholarship",
+    "name_ta": "தாழ்த்தப்பட்டோர் / பழங்குடியினர் உதவித்தொகை",
+    "type": "state",
+    "category": "scholarship",
+    "description_en": "Scholarship for SC and ST students for school and college education.",
+    "description_ta": "தாழ்த்தப்பட்டோர் மற்றும் பழங்குடியின மாணவர்களுக்கான உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "school_type": [
+        "government",
+        "aided",
+        "government_college"
+      ],
+      "income_limit_annual": 250000,
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "gender": "all",
+      "state_resident": true
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹1,000 - ₹3,500 per year",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Community certificate",
+      "Income certificate",
+      "Aadhaar card"
+    ],
+    "apply_url": "https://tnscholarships.gov.in",
+    "official_source": "https://tnscholarships.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "SC ST Scholarship Tamil Nadu",
+      "தாழ்த்தப்பட்டோர் உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_SCH_007",
+    "name_en": "Amma Two-Wheeler Scheme",
+    "name_ta": "அம்மா இரு சக்கர வாகன திட்டம்",
+    "type": "state",
+    "category": "transport",
+    "description_en": "Subsidized two-wheeler for working women and college-going women students.",
+    "description_ta": "பணிபுரியும் மற்றும் கல்லூரி பயிலும் பெண்களுக்கு மானியத்தில் இரு சக்கர வாகனம்.",
+    "eligibility": {
+      "target_group": [
+        "students",
+        "working_women"
+      ],
+      "income_limit_annual": 250000,
+      "caste": "all",
+      "gender": "female",
+      "state_resident": true,
+      "age_min": 18,
+      "age_max": 40,
+      "education_level": [
+        "college"
+      ]
+    },
+    "benefits": {
+      "type": "subsidy",
+      "value": "50% subsidy on two-wheeler",
+      "frequency": "once"
+    },
+    "documents_required": [
+      "Income certificate",
+      "Aadhaar card",
+      "College ID / Employment certificate"
+    ],
+    "apply_url": "https://www.tn.gov.in",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "Amma Two Wheeler Scheme Tamil Nadu",
+      "அம்மா இரு சக்கர வாகன திட்டம்"
+    ]
+  },
+  {
+    "scheme_id": "TN_SCH_008",
+    "name_en": "Free Coaching for TNPSC",
+    "name_ta": "டிஎன்பிஎஸ்சி இலவச பயிற்சி",
+    "type": "state",
+    "category": "coaching",
+    "description_en": "Free coaching for Tamil Nadu Public Service Commission exams for BC, MBC, SC/ST students.",
+    "description_ta": "பிசி, எம்பிசி, தாழ்த்தப்பட்டோர் மாணவர்களுக்கு டிஎன்பிஎஸ்சி தேர்வுக்கு இலவச பயிற்சி.",
+    "eligibility": {
+      "target_group": [
+        "students",
+        "graduates"
+      ],
+      "income_limit_annual": 250000,
+      "caste": [
+        "BC",
+        "MBC",
+        "SC",
+        "ST"
+      ],
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "graduate",
+        "postgraduate"
+      ]
+    },
+    "benefits": {
+      "type": "in-kind",
+      "value": "Free TNPSC coaching classes",
+      "frequency": "once"
+    },
+    "documents_required": [
+      "Community certificate",
+      "Income certificate",
+      "Degree certificate"
+    ],
+    "apply_url": "https://www.tn.gov.in",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "Free TNPSC Coaching Tamil Nadu",
+      "டிஎன்பிஎஸ்சி இலவச பயிற்சி"
+    ]
+  },
+  {
+    "scheme_id": "TN_SCH_009",
+    "name_en": "Minority Scholarship Scheme",
+    "name_ta": "சிறுபான்மையினர் உதவித்தொகை திட்டம்",
+    "type": "state",
+    "category": "scholarship",
+    "description_en": "Scholarship for minority community students (Muslim, Christian, Sikh, Buddhist, Jain, Parsi).",
+    "description_ta": "சிறுபான்மை சமுதாய மாணவர்களுக்கான உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "income_limit_annual": 200000,
+      "caste": [
+        "minority"
+      ],
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "school",
+        "college"
+      ]
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹1,000 - ₹5,000 per year",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Minority certificate",
+      "Income certificate",
+      "Aadhaar card"
+    ],
+    "apply_url": "https://tnscholarships.gov.in",
+    "official_source": "https://tnscholarships.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "Minority Scholarship Tamil Nadu",
+      "சிறுபான்மையினர் உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_SCH_010",
+    "name_en": "Dr. Ambedkar Law Entrance Coaching",
+    "name_ta": "டாக்டர் அம்பேத்கர் சட்டப் பிரவேச பயிற்சி",
+    "type": "state",
+    "category": "coaching",
+    "description_en": "Free coaching for law entrance examinations for SC/ST students.",
+    "description_ta": "தாழ்த்தப்பட்டோர் மாணவர்களுக்கு சட்டப் பிரவேச தேர்வுக்கு இலவச பயிற்சி.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "income_limit_annual": 250000,
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "college",
+        "graduate"
+      ]
+    },
+    "benefits": {
+      "type": "in-kind",
+      "value": "Free law entrance coaching",
+      "frequency": "once"
+    },
+    "documents_required": [
+      "Community certificate",
+      "Income certificate",
+      "Aadhaar card"
+    ],
+    "apply_url": "https://www.tn.gov.in",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "Ambedkar Law Entrance Coaching Tamil Nadu",
+      "அம்பேத்கர் சட்டப் பிரவேச பயிற்சி"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_012",
+    "name_en": "Higher Education Special Incentive Scheme for Meritorious Adi Dravidar / Tribal Students",
+    "name_ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியின மாணவ, மாணவிகளுக்கான உயர்கல்வி சிறப்பு ஊக்கத்தொகைத் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded merit incentive awarding ₹3,000 annually for 5 years to the top 1,000 boys and 1,000 girls belonging to Adi Dravidar, Tribal, and Converted Christian communities based on +2 marks.",
+    "description_ta": "+2 பொதுத்தேர்வில் அதிக மதிப்பெண் பெறும் ஆதிதிராவிடர், பழங்குடியினர் மற்றும் கிறித்தவ மதத்திற்கு மாறிய ஆதிதிராவிட சமூகங்களைச் சேர்ந்த தலா 1000 மாணவ/மாணவிகளுக்கு ஆண்டுக்கு ₹3,000 வழங்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "adi_dravidar_students",
+        "tribal_students",
+        "converted_christian_students",
+        "undergraduates"
+      ],
+      "income_limit_annual": null,
+      "caste_allowed": [
+        "Adi Dravidar",
+        "Scheduled Tribe",
+        "Adi Dravidar Converted to Christianity"
+      ],
+      "gender_slots": {
+        "male": 1000,
+        "female": 1000
+      },
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "completed_class_12"
+      ],
+      "selection_criteria": "merit_order_plus2_public_exam",
+      "must_continue_higher_education": true
+    },
+    "benefits": {
+      "type": "financial_incentive",
+      "value": "₹3,000 per annum",
+      "frequency": "annual",
+      "max_duration_years": 5
+    },
+    "documents_required": [
+      "Class 12th (+2) Public Examination Consolidated Marksheet",
+      "Community Certificate issued by competent TN Authority",
+      "Bonafide Certificate of current Higher Education course admission",
+      "Aadhaar Card",
+      "Aadhaar-seeded savings bank account details"
+    ],
+    "apply_url": "https://www.tn.gov.in/bctw/welfare_schemes.htm",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Adi Dravidar Higher Education Award Tamil",
+      "ஆதிதிராவிடர் நலத்துறை கல்வி ஊக்கத்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_MED_003",
+    "name_en": "Financial Assistance to Journalists for Medical Treatment from Chief Minister's Public Relief Fund",
+    "name_ta": "முதலமைச்சரின் பொது நிவாரண நிதியிலிருந்து பத்திரிகையாளர்களுக்கான மருத்துவ உதவித் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "medical_assistance",
+    "description_en": "Event-driven, discretionary financial medical relief disbursed from the CM Public Relief Fund to working and retired accredited journalists facing critical health emergencies.",
+    "description_ta": "பணியில் இருக்கும் மற்றும் ஓய்வு பெற்ற அங்கீகரிக்கப்பட்ட பத்திரிகையாளர்களுக்கு மருத்துவச் செலவுகளுக்காக முதலமைச்சரின் பொது நிவாரண நிதியிலிருந்து வழங்கப்படும் அவசரகால மருத்துவ உதவித் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "working_journalists",
+        "retired_journalists",
+        "press_photographers"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "professional_credential_mandatory": "accredited_by_ipr_or_recognized_media_id",
+      "nature_of_benefit": "discretionary_emergency_payout"
+    },
+    "benefits": {
+      "type": "medical_reimbursement_grant",
+      "value": "Variable discretionary amount based directly on true hospital bills and medical urgency",
+      "frequency": "per_medical_emergency_event"
+    },
+    "documents_required": [
+      "Valid Journalist Accreditation Card / Media Identity Card",
+      "Original hospital discharge summary or official cost estimation certificate",
+      "Itemized medical bills and pharmacy invoices",
+      "Aadhaar Card",
+      "Bank account details for direct fund transfer",
+      "Recommendation letter from District Collector / PRO (optional but speeds up processing)"
+    ],
+    "apply_url": "https://www.tn.gov.in/department/30",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Journalists Medical Assistance Tamil Nadu",
+      "முதலமைச்சர் பொது நிவாரண நிதி பத்திரிகையாளர்"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_013",
+    "name_en": "Pre-Matric Fee Reimbursement for BC, MBC, and DNC Students",
+    "name_ta": "பிற்படுத்தப்பட்டோர், மிகவும் பிற்படுத்தப்பட்டோர் மற்றும் சீர்மரபினர் மாணவ, மாணவிகளுக்கான போஸ்ட்-மெட்ரிக் கல்வி கட்டண சலுகைத் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded school fee waiver providing up to ₹250 annually for tuition fees and 100% exam fee reimbursement for Class 10 students. BC students require a ₹1 Lakh income cap and first-generation status; MBC/DNC students are unconditional.",
+    "description_ta": "6 முதல் 10ஆம் வகுப்பு வரை படிக்கும் BC, MBC, DNC மாணவர்களுக்கான கல்விக் கட்டணம் மற்றும் 10ஆம் வகுப்பு பொதுத்தேர்வு கட்டணத்தை அரசே ஏற்கும் திட்டம். (BC மாணவர்களுக்கு மட்டும் நிபந்தனைகள் உண்டு).",
+    "eligibility": {
+      "target_group": [
+        "school_students",
+        "backward_classes",
+        "most_backward_classes",
+        "denotified_communities"
+      ],
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "class_6",
+        "class_7",
+        "class_8",
+        "class_9",
+        "class_10"
+      ],
+      "community_conditional_rules": {
+        "BC": {
+          "income_limit_annual": 100000,
+          "first_generation_learner_mandatory": true
+        },
+        "MBC": {
+          "income_limit_annual": null,
+          "first_generation_learner_mandatory": false
+        },
+        "DNC": {
+          "income_limit_annual": null,
+          "first_generation_learner_mandatory": false
+        }
+      }
+    },
+    "benefits": {
+      "type": "fee_waiver_reimbursement",
+      "value": "Class 6-8: ₹200/year | Class 9-10: ₹250/year | Class 10 Exam Fees: 100% Full Sanction",
+      "frequency": "annual_split"
+    },
+    "documents_required": [
+      "Community Certificate issued by competent TN Authority",
+      "Income Certificate (Mandatory for BC only)",
+      "No Graduate Certificate / First Generation Learner Certificate issued by Tehsildar (Mandatory for BC only)",
+      "School Bonafide Certificate showing current enrollment status",
+      "Aadhaar Card of student/parent"
+    ],
+    "apply_url": "https://www.tn.gov.in/bcmbcw/welfare_schemes.htm",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "BC MBC Welfare School Scholarship Tamil",
+      "பள்ளி மாணவர் கல்வி உதவித்தொகை சலுகைகள்"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_014",
+    "name_en": "Adi Dravidar & Tribal Welfare District Level Prize Scheme (+2 and 10th Standard)",
+    "name_ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியின மாணவ, மாணவிகளுக்கான மாவட்ட அளவிலான பரிசு மற்றும் கல்வி ஊக்கத்தொகைத் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "District-level cash prizes up to ₹3,000 for the top-scoring boy and girl matching Adi Dravidar, Tribal, or Converted Christian profiles in Class 10 and 12 public exams.",
+    "description_ta": "10 மற்றும் 12ஆம் வகுப்பு பொதுத்தேர்வில் மாவட்ட அளவில் ஆதிதிராவிடர், பழங்குடியினர் மற்றும் கிறித்தவ மதத்திற்கு மாறிய ஆதிதிராவிட சமூகங்களில் மிக அதிக மதிப்பெண் பெறும் தலா ஒரு மாணவன் மற்றும் மாணவிக்கு வழங்கப்படும் ரொக்கப் பரிசுத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "school_toppers",
+        "district_rank_holders",
+        "adi_dravidar",
+        "tribal_students",
+        "converted_christians"
+      ],
+      "income_limit_annual": null,
+      "caste_allowed": [
+        "Adi Dravidar",
+        "Scheduled Tribe",
+        "Adi Dravidar Converted to Christianity"
+      ],
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "completed_class_10",
+        "completed_class_12"
+      ],
+      "evaluation_scope": "district_level_merit",
+      "slots_per_district_plus2": {
+        "rank_1_male": 1,
+        "rank_1_female": 1
+      },
+      "slots_per_district_class10": {
+        "rank_1_male": 1,
+        "rank_1_female": 1,
+        "rank_2_male": 1,
+        "rank_2_female": 1,
+        "rank_3_male": 1,
+        "rank_3_female": 1
+      }
+    },
+    "benefits": {
+      "type": "merit_prize_lump_sum",
+      "value": "Class 12 Rank 1: ₹3,000 | Class 10 Rank 1: ₹1,000, Rank 2: ₹500, Rank 3: ₹300",
+      "frequency": "once_per_milestone"
+    },
+    "documents_required": [
+      "Official Class 10 or Class 12 Public Examination Marksheet statement",
+      "Community Certificate issued by competent TN Authority",
+      "School Transfer Certificate (TC) or study certificate confirming district location",
+      "Aadhaar Card of student",
+      "Aadhaar-seeded bank account passbook copy"
+    ],
+    "apply_url": "https://www.tn.gov.in/department/1",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Adi Dravidar District Prize Tamil",
+      "ஆதிதிராவிடர் நலத்துறை மாவட்ட பரிசுத் தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_FIN_004",
+    "name_en": "Maternity Micro-Loan Support through Self-Help Groups (SHGs)",
+    "name_ta": "சுயஉதவிக் குழுக்கள் மூலமாக வழங்கப்படும் மகப்பேறு குறுங்கடன் திட்டம்",
+    "type": "state_government_shg",
+    "state": "Tamil Nadu",
+    "category": "micro_finance",
+    "description_en": "A specialized peer-guaranteed micro-loan of up to ₹2,000 at an 11% interest rate, distributed through active women's Self-Help Groups to manage immediate maternal health costs.",
+    "description_ta": "சுயஉதவிக் குழுக்களில் உள்ள கர்ப்பிணிப் பெண்களின் அவசரகால மருத்துவச் செலவுகளுக்காக 11% வட்டியில் வழங்கப்படும் ₹2,000 வரையிலான மகப்பேறு குறுங்கடன் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "pregnant_women",
+        "lactating_mothers",
+        "shg_members"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "female",
+      "state_resident": "Tamil Nadu",
+      "mandatory_membership": "active_registered_shg_member",
+      "loan_purpose": "maternity_expenses"
+    },
+    "benefits": {
+      "type": "micro_loan_disbursement",
+      "value": "Maximum cash loan up to ₹2,000 with an interest rate of 11% per annum",
+      "frequency": "per_pregnancy_event"
+    },
+    "documents_required": [
+      "SHG Membership Passbook / Active Member ID tracking number",
+      "Maternal Health Card / Pregnancy Registration Certificate (PICME Number)",
+      "Aadhaar Card of the applicant",
+      "SHG Resolution Copy signed by group animators approving the credit release"
+    ],
+    "apply_url": "https://www.tncdw.tn.gov.in",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "SHG Maternity Loan Tamil Nadu",
+      "சுயஉதவிக்குழு மகப்பேறு கடன்"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_FIN_005",
+    "name_en": "Professional Infrastructure Term-Loan for Self-Employed Graduates",
+    "name_ta": "சுயதொழில் செய்யும் பட்டதாரி நிபுணர்களுக்கான தொழில்முறை கடன் திட்டம்",
+    "type": "state_government_bank_linkage",
+    "state": "Tamil Nadu",
+    "category": "micro_finance",
+    "description_en": "High-value infrastructure term loan providing up to ₹10,00,000 at a 13% interest rate for self-employed Doctors, Engineers, and certified professionals to establish independent clinics or firms.",
+    "description_ta": "சுயதொழில் செய்யும் மருத்துவர்கள், பொறியாளர்கள் மற்றும் தகுதிவாய்ந்த பட்டதாரிகள் சொந்தமாக ஆய்வகம்/அலுவலகம் அமைக்க 13% வட்டியில் வழங்கப்படும் ₹10 லட்சம் வரையிலான தொழில்முறை கடன் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "doctors",
+        "engineers",
+        "certified_professionals",
+        "self_employed"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "professional_degree_mandatory": [
+        "MBBS",
+        "BDS",
+        "BAMS",
+        "BE",
+        "BTech",
+        "CA"
+      ],
+      "employment_status": "self_employed",
+      "loan_purpose": "professional_infrastructure_or_equipment"
+    },
+    "benefits": {
+      "type": "term_loan_disbursement",
+      "value": "Maximum business term loan up to ₹10,00,000 with an interest rate of 13% per annum",
+      "frequency": "once_per_business_setup"
+    },
+    "documents_required": [
+      "Professional Degree Certificate (MBBS/BE/CA)",
+      "Active Registration Certificate from Medical Council / ICAI / Professional Body",
+      "Detailed Business Project Report (DPR) detailing planned infrastructure spending",
+      "Income Tax Returns (ITR) statement for preceding financial cycles (if applicable)",
+      "Aadhaar Card and PAN Card of the applicant",
+      "Proforma Invoice for equipment or machinery intended for purchase"
+    ],
+    "apply_url": "https://www.tn.gov.in/departments",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Professional Loan for Doctors Engineers Tamil",
+      "சுயதொழில் பட்டதாரி கடன் திட்டம்"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_INC_001",
+    "name_en": "Free Stationary and Textbooks Scheme for ADW & GTR Schools",
+    "name_ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலப் பள்ளி மாணவர்களுக்கான விலையில்லாப் பாடப்புத்தகங்கள் வழங்கும் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "in_kind_welfare",
+    "description_en": "Universal in-kind educational scheme providing free textbook sets at the start of the academic year to all students from Class 1 to 12 enrolled in ADW and GTR schools, with no income or community restrictions.",
+    "description_ta": "ஆதிதிராவிடர் நலப்பள்ளிகள் மற்றும் அரசு பழங்குடியினர் உண்டி உறைவிடப் பள்ளிகளில் 1 முதல் 12ஆம் வகுப்பு வரை பயிலும் அனைத்து மாணவர்களுக்கும் எவ்வித வருமான வரம்பும் இன்றி விலையில்லாப் பாடப்புத்தகங்கள் வழங்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "school_students",
+        "welfare_school_enrollees"
+      ],
+      "income_limit_annual": null,
+      "caste_allowed": "all_enrolled_students",
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "class_1",
+        "class_2",
+        "class_3",
+        "class_4",
+        "class_5",
+        "class_6",
+        "class_7",
+        "class_8",
+        "class_9",
+        "class_10",
+        "class_11",
+        "class_12"
+      ],
+      "mandatory_school_types": [
+        "Adi Dravidar Welfare School",
+        "Government Tribal Residential School"
+      ]
+    },
+    "benefits": {
+      "type": "material_in_kind",
+      "value": "Complete set of annual academic textbooks and core curriculum stationary items free of cost",
+      "frequency": "annual_at_term_start"
+    },
+    "documents_required": [
+      "Proof of regular school enrollment / Admission Number",
+      "School Bonafide verification updated by the Headmaster"
+    ],
+    "apply_url": "offline_via_school",
+    "official_source": "https://www.tn.gov.in/department/1",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Free Textbooks Scheme Tamil Nadu",
+      "ஆதிதிராவிடர் நலத்துறை விலையில்லா புத்தகங்கள்"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_AGR_008",
+    "name_en": "Capacity Building and Infrastructure Grant for Farmer Interest Groups (FIG)",
+    "name_ta": "உழவர் ஆர்வலர் குழுக்களுக்கான (FIG) உள்கட்டமைப்பு மற்றும் திறன் மேம்பாட்டு நிதியுதவித் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "agriculture_welfare",
+    "description_en": "Group-tiered development grant providing targeted financial funding up to ₹9,400 per 15-member farmer interest group for office tools, mini-libraries, identity cards, and skill training, plus ₹20,000 for district conventions.",
+    "description_ta": "15 விவசாயிகள் கொண்ட வேளாண் குழுக்களுக்கு அலுவலக உபகரணங்கள், நூலகம் அமைக்க ₹5000, திறன் பயிற்சிக்கு ₹4000, அடையாள அட்டைக்கு ₹400 மற்றும் மாவட்ட கூட்டங்களுக்கு ₹20,000 வழங்கும் கூட்டு வேளாண் மேம்பாட்டுத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "farmers",
+        "agricultural_groups",
+        "crop_growers"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "mandatory_group_size": 15,
+      "crop_type_allowed": [
+        "agricultural_crops",
+        "food_grains",
+        "commercial_crops"
+      ],
+      "group_registration_mandatory": true
+    },
+    "benefits": {
+      "type": "tiered_group_grant",
+      "value": "Group Setup: ₹5,000 | Skill Training: ₹4,000 | Group ID Cards: ₹400 | District Meeting Cluster Node: ₹20,000",
+      "frequency": "activity_based_milestones"
+    },
+    "documents_required": [
+      "Group Resolution Copy showing the list of all 15 member farmers",
+      "Land possession proofs / Chitta / Adangal of individual member farmers",
+      "Aadhaar Cards and Bank Account Details of Group President/Secretary (Joint Account)",
+      "Group Registration Certificate from the Department of Agriculture"
+    ],
+    "apply_url": "https://www.tnaagrisnet.tn.gov.in",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Farmer Interest Group ATMA Scheme Tamil",
+      "உழவர் ஆர்வலர் குழு அமைப்பது எப்படி"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_015",
+    "name_en": "State and District Level Board Exam Merit Prizes for BC, MBC, and DNC Students",
+    "name_ta": "பிற்படுத்தப்பட்டோர், மிகவும் பிற்படுத்தப்பட்டோர் மற்றும் சீர்மரபினர் மாணவ, மாணவிகளுக்கான மாநில மற்றும் மாவட்ட அளவிலான பரிசுத் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "Automated merit awards for Class 12 state board exams, providing up to ₹6,000 (State Tier) and ₹3,000 (District Tier) to the top four boys and girls across BC and MBC/DNC communities.",
+    "description_ta": "+2 பொதுத்தேர்வில் மாநில மற்றும் மாவட்ட அளவில் மிக அதிக மதிப்பெண் பெறும் BC, MBC/DNC சமூகங்களைச் சேர்ந்த தலா ஒரு மாணவன் மற்றும் மாணவிக்கு (தலா 4 இடங்கள்) வழங்கப்படும் ரொக்கப் பரிசுத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "school_toppers",
+        "state_rank_holders",
+        "district_rank_holders"
+      ],
+      "income_limit_annual": null,
+      "caste_allowed": [
+        "Backward Classes",
+        "Most Backward Classes",
+        "Denotified Communities"
+      ],
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "completed_class_12"
+      ],
+      "evaluation_basis": "merit_order_plus2_public_exam",
+      "slots_per_rank_level": {
+        "bc_male": 1,
+        "bc_female": 1,
+        "mbc_dnc_male": 1,
+        "mbc_dnc_female": 1
+      }
+    },
+    "benefits": {
+      "type": "merit_prize_lump_sum",
+      "value": "State Tier: 1st-₹6k, 2nd-₹4k, 3rd-₹2k | District Tier: 1st-₹3k, 2nd-₹2k, 3rd-₹1k",
+      "frequency": "once_per_milestone"
+    },
+    "documents_required": [
+      "Class 12th (+2) Public Examination Final Marksheet statement",
+      "Community Certificate issued by competent TN Authority",
+      "School Transfer Certificate (TC) confirming institutional district boundary",
+      "Aadhaar Card of the student",
+      "Aadhaar-seeded savings bank account details"
+    ],
+    "apply_url": "automated_via_dge_backend",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "BC MBC Board Exam Prize Tamil Nadu",
+      "பிசி எம்பிசி மாவட்ட அளவிலான பரிசுத்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_FIN_006",
+    "name_en": "Working Capital Micro-Loan Scheme for Working Women",
+    "name_ta": "உழைக்கும் பெண்களுக்கான சிறுதொழில் குறுங்கடன் திட்டம்",
+    "type": "state_government_cooperative",
+    "state": "Tamil Nadu",
+    "category": "micro_finance",
+    "description_en": "Targeted micro-credit asset providing working capital loans up to ₹20,000 at a 12% interest rate for working women and small-scale female entrepreneurs to boost business liquidity.",
+    "description_ta": "சுயதொழில் மற்றும் சிறுவியாபாரம் செய்யும் உழைக்கும் பெண்களின் மூலதனச் செலவுகளுக்காக 12% வட்டியில் வழங்கப்படும் ₹20,000 வரையிலான சிறுதொழில் குறுங்கடன் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "working_women",
+        "women_entrepreneurs",
+        "self_employed_women"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "female",
+      "state_resident": "Tamil Nadu",
+      "employment_status": "employed_or_self_employed",
+      "loan_purpose": "working_capital_or_business_expansion"
+    },
+    "benefits": {
+      "type": "micro_loan_disbursement",
+      "value": "Maximum business micro-loan up to ₹20,000 with an interest rate of 12% per annum",
+      "frequency": "per_business_cycle"
+    },
+    "documents_required": [
+      "Proof of Identity (Aadhaar Card / Voter ID)",
+      "Proof of Business Location / Trade Activity (Vending certificate, SHG log, or local body declaration)",
+      "Recent passport size photograph",
+      "Bank passbook copy of the applicant's individual/joint account"
+    ],
+    "apply_url": "https://www.tncdw.tn.gov.in",
+    "official_source": "https://www.tn.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Working Women Micro Loan Tamil Nadu",
+      "பெண்களுக்கான சிறுதொழில் கடன் திட்டம்"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_017",
+    "name_en": "Government of India Post-Matric Scholarship for ST Students in Private Self-Financing Colleges",
+    "name_ta": "சுயநிதி கல்லூரிகளில் பயிலும் பழங்குடியின (ST) மாணவர்களுக்கான இந்திய அரசு போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "centrally_sponsored_75_25",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "Centrally sponsored post-matric scholarship for ST students with parental income under ₹2.5 Lakhs pursuing regular full-time higher education in private self-financing colleges, covering government-fixed tuition fees and monthly maintenance allowances.",
+    "description_ta": "சுயநிதி மற்றும் தனியார் கல்லூரிகளில் பட்டப்படிப்பு/தொழில்நுட்ப கல்வி பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட பழங்குடியின (ST) மாணவர்களுக்கான அரசு நிர்ணயித்த முழு கல்வி கட்டணம் மற்றும் மாதாந்திர பராமரிப்பு ஊதியத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "scheduled_tribes",
+        "tribal_youth",
+        "undergraduates",
+        "private_college_students"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Scheduled Tribe"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "diploma",
+        "undergraduate",
+        "postgraduate",
+        "professional_courses"
+      ],
+      "institution_types_allowed": [
+        "private_self_financing_colleges"
+      ],
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "fee_exemption_and_maintenance_split",
+      "value": "100% Government-fixed tuition fee structure compensated directly to the institution + Monthly student maintenance allowance up to ₹1,200/month for 10 months",
+      "frequency": "annual_tuition_and_monthly_stipend_split"
+    },
+    "documents_required": [
+      "Valid ST Community Certificate issued by a competent Revenue Authority (RDO/Sub-Collector)",
+      "Income Certificate issued by Tehsildar (Not older than 6 months)",
+      "Class 10th and 12th Public Exam Marksheets",
+      "Private College Admission/Allotment Letter showing government quota or counseling merit entry",
+      "Current year fee structural breakout bonafide signed by Principal",
+      "Aadhaar Card",
+      "Aadhaar-seeded savings bank passbook copy with NPCI mapping verified"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://tribal.nic.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "ST Post Matric Scholarship Private Colleges Tamil",
+      "பழங்குடியின மாணவர் சுயநிதி கல்லூரி கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_018",
+    "name_en": "Government of India Post-Matric Scholarship for SC / Adi Dravidar Students",
+    "name_ta": "ஆதிதிராவிடர் (SC) மாணவர்களுக்கான இந்திய அரசு போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "centrally_sponsored_75_25",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "Flagship centrally sponsored scholarship scheme providing full tuition fee waivers and tiered monthly maintenance stipends to SC / Adi Dravidar students with family incomes below ₹2.5 Lakhs pursuing post-Class 10 education.",
+    "description_ta": "₹2.5 லட்சத்திற்கும் குறைவான குடும்ப வருமானம் கொண்ட ஆதிதிராவிடர் (SC) சமூக மாணவர்கள் 11-ஆம் வகுப்பு முதல் கல்லூரி, பி.ஹெச்டி வரை முழு கல்வி கட்டண விலக்கு மற்றும் மாதாந்திர பராமரிப்பு ஊதியம் பெறும் மத்திய-மாநில கூட்டு உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "scheduled_castes",
+        "adi_dravidar_youth",
+        "higher_education_students"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Scheduled Caste",
+        "Scheduled Caste Arunthathiyar"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "class_11",
+        "class_12",
+        "diploma",
+        "undergraduate",
+        "postgraduate",
+        "phd"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided",
+        "recognized_private_government_quota"
+      ],
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "institutional_fee_waiver_and_dbt_maintenance",
+      "value": "100% Compulsory non-refundable fee waiver + Monthly maintenance allowance ranging from ₹230 to ₹1,200 based on course group and hostel status",
+      "frequency": "annual_fee_reimbursement_with_monthly_maintenance_allowance"
+    },
+    "documents_required": [
+      "SC/SCA Community Certificate issued by competent Revenue Authority (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "Class 10 (SSLC) / Class 12 (HSC) Marksheets and previous year semester cards",
+      "College Bonafide Certificate including current course structure, duration, and tier data",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded savings bank passbook copy with active NPCI status confirmation"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://socialjustice.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "SC Post Matric Scholarship Tamil Nadu ssp",
+      "ஆதிதிராவிடர் நலத்துறை கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_019",
+    "name_en": "Higher Education Special Scholarship for ST Students (Hostel Support)",
+    "name_ta": "பழங்குடியின (ST) கல்லூரி மாணவர்களுக்கான உயர்கல்வி சிறப்பு உதவித்தொகை திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded residential scholarship providing up to ₹8,000 annually to hosteller ST students with family incomes under ₹2 Lakhs pursuing undergraduate, postgraduate, or professional higher education.",
+    "description_ta": "விடுதிகளில் தங்கி படிக்கும், ₹2 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட பழங்குடியின (ST) கல்லூரி மற்றும் தொழில்முறை கல்வி மாணவர்களின் தங்குமிடச் செலவுகளுக்காக ஆண்டுக்கு ₹8,000 வரை வழங்கப்படும் சிறப்பு கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "scheduled_tribes",
+        "tribal_students",
+        "hostellers",
+        "undergraduates"
+      ],
+      "income_limit_annual": 200000,
+      "caste_allowed": [
+        "Scheduled Tribe"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "housing_status_mandatory": "hosteller",
+      "education_level": [
+        "diploma",
+        "undergraduate",
+        "postgraduate",
+        "professional_courses"
+      ],
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "residential_lump_sum_grant",
+      "value": "UG & Diploma: ₹7,500 per annum | PG & Professional: ₹8,000 per annum",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Valid ST Community Certificate issued by a competent Revenue Authority (RDO/Sub-Collector)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "College Bonafide Certificate showing current course enrollment",
+      "Official Hostel Warden Certificate or Institutional Hosteller Verification Form",
+      "Aadhaar Card",
+      "Aadhaar-seeded savings bank passbook copy with active NPCI status"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://pudukkottai.nic.in/adi-dravidar-and-tribal-welfare/",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "ST Higher Education Special Scholarship Tamil Nadu",
+      "பழங்குடியின உயர்கல்வி சிறப்பு உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_020",
+    "name_en": "Higher Education Special Scholarship for SC / Adi Dravidar Students (Hostel Support)",
+    "name_ta": "ஆதிதிராவிடர் (SC) கல்லூரி மாணவர்களுக்கான உயர்கல்வி சிறப்பு உதவித்தொகை திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded residential scholarship providing up to ₹8,000 annually to hosteller SC / Adi Dravidar students with family incomes under ₹2 Lakhs pursuing undergraduate, postgraduate, or professional higher education.",
+    "description_ta": "விடுதிகளில் தங்கி படிக்கும், ₹2 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட ஆதிதிராவிடர் (SC) கல்லூரி மற்றும் தொழில்முறை கல்வி மாணவர்களின் தங்குமிடச் செலவுகளுக்காக ஆண்டுக்கு ₹8,000 வரை வழங்கப்படும் சிறப்பு கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "scheduled_castes",
+        "adi_dravidar_youth",
+        "hostellers",
+        "undergraduates"
+      ],
+      "income_limit_annual": 200000,
+      "caste_allowed": [
+        "Scheduled Caste",
+        "Scheduled Caste Arunthathiyar"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "housing_status_mandatory": "hosteller",
+      "education_level": [
+        "diploma",
+        "undergraduate",
+        "postgraduate",
+        "professional_courses"
+      ],
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "residential_lump_sum_grant",
+      "value": "UG & Diploma: ₹7,500 per annum | PG & Professional: ₹8,000 per annum",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Valid SC/SCA Community Certificate issued by a competent Revenue Authority (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "College Bonafide Certificate showing current course enrollment",
+      "Official Hostel Warden Certificate or Institutional Hosteller Verification Form",
+      "Aadhaar Card",
+      "Aadhaar-seeded savings bank passbook copy with active NPCI status"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/department/1",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "SC Higher Education Special Scholarship Tamil Nadu ssp",
+      "ஆதிதிராவிடர் உயர்கல்வி சிறப்பு உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_021",
+    "name_en": "Special Fee and Examination Fee Concession to Post Graduate Students (ADW Welfare)",
+    "name_ta": "ஆதிதிராவிடர் (SC) முதுகலை பட்டதாரி மாணவர்களுக்கான கட்டணச் சலுகை மற்றும் விலக்குத் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded postgraduate fee concession covering application, special, and exam fees for SC/ST students in Govt/Aided Arts & Science colleges. Girls enjoy no income limit, while boys require a family income under ₹2.5 Lakhs.",
+    "description_ta": "அரசு மற்றும் அரசு உதவிபெறும் கலை, அறிவியல் கல்லூரிகளில் முதுகலை (PG) படிக்கும் ஆதிதிராவிடர் மாணவர்களுக்கான சிறப்பு கட்டணம் மற்றும் தேர்வு கட்டண விலக்குத் திட்டம். மாணவிகளுக்கு வருமான வரம்பு இல்லை.",
+    "eligibility": {
+      "target_group": [
+        "scheduled_castes",
+        "adi_dravidar_youth",
+        "postgraduates",
+        "masters_students"
+      ],
+      "caste_allowed": [
+        "Adi Dravidar",
+        "Scheduled Tribe",
+        "Adi Dravidar Converted to Christianity"
+      ],
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "postgraduate",
+        "ma",
+        "msc",
+        "mcom"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided"
+      ],
+      "course_mode": "full_time_regular",
+      "gender_conditional_rules": {
+        "female": {
+          "income_limit_annual": null,
+          "income_exempt": true
+        },
+        "male": {
+          "income_limit_annual": 250000,
+          "income_exempt": false
+        }
+      }
+    },
+    "benefits": {
+      "type": "institutional_fee_exemption",
+      "value": "100% Waiver of Admission Application Fees, Registration Fees, University Special Fees, and Semester Examination Fees",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid SC/ST/SCC Community Certificate issued by a competent Tamil Nadu Revenue Authority",
+      "Income Certificate issued by Tehsildar (Mandatory for male applicants only)",
+      "Undergraduate (UG) Degree Provisional Certificate or Consolidated Marksheet",
+      "Current PG College Bonafide Certificate including course profile and registration code",
+      "Aadhaar Card",
+      "Aadhaar-seeded savings bank account details"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/department/1",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "SC Post Graduate Fee Concession Tamil Nadu",
+      "முதுகலை ஆதிதிராவிடர் நலத்துறை கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_022",
+    "name_en": "Special Fee and Compulsory Non-Refundable Fee Concession to Undergraduate Students (Tribal Welfare)",
+    "name_ta": "பழங்குடியின (ST) இளங்கலை பட்டதாரி மாணவர்களுக்கான கட்டணச் சலுகை மற்றும் விலக்குத் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded higher education policy providing 100% exemption from tuition, special, registration, and exam fees to all ST students pursuing undergraduate degrees in Government and Aided colleges, with no family income limit.",
+    "description_ta": "அரசு மற்றும் உதவிபெறும் கல்லூரிகளில் இளங்கலை (UG) பட்டப்படிப்பு பயிலும் அனைத்து பழங்குடியின (ST) மாணவர்களுக்கும் எவ்வித வருமான வரம்புமின்றி சேர்க்கை, சிறப்பு மற்றும் தேர்வு கட்டணங்களை முழுமையாக விளக்கும் கல்வித் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "scheduled_tribes",
+        "tribal_students",
+        "undergraduates",
+        "bachelor_degrees"
+      ],
+      "income_limit_annual": null,
+      "income_limit_exempt": true,
+      "caste_allowed": [
+        "Scheduled Tribe"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "undergraduate",
+        "ba",
+        "bsc",
+        "bcom",
+        "be",
+        "btech"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided"
+      ],
+      "course_mode": "full_time_regular"
+    },
+    "benefits": {
+      "type": "institutional_fee_exemption",
+      "value": "100% Cashless Waiver of College Admission Fees, University Registration Fees, Laboratory/Special Fees, and regular Semester Examination Fees",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid ST Community Certificate issued by a competent Revenue Authority (RDO / Sub-Collector level)",
+      "Class 10th (SSLC) and Class 12th (HSC) Public Examination Marksheets",
+      "College Admission Allotment Letter or current year Bonafide Verification form signed by the Principal",
+      "Aadhaar Card",
+      "Aadhaar-seeded savings bank account statement"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/department/1",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "ST Undergraduate Fee Concession Tamil Nadu",
+      "பழங்குடியின நலத்துறை கல்லூரி கட்டண விலக்கு"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_023",
+    "name_en": "Tuition Fee Concession for Scheduled Caste Converted to Christianity (SCC) Students in Government Colleges",
+    "name_ta": "கிறித்தவ மதத்திற்கு மாறிய ஆதிதிராவிடர் (SCC) மாணவர்களுக்கான அரசு கல்லூரி கல்விக்கட்டண சலுகை திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded higher education fee concession providing 100% tuition fee exemption to Scheduled Caste Converted to Christianity (SCC) students pursuing regular studies in Government Colleges, with no income limit constraints.",
+    "description_ta": "அரசு கல்லூரிகளில் உயர்கல்வி பயிலும் கிறித்தவ மதத்திற்கு மாறிய ஆதிதிராவிடர் (SCC) சமூக மாணவர்களுக்கு எவ்வித குடும்ப வருமான வரம்பும் இன்றி 100% கல்விக் கட்டண விலக்கு அளிக்கும் மாநில அரசுத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_converted_christians",
+        "scc_youth",
+        "undergraduates",
+        "postgraduates"
+      ],
+      "income_limit_annual": null,
+      "income_limit_exempt": true,
+      "caste_allowed": [
+        "Scheduled Caste Converted to Christianity",
+        "SCC"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "undergraduate",
+        "postgraduate",
+        "diploma",
+        "professional_courses"
+      ],
+      "institution_types_allowed": [
+        "government"
+      ],
+      "course_mode": "full_time_regular"
+    },
+    "benefits": {
+      "type": "institutional_tuition_fee_waiver",
+      "value": "100% Cashless Exemption from the standard course Tuition Fee component",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid SCC Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar level)",
+      "Class 10th (SSLC) and Class 12th (HSC) Final Public Marksheets",
+      "Government College Allotment Order or current year institutional Bonafide Certificate",
+      "Aadhaar Card",
+      "Aadhaar-seeded savings bank passbook copy"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/department/1",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "SCC Tuition Fee Concession Tamil Nadu",
+      "கிறித்தவ ஆதிதிராவிடர் கல்லூரி கட்டண விலக்கு"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_024",
+    "name_en": "Free Education Scheme for Professional Courses (BC Welfare)",
+    "name_ta": "பிற்படுத்தப்பட்டோர் (BC) தொழில்முறை கல்வி மாணவர்களுக்கான விலையில்லாக் கல்வித் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded professional education concession providing 100% tuition fee exemption to Backward Class (BC) students with an annual family income under ₹2.5 Lakhs who are first-generation graduates pursuing professional degrees in Government or Aided colleges.",
+    "description_ta": "அரசு மற்றும் அரசு உதவிபெறும் கல்லூரிகளில் பொறியியல், மருத்துவம் போன்ற தொழில்முறை படிப்புகளைப் பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட பிற்படுத்தப்பட்டோர் (BC) சமூக முதன்மைப் பட்டதாரி மாணவர்களுக்கான முழு கல்விக் கட்டண விலக்குத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "backward_classes",
+        "bc_youth",
+        "professional_students",
+        "first_generation_learners"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Backward Class",
+        "Backward Class Muslim",
+        "BC",
+        "BCM"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "undergraduate_professional",
+        "be",
+        "btech",
+        "mbbs",
+        "bds",
+        "bl",
+        "bsc_agri"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided"
+      ],
+      "course_mode": "full_time_regular",
+      "mandatory_conditional_flags": {
+        "first_generation_graduate": true
+      }
+    },
+    "benefits": {
+      "type": "institutional_tuition_fee_waiver",
+      "value": "100% Cashless Exemption from the standard government-fixed Tuition Fee component of the professional course",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid BC/BCM Community Certificate issued by a competent Tamil Nadu Revenue Official (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "First Graduate Certificate issued by the Revenue Department (if applicable)",
+      "Professional College Counseling Allotment Order / Admission Proof",
+      "Class 10th (SSLC) and Class 12th (HSC) Final Public Marksheets",
+      "Aadhaar Card"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "BC Free Education Professional Courses Tamil Nadu",
+      "பிற்படுத்தப்பட்டோர் நலத்துறை தொழில்முறை கல்வி கட்டண விலக்கு"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_025",
+    "name_en": "Free Education Scheme for Technical Diploma Courses (BC Welfare)",
+    "name_ta": "பிற்படுத்தப்பட்டோர் (BC) பட்டயப் படிப்பு (Diploma) மாணவர்களுக்கான விலையில்லாக் கல்வித் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded technical education concession providing 100% tuition fee exemption to Backward Class (BC) students with an annual family income under ₹2.5 Lakhs pursuing regular diploma courses in Government or Aided Polytechnic colleges.",
+    "description_ta": "அரசு மற்றும் அரசு உதவிபெறும் பாலிடெக்னிக் கல்லூரிகளில் 3 ஆண்டு பட்டயப் படிப்பு (Diploma) பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட பிற்படுத்தப்பட்டோர் (BC) சமூக மாணவர்களுக்கான முழு கல்விக் கட்டண விலக்குத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "backward_classes",
+        "bc_youth",
+        "diploma_students",
+        "polytechnic_enrollees"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Backward Class",
+        "Backward Class Muslim",
+        "BC",
+        "BCM"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "diploma",
+        "polytechnic"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided"
+      ],
+      "course_mode": "full_time_regular"
+    },
+    "benefits": {
+      "type": "institutional_tuition_fee_waiver",
+      "value": "100% Cashless Exemption from the standard polytechnic Tuition Fee component",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid BC/BCM Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "Polytechnic College Admission / Directorate of Technical Education (DoTE) Allotment Order",
+      "Class 10th (SSLC) / Class 12th (HSC) Marksheet and School Leaving Certificate",
+      "Aadhaar Card"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "BC Diploma Free Education Tamil Nadu",
+      "பிற்படுத்தப்பட்டோர் நலத்துறை டிப்ளமோ கட்டண விலக்கு"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_026",
+    "name_en": "Free Education Scheme for 3-Year Undergraduate Courses (BC Welfare)",
+    "name_ta": "பிற்படுத்தப்பட்டோர் (BC) 3 ஆண்டு இளங்கலை (UG) படிப்பு மாணவர்களுக்கான விலையில்லாக் கல்வித் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded higher education concession providing 100% tuition fee exemption to Backward Class (BC) students with an annual family income under ₹2.5 Lakhs pursuing regular 3-year undergraduate degrees in Government or Aided Arts & Science colleges.",
+    "description_ta": "அரசு மற்றும் அரசு உதவிபெறும் கலை, அறிவியல் கல்லூரிகளில் 3 ஆண்டு இளங்கலை (UG) பட்டப்படிப்பு பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட பிற்படுத்தப்பட்டோர் (BC) சமூக முதன்மைப் பட்டதாரி மாணவர்களுக்கான முழு கல்விக் கட்டண விலக்குத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "backward_classes",
+        "bc_youth",
+        "undergraduates",
+        "arts_and_science_students"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Backward Class",
+        "Backward Class Muslim",
+        "BC",
+        "BCM"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "undergraduate",
+        "3_year_ug",
+        "ba",
+        "bsc",
+        "bcom"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided"
+      ],
+      "course_mode": "full_time_regular",
+      "mandatory_conditional_flags": {
+        "first_generation_graduate": true
+      }
+    },
+    "benefits": {
+      "type": "institutional_tuition_fee_waiver",
+      "value": "100% Cashless Exemption from the standard arts and science Tuition Fee component",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid BC/BCM Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "First Graduate Certificate issued by the Revenue Department",
+      "College Admission Allotment Order / Bonafide Certificate",
+      "Class 10th (SSLC) and Class 12th (HSC) Final Public Marksheets",
+      "Aadhaar Card"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "BC UG Free Education Tamil Nadu",
+      "பிற்படுத்தப்பட்டோர் நலத்துறை கலை அறிவியல் கல்லூரி கட்டண விலக்கு"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_027",
+    "name_en": "Post-Matric Scholarship Scheme for Backward Classes (BC)",
+    "name_ta": "பிற்படுத்தப்பட்டோர் (BC) மாணவர்களுக்கான போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded post-matric scholarship providing tuition/special fee reimbursements and tiered monthly maintenance stipends to Backward Class (BC) students with family incomes under ₹2.5 Lakhs in Government and Aided institutions.",
+    "description_ta": "அரசு மற்றும் உதவிபெறும் கல்லூரிகளில் 11-ஆம் வகுப்பு முதல் உயர்கல்வி பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட பிற்படுத்தப்பட்டோர் (BC) சமூக மாணவர்களுக்கான கல்வி கட்டண மறுபக்கீடு மற்றும் மாதாந்திர பராமரிப்பு உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "backward_classes",
+        "bc_youth",
+        "post_matric_students",
+        "higher_education"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Backward Class",
+        "Backward Class Muslim",
+        "BC",
+        "BCM"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "class_11",
+        "class_12",
+        "diploma",
+        "undergraduate",
+        "postgraduate"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided"
+      ],
+      "course_mode": "full_time_regular"
+    },
+    "benefits": {
+      "type": "fee_reimbursement_and_dbt_maintenance_split",
+      "value": "Reimbursement of government-fixed compulsory fees + Variable annual maintenance allowance based on hosteller/day-scholar status",
+      "frequency": "annual_fee_reimbursement_with_monthly_maintenance_allowance"
+    },
+    "documents_required": [
+      "Valid BC/BCM Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "College Admission Allotment Order or current year institutional Bonafide Certificate",
+      "Class 10th (SSLC) / Class 12th (HSC) Public Exam Marksheets",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded savings bank passbook copy with verified NPCI mapping status"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "BC Post Matric Scholarship Tamil Nadu ssp",
+      "பிற்படுத்தப்பட்டோர் நலத்துறை போஸ்ட் மெட்ரிக் ஸ்காலர்ஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_028",
+    "name_en": "Free Education Scheme for Professional Courses in Private Self-Financing Colleges (BC Welfare)",
+    "name_ta": "சுயநிதி தனியார்ப் பள்ளிகள்/கல்லூரிகளில் தொழில்முறை கல்வி பயிலும் பிற்படுத்தப்பட்டோர் (BC) மாணவர்களுக்கான விலையில்லாக் கல்வித் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded professional education concession reimbursing government-fixed tuition fees for Backward Class (BC) students with an annual family income under ₹2.5 Lakhs who are first-generation graduates pursuing professional degrees under Government Quota in Private Self-Financing colleges.",
+    "description_ta": "தனியார் சுயநிதி கல்லூரிகளில் அரசு ஒதுக்கீட்டின் கீழ் (Government Quota) பொறியியல், மருத்துவம் போன்ற தொழில்முறை படிப்புகளைப் பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட பிற்படுத்தப்பட்டோர் (BC) சமூக முதன்மைப் பட்டதாரி மாணவர்களுக்கான கல்விக் கட்டண மறுபக்கீட்டுத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "backward_classes",
+        "bc_youth",
+        "professional_students",
+        "private_college_enrollees",
+        "first_generation_learners"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Backward Class",
+        "Backward Class Muslim",
+        "BC",
+        "BCM"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "undergraduate_professional",
+        "be",
+        "btech",
+        "mbbs",
+        "bds"
+      ],
+      "institution_types_allowed": [
+        "private_self_financing_colleges"
+      ],
+      "admission_quota_mandatory": "government_quota",
+      "course_mode": "full_time_regular",
+      "mandatory_conditional_flags": {
+        "first_generation_graduate": true
+      }
+    },
+    "benefits": {
+      "type": "private_institutional_fee_reimbursement",
+      "value": "Reimbursement of the tuition fee component up to the ceiling fixed by the State Fee Fixation Committee for Government Quota seats",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid BC/BCM Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "First Graduate Certificate along with joint family declaration signed by the Revenue Department",
+      "Centralized Counseling Seat Allotment Order (TNEA/DME/Centrin) confirming Government Quota placement",
+      "Class 10th (SSLC) and Class 12th (HSC) Final Public Marksheets",
+      "Aadhaar Card"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "BC Free Education Private Engineering Medical Tamil Nadu",
+      "பிற்படுத்தப்பட்டோர் நலத்துறை சுயநிதி கல்லூரி கட்டண விலக்கு"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_029",
+    "name_en": "Post-Matric Scholarship Scheme for Backward Classes (BC) in Private Self-Financing Colleges",
+    "name_ta": "தனியார் சுயநிதி கல்லூரிகளில் பயிலும் பிற்படுத்தப்பட்டோர் (BC) மாணவர்களுக்கான போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded post-matric scholarship providing government-rate tuition fee reimbursements and monthly boarding stipends to Backward Class (BC) students with family incomes under ₹2.5 Lakhs pursuing professional degrees under Government Quota in Private Self-Financing colleges.",
+    "description_ta": "தனியார் சுயநிதி கல்லூரிகளில் அரசு ஒதுக்கீட்டின் கீழ் (Government Quota) தொழில்முறை மற்றும் பட்டப்படிப்பு பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட பிற்படுத்தப்பட்டோர் (BC) சமூக மாணவர்களுக்கான அரசு கட்டண இணையான போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "backward_classes",
+        "bc_youth",
+        "private_college_students",
+        "government_quota_holders"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Backward Class",
+        "Backward Class Muslim",
+        "BC",
+        "BCM"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "diploma",
+        "undergraduate_professional",
+        "postgraduate",
+        "be",
+        "btech",
+        "mbbs"
+      ],
+      "institution_types_allowed": [
+        "private_self_financing_colleges"
+      ],
+      "admission_quota_mandatory": "government_quota",
+      "course_mode": "full_time_regular"
+    },
+    "benefits": {
+      "type": "private_fee_cap_and_dbt_maintenance_split",
+      "value": "Reimbursement of tuition/special fees capped at government institutional rates + Tiered hostel/day-scholar annual maintenance allowance",
+      "frequency": "annual_fee_reimbursement_with_monthly_maintenance_allowance"
+    },
+    "documents_required": [
+      "Valid BC/BCM Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "Centralized Single-Window Counseling Allotment Order confirming Government Quota admission",
+      "Class 10th (SSLC) and Class 12th (HSC) Public Exam Marksheets",
+      "College Bonafide Certificate including current registration and fee breakout profiles",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded savings bank passbook copy with active NPCI mapping"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "BC Post Matric Scholarship Private Colleges Tamil Nadu",
+      "பிற்படுத்தப்பட்டோர் நலத்துறை சுயநிதி கல்லூரி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_031",
+    "name_en": "Free Education Scheme for Professional Courses (MBC/DNC Welfare)",
+    "name_ta": "மிகப்பிற்படுத்தப்பட்டோர் (MBC) மற்றும் சீர்மரபினர் (DNC) தொழில்முறை கல்வி மாணவர்களுக்கான விலையில்லாக் கல்வித் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded professional education concession providing 100% tuition fee exemption to Most Backward Class (MBC) and Denotified Community (DNC) students with an annual family income under ₹2.5 Lakhs who are first-generation graduates pursuing professional degrees in Government or Aided colleges.",
+    "description_ta": "அரசு மற்றும் அரசு உதவிபெறும் கல்லூரிகளில் பொறியியல், மருத்துவம் போன்ற தொழில்முறை படிப்புகளைப் பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட மிகப்பிற்படுத்தப்பட்டோர் (MBC) மற்றும் சீர்மரபினர் (DNC) சமூக முதன்மைப் பட்டதாரி மாணவர்களுக்கான முழு கல்விக் கட்டண விலக்குத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "most_backward_classes",
+        "denotified_communities",
+        "mbc_youth",
+        "dnc_youth",
+        "professional_students",
+        "first_generation_learners"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Most Backward Class",
+        "Most Backward Class - Vanniyar",
+        "Denotified Community",
+        "MBC",
+        "DNC"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "undergraduate_professional",
+        "be",
+        "btech",
+        "mbbs",
+        "bds",
+        "bl",
+        "bsc_agri"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided"
+      ],
+      "course_mode": "full_time_regular",
+      "mandatory_conditional_flags": {
+        "first_generation_graduate": true
+      }
+    },
+    "benefits": {
+      "type": "institutional_tuition_fee_waiver",
+      "value": "100% Cashless Exemption from the standard government-fixed Tuition Fee component of the professional course",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid MBC/DNC Community Certificate issued by a competent Tamil Nadu Revenue Official (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "First Graduate Certificate along with joint family declaration signed by the Revenue Department",
+      "Professional College Counseling Allotment Order / Admission Proof (TNEA/DME)",
+      "Class 10th (SSLC) and Class 12th (HSC) Final Public Marksheets",
+      "Aadhaar Card"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "MBC Free Education Professional Courses Tamil Nadu",
+      "மிகப்பிற்படுத்தப்பட்டோர் நலத்துறை தொழில்முறை கல்வி கட்டண விலக்கு"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_032",
+    "name_en": "Post-Matric Scholarship Scheme for Most Backward Classes (MBC) and Denotified Communities (DNC) in Private Self-Financing Colleges",
+    "name_ta": "தனியாா் சுயநிதி கல்லூரிகளில் பயிலும் மிகப்பிற்படுத்தப்பட்டோா் (MBC) மற்றும் சீர்மரபினா் (DNC) மாணவர்களுக்கான போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded post-matric scholarship providing government-rate tuition fee reimbursements and monthly boarding stipends to Most Backward Class (MBC) and Denotified Community (DNC) students with family incomes under ₹2.5 Lakhs pursuing professional degrees under Government Quota in Private Self-Financing colleges.",
+    "description_ta": "தனியார் சுயநிதி கல்லூரிகளில் அரசு ஒதுக்கீட்டின் கீழ் (Government Quota) தொழில்முறை மற்றும் பட்டப்படிப்பு பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட மிகப்பிற்படுத்தப்பட்டோர் (MBC) மற்றும் சீர்மரபினர் (DNC) சமூக மாணவர்களுக்கான அரசு கட்டண இணையான போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "most_backward_classes",
+        "denotified_communities",
+        "mbc_youth",
+        "dnc_youth",
+        "private_college_students",
+        "government_quota_holders"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Most Backward Class",
+        "Most Backward Class - Vanniyar",
+        "Denotified Community",
+        "MBC",
+        "DNC"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "diploma",
+        "undergraduate_professional",
+        "postgraduate",
+        "be",
+        "btech",
+        "mbbs"
+      ],
+      "institution_types_allowed": [
+        "private_self_financing_colleges"
+      ],
+      "admission_quota_mandatory": "government_quota",
+      "course_mode": "full_time_regular"
+    },
+    "benefits": {
+      "type": "private_fee_cap_and_dbt_maintenance_split",
+      "value": "Reimbursement of tuition/special fees capped at government institutional rates + Tiered hostel/day-scholar annual maintenance allowance",
+      "frequency": "annual_fee_reimbursement_with_monthly_maintenance_allowance"
+    },
+    "documents_required": [
+      "Valid MBC/DNC Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar/Zonal Deputy Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "Centralized Single-Window Counseling Allotment Order confirming Government Quota admission (TNEA/DME/TLU)",
+      "Class 10th (SSLC) and Class 12th (HSC) Public Exam Marksheets",
+      "College Bonafide Certificate including current registration and fee breakout profiles",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded savings bank passbook copy with active NPCI mapping"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "MBC Post Matric Scholarship Private Colleges Tamil Nadu",
+      "மிகப்பிற்படுத்தப்பட்டோர் நலத்துறை சுயநிதி கல்லூரி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_033",
+    "name_en": "Free Education Scheme for Professional Courses in Private Self-Financing Colleges (MBC/DNC Welfare)",
+    "name_ta": "தனியார் சுயநிதி கல்லூரிகளில் தொழில்முறை கல்வி பயிலும் மிகப்பிற்படுத்தப்பட்டோர் (MBC) மற்றும் சீர்மரபினர் (DNC) மாணவர்களுக்கான விலையில்லாக் கல்வித் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded professional education concession reimbursing government-fixed tuition fees for Most Backward Class (MBC) and Denotified Community (DNC) students with an annual family income under ₹2.5 Lakhs who are first-generation graduates pursuing professional degrees under Government Quota in Private Self-Financing colleges.",
+    "description_ta": "தனியார் சுயநிதி கல்லூரிகளில் அரசு ஒதுக்கீட்டின் கீழ் (Government Quota) பொறியியல், மருத்துவம் போன்ற தொழில்முறை படிப்புகளைப் பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட மிகப்பிற்படுத்தப்பட்டோர் (MBC) மற்றும் சீர்மரபினர் (DNC) சமூக முதன்மைப் பட்டதாரி மாணவர்களுக்கான கல்விக் கட்டண மறுபக்கீட்டுத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "most_backward_classes",
+        "denotified_communities",
+        "mbc_youth",
+        "dnc_youth",
+        "professional_students",
+        "private_college_enrollees",
+        "first_generation_learners"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Most Backward Class",
+        "Most Backward Class - Vanniyar",
+        "Denotified Community",
+        "MBC",
+        "DNC"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "undergraduate_professional",
+        "be",
+        "btech",
+        "mbbs",
+        "bds"
+      ],
+      "institution_types_allowed": [
+        "private_self_financing_colleges"
+      ],
+      "admission_quota_mandatory": "government_quota",
+      "course_mode": "full_time_regular",
+      "mandatory_conditional_flags": {
+        "first_generation_graduate": true
+      }
+    },
+    "benefits": {
+      "type": "private_institutional_fee_reimbursement",
+      "value": "Reimbursement of the tuition fee component up to the ceiling fixed by the State Fee Fixation Committee for Government Quota seats",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid MBC/DNC Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar/Zonal Deputy Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "First Graduate Certificate along with joint family declaration signed by the Revenue Department",
+      "Centralized Single-Window Counseling Allotment Order (TNEA/DME) confirming Government Quota placement",
+      "Class 10th (SSLC) and Class 12th (HSC) Final Public Marksheets",
+      "Aadhaar Card"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "MBC Free Education Private Engineering Medical Tamil Nadu",
+      "மிகப்பிற்படுத்தப்பட்டோர் நலத்துறை சுயநிதி கல்லூரி கட்டண விலக்கு"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_034",
+    "name_en": "Post-Matric Scholarship Scheme for Most Backward Classes (MBC) and Denotified Communities (DNC)",
+    "name_ta": "மிகப்பிற்படுத்தப்பட்டோர் (MBC) மற்றும் சீர்மரபினர் (DNC) மாணவர்களுக்கான போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded post-matric scholarship providing tuition/special fee reimbursements and tiered monthly maintenance stipends to Most Backward Class (MBC) and Denotified Community (DNC) students with family incomes under ₹2.5 Lakhs in Government and Aided institutions.",
+    "description_ta": "அரசு மற்றும் உதவிபெறும் கல்லூரிகளில் 11-ஆம் வகுப்பு முதல் உயர்கல்வி பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட மிகப்பிற்படுத்தப்பட்டோர் (MBC) மற்றும் சீர்மரபினர் (DNC) சமூக மாணவர்களுக்கான கல்வி கட்டண மறுபக்கீடு மற்றும் மாதாந்திர பராமரிப்பு உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "most_backward_classes",
+        "denotified_communities",
+        "mbc_youth",
+        "dnc_youth",
+        "post_matric_students",
+        "higher_education"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Most Backward Class",
+        "Most Backward Class - Vanniyar",
+        "Denotified Community",
+        "MBC",
+        "DNC"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "class_11",
+        "class_12",
+        "diploma",
+        "undergraduate",
+        "postgraduate"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided"
+      ],
+      "course_mode": "full_time_regular"
+    },
+    "benefits": {
+      "type": "fee_reimbursement_and_dbt_maintenance_split",
+      "value": "Reimbursement of government-fixed compulsory fees + Variable annual maintenance allowance based on hosteller/day-scholar status",
+      "frequency": "annual_fee_reimbursement_with_monthly_maintenance_allowance"
+    },
+    "documents_required": [
+      "Valid MBC/DNC Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar/Zonal Deputy Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "College Admission Allotment Order or current year institutional Bonafide Certificate",
+      "Class 10th (SSLC) / Class 12th (HSC) Public Exam Marksheets",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded savings bank passbook copy with verified NPCI mapping status"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "MBC Post Matric Scholarship Tamil Nadu ssp",
+      "மிகப்பிற்படுத்தப்பட்டோர் நலத்துறை போஸ்ட் மெட்ரிக் ஸ்காலர்ஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_035",
+    "name_en": "Free Education Scheme for 3-Year Undergraduate Courses (MBC/DNC Welfare)",
+    "name_ta": "மிகப்பிற்படுத்தப்பட்டோர் (MBC) மற்றும் சீர்மரபினர் (DNC) 3 ஆண்டு இளங்கலை (UG) படிப்பு மாணவர்களுக்கான விலையில்லாக் கல்வித் திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded higher education concession providing 100% tuition fee exemption to Most Backward Class (MBC) and Denotified Community (DNC) students with an annual family income under ₹2.5 Lakhs pursuing regular 3-year undergraduate degrees in Government or Aided Arts & Science colleges.",
+    "description_ta": "அரசு மற்றும் அரசு உதவிபெறும் கலை, அறிவியல் கல்லூரிகளில் 3 ஆண்டு இளங்கலை (UG) பட்டப்படிப்பு பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட மிகப்பிற்படுத்தப்பட்டோர் (MBC) மற்றும் சீர்மரபினர் (DNC) சமூக முதன்மைப் பட்டதாரி மாணவர்களுக்கான முழு கல்விக் கட்டண விலக்குத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "most_backward_classes",
+        "denotified_communities",
+        "mbc_youth",
+        "dnc_youth",
+        "undergraduates",
+        "arts_and_science_students"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Most Backward Class",
+        "Most Backward Class - Vanniyar",
+        "Denotified Community",
+        "MBC",
+        "DNC"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "undergraduate",
+        "3_year_ug",
+        "ba",
+        "bsc",
+        "bcom"
+      ],
+      "institution_types_allowed": [
+        "government",
+        "government_aided"
+      ],
+      "course_mode": "full_time_regular",
+      "mandatory_conditional_flags": {
+        "first_generation_graduate": true
+      }
+    },
+    "benefits": {
+      "type": "institutional_tuition_fee_waiver",
+      "value": "100% Cashless Exemption from the standard arts and science Tuition Fee component",
+      "frequency": "continuous_per_semester"
+    },
+    "documents_required": [
+      "Valid MBC/DNC Community Certificate issued by an authorized Tamil Nadu Revenue Official (Tahsildar/Zonal Deputy Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "First Graduate Certificate along with joint family declaration signed by the Revenue Department",
+      "College Admission Allotment Order / Bonafide Certificate",
+      "Class 10th (SSLC) and Class 12th (HSC) Final Public Marksheets",
+      "Aadhaar Card"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/bcmbcw",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "MBC UG Free Education Tamil Nadu",
+      "மிகப்பிற்படுத்தப்பட்டோர் நலத்துறை கலை அறிவியல் கல்லூரி கட்டண விலக்கு"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_036",
+    "name_en": "Higher Education Special Scholarship for SCC Students (Hostel Support)",
+    "name_ta": "கிறித்தவ மதத்திற்கு மாறிய ஆதிதிராவிடர் (SCC) கல்லூரி மாணவர்களுக்கான உயர்கல்வி சிறப்பு உதவித்தொகை திட்டம்",
+    "type": "state_government",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "State-funded residential scholarship providing up to ₹8,000 annually to hosteller Scheduled Caste Converted to Christianity (SCC) students with family incomes under ₹2 Lakhs pursuing undergraduate, postgraduate, or professional higher education.",
+    "description_ta": "விடுதிகளில் தங்கி படிக்கும், ₹2 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட கிறித்தவ மதத்திற்கு மாறிய ஆதிதிராவிடர் (SCC) கல்லூரி மற்றும் தொழில்முறை கல்வி மாணவர்களின் தங்குமிடச் செலவுகளுக்காக ஆண்டுக்கு ₹8,000 வரை வழங்கப்படும் சிறப்பு கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_converted_christians",
+        "scc_youth",
+        "hostellers",
+        "undergraduates"
+      ],
+      "income_limit_annual": 200000,
+      "caste_allowed": [
+        "Scheduled Caste Converted to Christianity",
+        "SCC"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "housing_status_mandatory": "hosteller",
+      "education_level": [
+        "diploma",
+        "undergraduate",
+        "postgraduate",
+        "professional_courses"
+      ],
+      "course_mode": "full_time_regular"
+    },
+    "benefits": {
+      "type": "residential_lump_sum_grant",
+      "value": "UG & Diploma: ₹7,500 per annum | PG & Professional: ₹8,000 per annum",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Valid SCC Community Certificate issued by a competent Tamil Nadu Revenue Official (Tahsildar level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "College Bonafide Certificate showing current course enrollment",
+      "Official Hostel Warden Certificate or Institutional Hosteller Verification Form signed by the Principal",
+      "Aadhaar Card",
+      "Aadhaar-seeded savings bank passbook copy with active NPCI status"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://www.tn.gov.in/department/1",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "SCC Higher Education Special Scholarship Tamil Nadu ssp",
+      "கிறித்தவ ஆதிதிராவிடர் உயர்கல்வி சிறப்பு உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "TN_ST_SCH_037",
+    "name_en": "Government of India Post-Matric Scholarship for ST Students in Private Self-Financing Colleges",
+    "name_ta": "தனியார் சுயநிதி கல்லூரிகளில் பயிலும் பழங்குடியின (ST) மாணவர்களுக்கான இந்திய அரசு போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "centrally_sponsored_75_25",
+    "state": "Tamil Nadu",
+    "category": "scholarship",
+    "description_en": "Centrally sponsored post-matric scheme providing government-equivalent tuition fee reimbursements and monthly boarding allowances to ST students with family incomes under ₹2.5 Lakhs pursuing higher education under Government Quota in Private Self-Financing colleges.",
+    "description_ta": "தனியார் சுயநிதி கல்லூரிகளில் அரசு ஒதுக்கீட்டின் கீழ் (Government Quota) உயர்கல்வி பயிலும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட பழங்குடியின (ST) சமூக மாணவர்களுக்கான இந்திய அரசு போஸ்ட்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "scheduled_tribes",
+        "tribal_students",
+        "private_college_enrollees",
+        "government_quota_holders"
+      ],
+      "income_limit_annual": 250000,
+      "caste_allowed": [
+        "Scheduled Tribe"
+      ],
+      "gender": "all",
+      "state_resident": "Tamil Nadu",
+      "education_level": [
+        "diploma",
+        "undergraduate",
+        "postgraduate",
+        "professional_courses"
+      ],
+      "institution_types_allowed": [
+        "private_self_financing_colleges"
+      ],
+      "admission_quota_mandatory": "government_quota",
+      "course_mode": "full_time_regular"
+    },
+    "benefits": {
+      "type": "private_fee_cap_and_dbt_maintenance_split",
+      "value": "Reimbursement of tuition fees capped at State Fee Fixation Committee government-quota rates + Tiered hostel/day-scholar annual maintenance allowance via DBT",
+      "frequency": "annual_fee_reimbursement_with_monthly_maintenance_allowance"
+    },
+    "documents_required": [
+      "Valid ST Community Certificate issued by a competent Revenue Authority (RDO / Sub-Collector level)",
+      "Income Certificate issued by Tehsildar (Current financial year validity)",
+      "Centralized Single-Window Counseling Allotment Order confirming Government Quota placement",
+      "Class 10th (SSLC) and Class 12th (HSC) Final Public Marksheets",
+      "College Bonafide Certificate with full registration and fee breakout data",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded savings bank passbook copy with verified NPCI mapping status"
+    ],
+    "apply_url": "https://ssp.tn.gov.in",
+    "official_source": "https://tribal.nic.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "ST Private College Post Matric Scholarship Tamil Nadu",
+      "பழங்குடியின நலத்துறை போஸ்ட் மெட்ரிக் ஸ்காலர்ஷிப்"
+    ]
+  }
+]

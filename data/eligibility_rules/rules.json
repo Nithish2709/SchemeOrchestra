@@ -1,0 +1,87 @@
+{
+  "TN_SCH_001": {
+    "school_type": ["government"],
+    "class_range": [1, 5],
+    "state_resident": true
+  },
+  "TN_SCH_002": {
+    "school_type": ["government_college"],
+    "education_level": ["college"],
+    "state_resident": true
+  },
+  "TN_SCH_003": {
+    "income_limit_annual": 200000,
+    "education_level": ["college"],
+    "first_graduate": true,
+    "state_resident": true
+  },
+  "TN_SCH_004": {
+    "school_type": ["government"],
+    "class_range": [1, 12],
+    "state_resident": true
+  },
+  "TN_SCH_005": {
+    "caste": ["BC", "MBC"],
+    "income_limit_annual": 200000,
+    "class_range": [6, 12],
+    "education_level": ["school"],
+    "state_resident": true
+  },
+  "TN_SCH_006": {
+    "caste": ["SC", "ST"],
+    "income_limit_annual": 250000,
+    "state_resident": true
+  },
+  "TN_SCH_007": {
+    "gender": "female",
+    "age_min": 18,
+    "age_max": 40,
+    "income_limit_annual": 250000,
+    "education_level": ["college"],
+    "state_resident": true
+  },
+  "TN_SCH_008": {
+    "caste": ["BC", "MBC", "SC", "ST"],
+    "income_limit_annual": 250000,
+    "education_level": ["graduate", "postgraduate"],
+    "state_resident": true
+  },
+  "TN_SCH_009": {
+    "caste": ["minority"],
+    "income_limit_annual": 200000,
+    "state_resident": true
+  },
+  "TN_SCH_010": {
+    "caste": ["SC", "ST"],
+    "income_limit_annual": 250000,
+    "education_level": ["college", "graduate"],
+    "state_resident": true
+  },
+  "CN_SCH_001": {
+    "parent_ex_serviceman": true,
+    "education_level": ["college"],
+    "state_resident": true
+  },
+  "CN_SCH_002": {
+    "income_limit_annual": 150000,
+    "education_level": ["school"],
+    "class_range": [9, 12],
+    "state_resident": true
+  },
+  "CN_SCH_003": {
+    "caste": ["OBC", "EBC", "DNT"],
+    "income_limit_annual": 250000,
+    "state_resident": true
+  },
+  "CN_SCH_004": {
+    "caste": ["SC"],
+    "income_limit_annual": 250000,
+    "education_level": ["college", "graduate", "postgraduate"],
+    "state_resident": true
+  },
+  "CN_SCH_005": {
+    "age_min": 15,
+    "age_max": 45,
+    "state_resident": true
+  }
+}

@@ -1,0 +1,3751 @@
+[
+  {
+    "scheme_id": "CN_SCH_001",
+    "name_en": "PM Scholarship Scheme (PMSS)",
+    "name_ta": "பிரதமர் உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Scholarship for children and widows of ex-servicemen for professional courses.",
+    "description_ta": "முன்னாள் இராணுவ வீரர்களின் பிள்ளைகளுக்கான உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "parent_ex_serviceman": true,
+      "education_level": [
+        "college"
+      ]
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹2,500 - ₹3,000 per month",
+      "frequency": "monthly"
+    },
+    "documents_required": [
+      "Ex-serviceman certificate",
+      "Aadhaar card",
+      "College ID"
+    ],
+    "apply_url": "https://ksb.gov.in/pmss.htm",
+    "official_source": "https://ksb.gov.in/pmss.htm",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "PM Scholarship Scheme Tamil",
+      "பிரதமர் உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_002",
+    "name_en": "National Means-cum-Merit Scholarship (NMMSS)",
+    "name_ta": "தேசிய வழிமுறை-தகுதி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Scholarship for meritorious students of economically weaker sections to avoid dropout at class 8.",
+    "description_ta": "வறுமை நிலையில் உள்ள திறமையான மாணவர்களுக்கான தேசிய உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "school_type": [
+        "government",
+        "aided"
+      ],
+      "class_range": [
+        "9",
+        "12"
+      ],
+      "income_limit_annual": 150000,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "school"
+      ]
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹12,000 per year",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Income certificate",
+      "Aadhaar card",
+      "Class 8 mark sheet"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://scholarships.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "NMMS Scholarship Tamil Nadu",
+      "என்எம்எம்எஸ் உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_003",
+    "name_en": "PM YASASVI Scholarship",
+    "name_ta": "பிரதமர் யசஸ்வி உதவித்தொகை",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Scholarship for OBC, EBC and DNT students for school and college education.",
+    "description_ta": "ஓபிசி, ஈபிசி மற்றும் டிஎன்டி மாணவர்களுக்கான பிரதமர் யசஸ்வி உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "income_limit_annual": 250000,
+      "caste": [
+        "OBC",
+        "EBC",
+        "DNT"
+      ],
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "school",
+        "college"
+      ]
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹75,000 - ₹125,000 per year",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "OBC/EBC/DNT certificate",
+      "Income certificate",
+      "Aadhaar card"
+    ],
+    "apply_url": "https://yet.nta.ac.in",
+    "official_source": "https://yet.nta.ac.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "PM YASASVI Scholarship Tamil",
+      "யசஸ்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_004",
+    "name_en": "Post-Matric Scholarship for SC Students (Central)",
+    "name_ta": "மேல்நிலைக்கு பிந்தைய தாழ்த்தப்பட்டோர் உதவித்தொகை",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Central government scholarship for SC students studying post-matriculation courses.",
+    "description_ta": "மேல்நிலைக்கு பிந்தைய படிப்பு படிக்கும் தாழ்த்தப்பட்டோர் மாணவர்களுக்கான மத்திய உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "students"
+      ],
+      "income_limit_annual": 250000,
+      "caste": [
+        "SC"
+      ],
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "college",
+        "graduate",
+        "postgraduate"
+      ]
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "Tuition fees + maintenance allowance",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Community certificate",
+      "Income certificate",
+      "Aadhaar card",
+      "Previous marksheet"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://scholarships.gov.in",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "Post Matric SC Scholarship Tamil Nadu",
+      "மேல்நிலை தாழ்த்தப்பட்டோர் உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_005",
+    "name_en": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "name_ta": "பிரதான் மந்திரி கௌஷல் விகாஸ் யோஜனா",
+    "type": "central",
+    "category": "skill_development",
+    "description_en": "Free skill development training and certification for youth.",
+    "description_ta": "இளைஞர்களுக்கு இலவச திறன் மேம்பாட்டு பயிற்சி மற்றும் சான்றிதழ்.",
+    "eligibility": {
+      "target_group": [
+        "students",
+        "youth"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_min": 15,
+      "age_max": 45
+    },
+    "benefits": {
+      "type": "in-kind",
+      "value": "Free skill training + ₹8,000 reward",
+      "frequency": "once"
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details"
+    ],
+    "apply_url": "https://www.pmkvyofficial.org",
+    "official_source": "https://www.pmkvyofficial.org",
+    "last_updated": "2025-01-01",
+    "active": true,
+    "youtube_keywords": [
+      "PMKVY Tamil Nadu",
+      "பிரதான் மந்திரி கௌஷல் விகாஸ்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_006",
+    "name_en": "Skill Loan Scheme",
+    "name_ta": "திறன் மேம்பாட்டுக் கடன் திட்டம்",
+    "type": "central",
+    "category": "skill_development",
+    "description_en": "Institutional credit for individuals to take up skill development courses aligned with NSQF at ITIs, Polytechnics, or NSDC-linked centers.",
+    "description_ta": "ஐடிஐ, பாலிடெக்னிக் அல்லது திறன் மேம்பாட்டு மையங்களில் படிப்பைத் தொடர பிணையில்லா கல்விக்கடன் வழங்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "students",
+        "youth"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "school",
+        "college",
+        "vocational"
+      ],
+      "institutions": [
+        "ITI",
+        "Polytechnic",
+        "NSDC_partner"
+      ]
+    },
+    "benefits": {
+      "type": "loan",
+      "value": "₹5,000 to ₹7,50,000",
+      "collateral_required": false,
+      "repayment_tenure_years": "3 to 7 years"
+    },
+    "documents_required": [
+      "Proof of admission",
+      "Fee schedule structure",
+      "Aadhaar card",
+      "PAN card",
+      "Previous marksheet"
+    ],
+    "apply_url": "https://www.myscheme.gov.in/schemes/sl",
+    "official_source": "https://www.msde.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Skill Loan Scheme Tamil",
+      "திறன் மேம்பாட்டு கடன்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_007",
+    "name_en": "PMKVY - Short Term Training (STT)",
+    "name_ta": "பிரதான் மந்திரி குறுகிய கால திறன் பயிற்சித் திட்டம்",
+    "type": "central",
+    "category": "skill_development",
+    "description_en": "Free industry-linked skill training, certification, and placement support for unemployed youth and school/college dropouts.",
+    "description_ta": "வேலையற்ற இளைஞர்கள் மற்றும் பள்ளி/கல்லூரி படிப்பை பாதியில் நிறுத்தியவர்களுக்கான இலவச திறன் பயிற்சி மற்றும் வேலைவாய்ப்பு திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "unemployed",
+        "dropouts",
+        "youth"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_min": 15,
+      "age_max": 45,
+      "education_level": [
+        "school",
+        "college",
+        "none"
+      ]
+    },
+    "benefits": {
+      "type": "in-kind",
+      "value": "100% Free Training + Government Certification + Placement Support + ₹2 Lakh Accidental Insurance",
+      "frequency": "once"
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Educational certificates / marksheets",
+      "Passport size photo",
+      "Aadhaar-linked bank details"
+    ],
+    "apply_url": "https://www.skillindiadigital.gov.in",
+    "official_source": "https://www.pmkvyofficial.org",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "PMKVY Short Term Training Tamil",
+      "இலவச திறன் மேம்பாட்டு பயிற்சி"
+    ]
+  },
+  {
+    "scheme_id": "CN_AWD_001",
+    "name_en": "National Award for Excellence in Vocational Training & Entrepreneurship Development",
+    "name_ta": "தொழிற்கல்வி மற்றும் தொழில்முனைவோர் மேம்பாட்டு சிறந்த ஆசிரியர்களுக்கான தேசிய விருது",
+    "type": "central",
+    "category": "award",
+    "description_en": "National honor and cash prize presented to outstanding vocational trainers, ITI instructors, and entrepreneurship faculty for meritorious performance.",
+    "description_ta": "சிறந்த ஐடிஐ ஆசிரியர்கள் மற்றும் தொழில்முனைவோர் பயிற்சி அளிப்பவர்களுக்கு வழங்கப்படும் தேசிய அளவிலான விருது மற்றும் ரொக்கப்பரிசு.",
+    "eligibility": {
+      "target_group": [
+        "trainers",
+        "faculty",
+        "educators"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_max": 55,
+      "min_experience_years": 5,
+      "institution_types": [
+        "ITI",
+        "Polytechnic",
+        "NSTI",
+        "IToT",
+        "UGC_AICTE_recognized"
+      ]
+    },
+    "benefits": {
+      "type": "award",
+      "value": "₹50,000 cash prize + Commemorative Silver Medal + Certificate of Merit",
+      "frequency": "once"
+    },
+    "documents_required": [
+      "Service record certificate",
+      "Proof of 5 years full-time experience",
+      "Portfolio of innovative training tools/materials",
+      "Vigilance clearance & Integrity certificate"
+    ],
+    "apply_url": "https://www.awards.gov.in",
+    "official_source": "https://dgt.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "National Award to Teachers MSDE Tamil",
+      "தொழிற்கல்வி ஆசிரியர் தேசிய விருது"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_008",
+    "name_en": "Craftsmen Training Scheme (CTS)",
+    "name_ta": "கைவினைஞர் பயிற்சித் திட்டம் (ஐடிஐ பயிற்சி)",
+    "type": "central",
+    "category": "skill_development",
+    "description_en": "Structured regular engineering and non-engineering vocational trade courses via ITIs and NSTIs nationwide, culminating in an NCVT National Trade Certificate.",
+    "description_ta": "நாடு முழுவதும் உள்ள ஐடிஐ-கள் மூலம் வழங்கப்படும் என்சிவிடி (NCVT) சான்றிதழுடன் கூடிய நீண்ட கால தொழிற்கல்வி மற்றும் தொழில்நுட்ப பயிற்சித் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "students",
+        "youth",
+        "unemployed"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_min": 14,
+      "age_max": null,
+      "education_level": [
+        "8th_pass",
+        "10th_pass",
+        "12th_pass"
+      ]
+    },
+    "benefits": {
+      "type": "vocational_training",
+      "value": "70% Practical Oriented Industry Training + NCVT National Trade Certificate + Lateral Entry to Diploma",
+      "frequency": "course_duration"
+    },
+    "documents_required": [
+      "School Leaving Certificate / Marksheet (8th/10th/12th)",
+      "Aadhaar card",
+      "Community certificate (for reservation seats)",
+      "Medical fitness certificate"
+    ],
+    "apply_url": "https://ncvtmis.gov.in",
+    "official_source": "https://dgt.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Craftsmen Training Scheme ITI Tamil",
+      "ஐடிஐ அட்மிஷன் எவ்வாறு"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_009",
+    "name_en": "PMKVY - Recognition of Prior Learning (RPL)",
+    "name_ta": "முன்திறன் அங்கீகாரத் திட்டம் (RPL சான்றிதழ்)",
+    "type": "central",
+    "category": "skill_development",
+    "description_en": "Government certification, evaluation, and cash rewards for individuals with existing informal work skills to align them with national NSQF standards without long-term training.",
+    "description_ta": "ஏற்கனவே வேலை அனுபவம் உள்ள தொழிலாளர்களின் திறனைப் பரிசோதித்து, அவர்களுக்கு மத்திய அரசின் அதிகாரப்பூர்வ சான்றிதழ் மற்றும் ஊக்கத்தொகை வழங்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "experienced_workers",
+        "informal_sector",
+        "skilled_youth"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_min": 18,
+      "age_max": 45,
+      "education_level": [
+        "none",
+        "school",
+        "college"
+      ],
+      "required_experience": true
+    },
+    "benefits": {
+      "type": "certification_and_reward",
+      "value": "₹500 Direct Cash Reward + National Skill Certificate + 3-Year Free ₹2 Lakh Accidental Insurance + RPL Kit",
+      "frequency": "once"
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Aadhaar-linked bank account details",
+      "Proof/Declaration of prior work experience",
+      "Passport size photo"
+    ],
+    "apply_url": "https://www.skillindiadigital.gov.in",
+    "official_source": "https://www.pmkvyofficial.org",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "PMKVY RPL Certification Tamil",
+      "முன்திறன் அங்கீகாரத் திட்டம்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_010",
+    "name_en": "Advanced Vocational Training Scheme (AVTS)",
+    "name_ta": "மேம்பட்ட தொழிற்பயிற்சி திட்டம் (AVTS)",
+    "type": "central",
+    "category": "skill_development",
+    "description_en": "Short-term high-tech modular training (1 to 6 weeks) at NSTIs targeting skill upgradation for engineers, industrial workers, and advanced technical students.",
+    "description_ta": "தொழில்நுட்ப வல்லுநர்கள் மற்றும் பொறியியல் மாணவர்களுக்கான 1 முதல் 6 வார கால அதிநவீன தொழில்நுட்ப மேம்பாட்டுப் பயிற்சித் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "industrial_workers",
+        "technicians",
+        "engineers",
+        "students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "ITI",
+        "diploma",
+        "graduate"
+      ],
+      "institutions": [
+        "NSTI"
+      ]
+    },
+    "benefits": {
+      "type": "skill_upgradation",
+      "value": "1-6 Weeks Industry-Linked Modular Training + Certified Advanced Technical Skill Badges",
+      "frequency": "course_duration"
+    },
+    "documents_required": [
+      "Educational Certificate (ITI/Diploma/Degree) or ongoing student ID",
+      "Aadhaar card",
+      "Relieving or sponsorship letter from employer (if applicable)",
+      "Passport size photograph"
+    ],
+    "apply_url": "https://www.myscheme.gov.in/schemes/avts",
+    "official_source": "https://dgt.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Advanced Vocational Training Scheme Tamil",
+      "NSTI Short Term Courses"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_011",
+    "name_en": "National Apprenticeship Promotion Scheme-2 (NAPS-2)",
+    "name_ta": "தேசிய தொழில்பழகுநர் ஊக்குவிப்புத் திட்டம்-2 (NAPS-2)",
+    "type": "central",
+    "category": "skill_development",
+    "description_en": "Revamped apprenticeship cost-sharing program where the central government transfers 25% of the monthly stipend (up to ₹1,500) directly to youth via DBT.",
+    "description_ta": "மத்திய அரசின் 25% நேரடி உதவித்தொகை (அதிகபட்சம் ₹1,500) பங்களிப்புடன் நிறுவனங்களில் பணிசார்ந்த பயிற்சி பெறும் தேசிய தொழில்பழகுநர் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "students",
+        "ITI_graduates",
+        "diploma_holders",
+        "graduates",
+        "fresher_youth"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_min": 14,
+      "age_max": 35,
+      "education_level": [
+        "school",
+        "ITI",
+        "diploma",
+        "graduate"
+      ]
+    },
+    "benefits": {
+      "type": "financial_stipend",
+      "value": "25% of prescribed stipend up to ₹1,500 per month via DBT",
+      "frequency": "monthly"
+    },
+    "documents_required": [
+      "Aadhaar card with completed e-KYC",
+      "Aadhaar-linked bank account",
+      "Educational qualification certificate / ITI marksheet",
+      "Active apprenticeship contract copy"
+    ],
+    "apply_url": "https://www.apprenticeshipindia.gov.in",
+    "official_source": "https://www.msde.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "NAPS 2.0 Apprenticeship Tamil",
+      "மத்திய அரசு உதவித்தொகை நப்ஸ்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_012",
+    "name_en": "PMKVY - Special Projects",
+    "name_ta": "பிரதான் மந்திரி சிறப்புத் திறன் பயிற்சித் திட்டம்",
+    "type": "central",
+    "category": "skill_development",
+    "description_en": "Flexible, custom skill development training designed for marginalized populations, special geographies, or unique job roles that deviate from standard PMKVY rules.",
+    "description_ta": "வழக்கமான விதிகளில் இருந்து விலக்கு அளிக்கப்பட்டு, நலிவடைந்த பிரிவினர் மற்றும் பழங்குடியின மக்களுக்காக பிரத்யேகமாக நடத்தப்படும் சிறப்பு திறன் பயிற்சி திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "marginalized",
+        "vulnerable_groups",
+        "disabled",
+        "transgender",
+        "tribal",
+        "inmates"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_min": 15,
+      "age_max": 45,
+      "education_level": [
+        "none",
+        "school",
+        "college"
+      ]
+    },
+    "benefits": {
+      "type": "in-kind",
+      "value": "100% Free Tailored Training + Residential/Conveyance Allowance + Government Certification + Direct Livelihood Linkage",
+      "frequency": "course_duration"
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Special category/vulnerability declaration or certificate",
+      "Passport size photo"
+    ],
+    "apply_url": "https://www.skillindiadigital.gov.in",
+    "official_source": "https://www.pmkvyofficial.org",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "PMKVY Special Projects Tamil",
+      "சிறப்பு திறன் மேம்பாட்டு திட்டம்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_013",
+    "name_en": "PM SETU - Component II (NSTI Capacity Augmentation)",
+    "name_ta": "பிரதமரின் சேது திட்டம் - கூறு II (தேசிய திறன்சார் சிறந்த மையங்கள்)",
+    "type": "centrally_sponsored",
+    "category": "skill_development",
+    "description_en": "Upgradation of 5 select NSTIs into premier National Centres of Excellence for advanced training of 50,000 vocational instructors through global partnerships.",
+    "description_ta": "தொழிற்கல்வி ஆசிரியர்களின் திறனை மேம்படுத்த சென்னை உட்பட 5 தேசிய திறன் பயிற்சி நிறுவனங்களை (NSTI) சர்வதேச தரத்திலான சிறந்த மையங்களாக மாற்றும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "ITI_instructors",
+        "vocational_trainers",
+        "ITI_principals",
+        "technical_students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "10th_pass",
+        "ITI",
+        "diploma",
+        "graduate"
+      ],
+      "eligible_locations": [
+        "Chennai",
+        "Bhubaneswar",
+        "Hyderabad",
+        "Kanpur",
+        "Ludhiana"
+      ]
+    },
+    "benefits": {
+      "type": "institutional_upgradation_and_training",
+      "value": "Advanced In-service/Pre-service ToT Certification + Global Partner Curriculum Exposure + Access to Modern Labs & Maker Spaces",
+      "frequency": "course_duration"
+    },
+    "documents_required": [
+      "Instructor service profile / Employee ID",
+      "Educational background marksheet (10th/ITI/Diploma/BE)",
+      "Nomination or sponsorship letter from sponsoring ITI/Directorate"
+    ],
+    "apply_url": "https://pm-setu.skillindiadigital.gov.in",
+    "official_source": "https://dgt.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "PM SETU Component II Tamil",
+      "NSTI Centre of Excellence Skilling"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_014",
+    "name_en": "Flexible Memorandum of Understanding (Flexi-MoU) Scheme",
+    "name_ta": "நெகிழ்வுத்தன்மை புரிந்துணர்வு ஒப்பந்தத் திட்டம் (Flexi-MoU)",
+    "type": "central",
+    "category": "skill_development",
+    "description_en": "Customized, industry-driven training partnerships allowing large companies to design custom curricula and train youth on their active factory floors with guaranteed employment.",
+    "description_ta": "தொழிற்சாலைகளின் தேவைக்கேற்ப மாணவர்களுக்கு பிரத்யேக பயிற்சி அளித்து வேலைவாய்ப்பை உறுதி செய்ய நிறுவனங்கள் நேரடியாக மத்திய அரசுடன் மேற்கொள்ளும் புரிந்துணர்வு ஒப்பந்தத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "students",
+        "youth",
+        "job_seekers"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_min": 14,
+      "age_max": null,
+      "education_level": [
+        "school",
+        "ITI",
+        "diploma",
+        "flexible"
+      ]
+    },
+    "benefits": {
+      "type": "industry_integrated_training",
+      "value": "70% On-the-Job Factory Training + Potential Monthly Stipend + NCVT Flexi-NTC Certification + Minimum 50% Placement Guarantee",
+      "frequency": "course_duration"
+    },
+    "documents_required": [
+      "Educational baseline marksheet/certificate",
+      "Aadhaar card",
+      "Medical fitness certificate",
+      "Signed training-cum-employment declaration form"
+    ],
+    "apply_url": "https://ncvtmis.gov.in",
+    "official_source": "https://dgt.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Flexi MoU Scheme DGT Tamil",
+      "தொழிற்சாலை நேரடி பயிற்சி அரசு சான்றிதழ்"
+    ]
+  },
+  {
+    "scheme_id": "CN_FEL_001",
+    "name_en": "National Solar Science Fellowship Programme",
+    "name_ta": "தேசிய சூரியசக்தி அறிவியல் உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "fellowship",
+    "description_en": "Elite research fellowship providing up to ₹34.4 Lakhs annually (including a ₹1.2 Lakh monthly stipend) to top scientists conducting frontier solar energy R&D.",
+    "description_ta": "சூரியசக்தி துறையில் அதிநவீன ஆராய்ச்சிகளை மேற்கொள்ளும் சிறந்த விஞ்ஞானிகளுக்கு மாதந்தோறும் ₹1.2 லட்சம் உதவித்தொகை மற்றும் ஆராய்ச்சி நிதி வழங்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "scientists",
+        "researchers",
+        "engineers"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_min": null,
+      "age_max": null,
+      "education_level": [
+        "PhD",
+        "post_doctoral",
+        "special_mtech"
+      ],
+      "min_experience_years": 10,
+      "max_active_slots": 5
+    },
+    "benefits": {
+      "type": "fellowship_grant",
+      "value": "₹1.2 Lakh/month stipend + ₹15 Lakh/year Research Grant + ₹5 Lakh/year Contingency",
+      "frequency": "annual",
+      "max_duration_years": 5
+    },
+    "documents_required": [
+      "Comprehensive R&D project proposal",
+      "Curriculum Vitae (CV) with complete publication list",
+      "Doctorate/Ph.D degree certificate",
+      "Proof of 10 years R&D experience",
+      "Aadhaar card",
+      "Endorsement letter from host institution"
+    ],
+    "apply_url": "https://hrd.mnre.gov.in",
+    "official_source": "https://mnre.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "National Solar Science Fellowship",
+      "MNRE Research Grants India"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_015",
+    "name_en": "Post-Graduate Scholarships for Professional Courses for SC/ST Candidates",
+    "name_ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியின மாணவர்களுக்கான முதுகலை தொழில்முறை படிப்பு உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Centrally funded higher education scholarship providing monthly stipends up to ₹7,800 for 1,000 SC/ST students pursuing professional master's degrees on a regular basis.",
+    "description_ta": "முதுகலை தொழில்முறை படிப்புகள் (M.Tech, MBA, M.Pharm) படிக்கும் எஸ்சி/எஸ்டி மாணவர்களுக்கு மாதந்தோறும் ₹7,800 வரை நிதியுதவி வழங்கும் மத்திய அரசின் உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "students",
+        "post_graduates"
+      ],
+      "income_limit_annual": null,
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "gender": "all",
+      "state_resident": true,
+      "age_max_male": 45,
+      "age_max_female": 50,
+      "education_level": [
+        "postgraduate_1st_year"
+      ],
+      "course_mode": "full_time",
+      "max_national_slots": 1000
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹7,800/month for M.E/M.Tech | ₹4,500/month for other professional PG courses",
+      "frequency": "monthly"
+    },
+    "documents_required": [
+      "Caste / Community certificate",
+      "Graduation degree certificate & marksheet",
+      "Proof of regular 1st year PG admission",
+      "Aadhaar card",
+      "Passport size photograph"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.ugc.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "UGC SC ST PG Scholarship Tamil",
+      "முதுகலை தொழில்முறை படிப்பு உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_016",
+    "name_en": "PM-USP Central Sector Scholarship for College and University Students",
+    "name_ta": "கல்லூரி மற்றும் பல்கலைக்கழக மாணவர்களுக்கான பிரதமரின் உயர்கல்வி ஊக்குவிப்பு உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Merit-cum-means scholarship providing up to ₹20,000 annually to students who scored above the 80th percentile in Class 12 and have a family income under ₹4.5 Lakhs.",
+    "description_ta": "12ஆம் வகுப்பு பொதுத்தேர்வில் 80% மதிப்பெண்களுக்கு மேல் பெற்று, குடும்ப வருமானம் ₹4.5 லட்சத்திற்குள் இருக்கும் கல்லூரி மாணவர்களுக்கு ஆண்டுக்கு ₹20,000 வரை வழங்கும் மத்திய அரசு உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "meritorious_students",
+        "undergraduates",
+        "postgraduates"
+      ],
+      "income_limit_annual": 450000,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "college_undergraduate",
+        "college_postgraduate"
+      ],
+      "course_mode": "full_time",
+      "required_percentile_class12": 80,
+      "max_national_slots": 82000
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹12,000 per year for first 3 years of UG | ₹20,000 per year for 4th & 5th year (PG/Professional)",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Class 12th final marksheet",
+      "Income certificate issued by competent authority",
+      "Aadhaar card",
+      "College admission fee receipt / Bonafide certificate",
+      "Aadhaar-linked bank account passbook copy"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.education.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "PM USP Central Sector Scholarship Tamil",
+      "கல்லூரி மத்திய அரசு உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_017",
+    "name_en": "Free Education For Sports Medal Winners / Participants Of National/ International Events",
+    "name_ta": "தேசிய/சர்வதேச விளையாட்டுப் போட்டிகளில் வென்றவர்களுக்கான இலவச உயர்கல்வித் திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Complete fee waiver and monthly allowance up to ₹5,000 for 100 elite national/international sports achievers pursuing regular higher education.",
+    "description_ta": "தேசிய அல்லது சர்வதேச போட்டிகளில் பதக்கம் வென்ற 100 சிறந்த விளையாட்டு வீரர்களுக்கு கல்லூரிப் படிப்பு முழுவதும் இலவசம் மற்றும் மாதாந்திர உதவித்தொகை வழங்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sports_achievers",
+        "athletes",
+        "undergraduates",
+        "postgraduates"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "college_undergraduate",
+        "college_postgraduate"
+      ],
+      "course_mode": "full_time",
+      "sports_achievement_levels": [
+        "international_participant",
+        "national_medal_winner",
+        "inter_university_podium"
+      ],
+      "max_national_slots": 100
+    },
+    "benefits": {
+      "type": "full_financial_waiver",
+      "value": "100% Tuition Fee Waiver + ₹3,000/month pocket allowance + ₹2,000/month hostel allowance",
+      "frequency": "monthly"
+    },
+    "documents_required": [
+      "Official Sports Merit Certificate (issued by IOA/NSF/AIU)",
+      "Proof of full-time college admission",
+      "Aadhaar card",
+      "Aadhaar-linked bank details",
+      "Passport size photograph"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.ugc.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "UGC Sports Scholarship Tamil",
+      "விளையாட்டு வீரர்கள் இலவச கல்வி"
+    ]
+  },
+  {
+    "scheme_id": "CN_INT_001",
+    "name_en": "NITI Internship Scheme",
+    "name_ta": "நிதி ஆயோக் பயிற்சித் திட்டம்",
+    "type": "central",
+    "category": "internship",
+    "description_en": "Unpaid professional internship at NITI Aayog for elite UG, PG, and PhD students with strict grade cutoffs (85% in 12th for UG), lasting between 6 weeks to 6 months.",
+    "description_ta": "நிதி ஆயோக் அமைப்பில் கொள்கை உருவாக்கம் மற்றும் தரவு பகுப்பாய்வு சார்ந்த பணிகளை கற்க மாணவர்களுக்கான கட்டணமில்லா அரசு பயிற்சித் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "students",
+        "undergraduates",
+        "postgraduates",
+        "research_scholars",
+        "recent_graduates"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "college_undergraduate_3rd_year",
+        "college_postgraduate",
+        "PhD"
+      ],
+      "min_ug_eligibility_class12_percentage": 85,
+      "min_pg_eligibility_ug_percentage": 70,
+      "min_phd_eligibility_pg_percentage": 65,
+      "max_post_graduation_months": 6
+    },
+    "benefits": {
+      "type": "professional_exposure_and_certification",
+      "value": "Direct policy exposure under Government of India advisers + Official NITI Aayog Internship Certificate",
+      "frequency": "once",
+      "min_duration_weeks": 6,
+      "max_duration_months": 6
+    },
+    "documents_required": [
+      "Bonafide certificate from current University Head/Dean",
+      "Consolidated marksheets (Class 12th, UG, or PG based on status)",
+      "Updated Resume/CV",
+      "Identity proof (Aadhaar or Passport)",
+      "Statement of Purpose (SOP) indicating preferred NITI Vertical"
+    ],
+    "apply_url": "https://workforniti.niti.gov.in/internship",
+    "official_source": "https://niti.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "NITI Aayog Internship Tamil",
+      "மத்திய அரசு நிதி ஆயோக் இன்டர்ன்ஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "CN_INT_002",
+    "name_en": "The Lokpal of India Internship Scheme",
+    "name_ta": "லோக்பால் ஆஃப் இந்தியா பயிற்சித் திட்டம்",
+    "type": "central",
+    "category": "internship",
+    "description_en": "Paid 1-month professional internship (₹10,000 stipend + travel fare) at Lokpal, New Delhi for advanced Law and Public Policy students meeting a 60% aggregate grade cutoff.",
+    "description_ta": "சட்டம் மற்றும் பொது நிர்வாகம் படிக்கும் மாணவர்களுக்கு லோக்பால் அமைப்பில் ஊக்கத்தொகையுடன் கூடிய ஊழல் தடுப்பு சட்டங்கள் சார்ந்த 1 மாத கால பயிற்சித் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "law_students",
+        "postgraduates",
+        "public_policy_students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "LLB_3rd_year_plus",
+        "LLB_3_year_2nd_year_plus",
+        "LLM",
+        "MA_Public_Admin"
+      ],
+      "min_cumulative_percentage": 60,
+      "allowed_batches": [
+        "summer_may_june",
+        "winter_nov_dec"
+      ]
+    },
+    "benefits": {
+      "type": "paid_internship",
+      "value": "₹10,000 Stipend + Sleeper Class Rail Fare Reimbursement + Official Institutional Certificate",
+      "frequency": "once",
+      "duration_weeks": 4
+    },
+    "documents_required": [
+      "Recommendation Letter / No Objection Certificate (NOC) from Head of Institution",
+      "Consolidated marksheets from Class 10th to ongoing semester",
+      "Statement of Purpose (SOP)",
+      "Aadhaar Card",
+      "Cancel Cheque/Bank details for stipend transfer"
+    ],
+    "apply_url": "https://lokpal.gov.in/internship.html",
+    "official_source": "https://lokpal.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Lokpal of India Internship Tamil",
+      "சட்ட மாணவர்களுக்கான அரசு இன்டர்ன்ஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_018",
+    "name_en": "Scheme for Grant of Rewards to the Children of Salt Labourers",
+    "name_ta": "உப்பளத் தொழிலாளர்களின் குழந்தைகளுக்கான கல்வி ஊக்கத்தொகைத் திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Annual lump-sum cash rewards up to ₹2,000 for 3,500 meritorious children (with 50% reservation for girls) of salt factory workers with 1+ years of continuous service.",
+    "description_ta": "குறைந்தது ஒரு வருடம் உப்பளங்களில் பணிபுரிந்த தொழிலாளர்களின் 6 முதல் 12 ஆம் வகுப்பு வரை படிக்கும் தகுதியான குழந்தைகளுக்கு வழங்கப்படும் ஆண்டு கல்வி ஊக்கத்தொகைத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "salt_workers_children",
+        "students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "class_6_to_8",
+        "class_9_to_10",
+        "class_11_to_12"
+      ],
+      "school_type": "government_recognized",
+      "min_parental_continuous_service_years": 1,
+      "required_passing_attempt": "first_attempt",
+      "girl_child_reservation_percentage": 50,
+      "max_national_slots": 3500
+    },
+    "benefits": {
+      "type": "financial_lump_sum",
+      "value": "Class 6-8: ₹1,000/year | Class 9-10: ₹1,500/year | Class 11-12: ₹2,000/year",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Continuous service certificate of parent issued by Salt Factory/Owner",
+      "Marksheet of the previous academic year showing first-attempt pass",
+      "Bonafide school admission certificate / Fee receipt",
+      "Aadhaar Card of student and parent",
+      "Community Certificate (for tie-breaker preference)"
+    ],
+    "apply_url": "https://www.myscheme.gov.in/schemes/sgrcsl",
+    "official_source": "https://dpiit.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Rewards to Children of Salt Labourers Tamil",
+      "உப்பள தொழிலாளர் கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_019",
+    "name_en": "Post Graduate Indira Gandhi Scholarship for Single Girl Child",
+    "name_ta": "ஒற்றைப் பெண் குழந்தைக்கான இந்திரா காந்தி முதுகலை உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Centrally funded higher education scholarship providing ₹36,200 annually to 3,000 single girl children or twin/triplet daughters pursuing a regular full-time Master's degree.",
+    "description_ta": "குடும்பத்தில் ஒரே பெண் குழந்தையாக இருந்து, வழக்கமான முதுகலை படிப்பு படிக்கும் 3,000 மாணவிகளுக்கு ஆண்டுக்கு ₹36,200 வழங்கும் மத்திய அரசு உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "single_girl_child",
+        "twin_daughters",
+        "post_graduates"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "female",
+      "state_resident": true,
+      "age_max": 30,
+      "education_level": [
+        "postgraduate_1st_year"
+      ],
+      "course_mode": "full_time",
+      "family_criteria": "only_girl_child_or_twin_triplet_daughters",
+      "max_national_slots": 3000
+    },
+    "benefits": {
+      "type": "financial",
+      "value": "₹36,200 per annum",
+      "frequency": "annual",
+      "max_duration_years": 2
+    },
+    "documents_required": [
+      "Affidavit on ₹50 Stamp Paper from a First Class Magistrate/SDM/Gazetted Officer certifying Single Girl Child status",
+      "Proof of regular 1st year PG admission & fee receipt",
+      "Graduation final marksheet & degree certificate",
+      "Aadhaar card",
+      "Aadhaar-linked bank passbook copy"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.ugc.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Indira Gandhi Single Girl Child Scholarship Tamil",
+      "ஒற்றை பெண் குழந்தை உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_020",
+    "name_en": "Pradhan Mantri Poshan Shakti Nirman (PM POSHAN)",
+    "name_ta": "பிரதமரின் ஊட்டச்சத்து சக்தி நிர்மான் திட்டம் (PM POSHAN)",
+    "type": "centrally_sponsored",
+    "category": "social_welfare",
+    "description_en": "Massive school nutrition program providing one hot cooked meal meeting strict calorie (450-700) and protein (12g-20g) norms daily to government school students.",
+    "description_ta": "அரசு மற்றும் அரசு உதவிபெறும் பள்ளி மாணவர்களுக்கு ஊட்டச்சத்து குறைபாட்டை போக்க தினசரி மதிய உணவு வழங்கும் மத்திய-மாநில அரசுகளின் கூட்டுத் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "children",
+        "students",
+        "balvatika_pre_primary"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "pre_primary",
+        "primary_class_1_to_5",
+        "upper_primary_class_6_to_8"
+      ],
+      "school_types_allowed": [
+        "government",
+        "government_aided",
+        "local_body"
+      ]
+    },
+    "benefits": {
+      "type": "in-kind_nutrition",
+      "value": "One Hot Cooked Meal per working school day + Health checkups + Micronutrient supplementation",
+      "frequency": "daily_school_days"
+    },
+    "documents_required": [
+      "Automated school attendance register enrollment",
+      "Aadhaar card of the child (optional/not mandatory for food access)"
+    ],
+    "apply_url": "https://pmposhan.education.gov.in",
+    "official_source": "https://www.education.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "PM POSHAN Scheme Tamil",
+      "மதிய உணவு திட்டம் புதிய விதிகள்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_021",
+    "name_en": "Post Matric Scholarship for Students with Disabilities",
+    "name_ta": "மாற்றுத்திறனாளி மாணவர்களுக்கான போஸ்ட் மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Comprehensive higher education scholarship for students with 40%+ disability and family income under ₹2.5 Lakhs, offering tiered monthly allowances up to ₹1,600 alongside specialized disability add-ons.",
+    "description_ta": "40% மேல் மாற்றுத்திறன் கொண்ட, குடும்ப வருமானம் ₹2.5 லட்சத்திற்குள் இருக்கும் 11ஆம் வகுப்பு முதல் பிஹெச்டி வரை படிக்கும் மாணவர்களுக்கான மத்திய அரசு கல்வி உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "disabled_students",
+        "undergraduates",
+        "postgraduates",
+        "school_students"
+      ],
+      "income_limit_annual": 250000,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "min_disability_percentage": 40,
+      "education_level": [
+        "class_11_and_12",
+        "ITI",
+        "polytechnic",
+        "diploma",
+        "graduate",
+        "postgraduate",
+        "PhD"
+      ],
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "financial_allowance",
+      "value": "Tiered Maintenance (₹350 to ₹1,600/month) + Full Tuition Fee Reimbursement + Disability Riders (up to ₹240/month Reader allowance)",
+      "frequency": "monthly"
+    },
+    "documents_required": [
+      "Valid Disability Certificate / Unique Disability ID (UDID) Card",
+      "Income Certificate issued by competent authority",
+      "Class 10th / Last qualifying examination marksheet",
+      "Current academic year fee receipt & bonafide certificate",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank account passbook details"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://disabilityaffairs.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Post Matric Scholarship Disability Tamil",
+      "மாற்றுத்திறனாளி மாணவர் கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_022",
+    "name_en": "Pre-Matric Scholarship for Students with Disabilities",
+    "name_ta": "மாற்றுத்திறனாளி மாணவர்களுக்கான ப்ரீ-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Targeted school scholarship for 9th and 10th-grade students with 40%+ disability and family income under ₹2.5 Lakhs, offering monthly maintenance, annual book grants, and custom disability riders.",
+    "description_ta": "40% மேல் மாற்றுத்திறன் கொண்ட, குடும்ப வருமானம் ₹2.5 லட்சத்திற்குள் இருக்கும் 9 மற்றும் 10ஆம் வகுப்பு மாற்றுத்திறனாளி மாணவர்களுக்கான மத்திய அரசு கல்வி உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "disabled_children",
+        "school_students"
+      ],
+      "income_limit_annual": 250000,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "min_disability_percentage": 40,
+      "education_level": [
+        "class_9",
+        "class_10"
+      ],
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "financial_allowance",
+      "value": "Maintenance (Hosteller: ₹500/month, Day Scholar: ₹250/month for 10 months) + ₹1,000/year Book Grant + Disability Add-ons (up to ₹160/month)",
+      "frequency": "annual_split"
+    },
+    "documents_required": [
+      "Valid Disability Certificate / Unique Disability ID (UDID) Card",
+      "Income Certificate issued by competent authority",
+      "Marksheet of the previous class (Class 8 or Class 9 pass)",
+      "Current academic year school bonafide certificate / fee receipt",
+      "Aadhaar Card of student/parent",
+      "Aadhaar-seeded bank account passbook copy"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://disabilityaffairs.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Pre Matric Scholarship Disability Tamil",
+      "9th 10th மாற்றுத்திறனாளி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_023",
+    "name_en": "Pragati Scholarship Scheme For Girl Students (Technical Diploma)",
+    "name_ta": "பெண் மாணவிகளுக்கான பிரகதி தொழில்நுட்ப பட்டயப்படிப்பு (Diploma) உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "AICTE funded technical education scholarship providing a flat ₹50,000 annually to 5,000 meritorious girl students pursuing full-time technical diploma or polytechnic courses.",
+    "description_ta": "AICTE அங்கீகாரம் பெற்ற கல்லூரிகளில் டிப்ளமோ (Diploma) படிக்கும், குடும்ப வருமானம் ₹8 லட்சத்திற்குள் இருக்கும் மாணவிகளுக்கு ஆண்டுக்கு ₹50,000 வழங்கும் மத்திய அரசு உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "girl_students",
+        "diploma_undergraduates"
+      ],
+      "income_limit_annual": 800000,
+      "caste": "all",
+      "gender": "female",
+      "state_resident": true,
+      "education_level": [
+        "diploma_1st_year",
+        "diploma_2nd_year_lateral"
+      ],
+      "admission_mode": "centralized_counselling",
+      "max_girls_per_family": 2,
+      "max_national_slots": 5000
+    },
+    "benefits": {
+      "type": "financial_lump_sum",
+      "value": "₹50,000 per annum (Max 3 years for regular / Max 2 years for lateral entry)",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Class 10th / SSC final marksheet",
+      "Official admission letter issued by Directorate of Technical Education",
+      "Current year tuition fee payment receipt",
+      "Valid Income Certificate issued by Tehsildar/Competent Authority",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank passbook copy",
+      "Duly signed Parent Declaration format",
+      "Bonafide Certificate signed by College Principal"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.aicte-india.org",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "AICTE Pragati Scholarship Diploma Tamil",
+      "டிப்ளமோ பிரகதி உதவித்தொகை ஆன்லைனில் விண்ணப்பிப்பது எப்படி"
+    ]
+  },
+  {
+    "scheme_id": "CN_FEL_002",
+    "name_en": "Swami Vivekananda Single Girl Child Fellowship for Research in Social Sciences",
+    "name_ta": "சமூக அறிவியல் ஆராய்ச்சிக்கான சுவாமி விவேகானந்தர் ஒற்றைப் பெண் குழந்தை உதவித்தொகைத் திட்டம்",
+    "type": "central",
+    "category": "fellowship",
+    "description_en": "Elite doctoral fellowship providing up to ₹42,000/month plus HRA and contingency grants for regular full-time Ph.D. female scholars who are the single girl child of their family.",
+    "description_ta": "குடும்பத்தில் ஒரே பெண் குழந்தையாக இருந்து, சமூக அறிவியல் துறைகளில் முழுநேர பிஹெச்டி (Ph.D) ஆராய்ச்சி படிப்பு படிக்கும் மாணவிகளுக்கு மாதந்தோறும் ₹42,000 வரை வழங்கும் மத்திய அரசு நிதியுதவி.",
+    "eligibility": {
+      "target_group": [
+        "single_girl_child",
+        "twin_daughters",
+        "phd_scholars"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "female",
+      "state_resident": true,
+      "age_max_general": 40,
+      "age_max_reserved": 45,
+      "education_level": [
+        "phd_enrolled"
+      ],
+      "course_mode": "full_time",
+      "eligible_domains": [
+        "social_sciences",
+        "humanities",
+        "sociology",
+        "economics",
+        "political_science",
+        "history"
+      ],
+      "family_criteria": "only_girl_child_or_twin_triplet_daughters"
+    },
+    "benefits": {
+      "type": "fellowship_grant",
+      "value": "JRF: ₹37,000/month (Years 1-2) | SRF: ₹42,000/month (Years 3-5) + HRA + Contingency up to ₹20,500/year",
+      "frequency": "monthly_split",
+      "max_duration_years": 5
+    },
+    "documents_required": [
+      "Affidavit on ₹50 Stamp Paper from a First Class Magistrate/SDM certifying Single Girl Child status",
+      "Official Ph.D Admission and Joining Report format signed by Guide & Registrar",
+      "Post-Graduation final marksheet & degree certificate",
+      "Detailed Ph.D Research Topic Abstract/Proposal",
+      "Aadhaar card",
+      "Aadhaar-linked bank passbook details"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.ugc.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Swami Vivekananda Single Girl Child Fellowship Tamil",
+      "யுஜிசி சிங்கிள் கேர்ள் சைல்டு பெல்லோஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "CN_FIN_002",
+    "name_en": "PM-USP Central Sector Interest Subsidy Scheme (CSIS)",
+    "name_ta": "பிரதமரின் உயர்கல்வி ஊக்குவிப்புத் திட்டம் - மத்திய துறை வட்டி மானியத் திட்டம்",
+    "type": "central",
+    "category": "financial_subsidy",
+    "description_en": "Provides 100% interest waiver during the moratorium period on IBA model education loans for professional/technical studies in India for EWS students with family income under ₹4.5 Lakhs.",
+    "description_ta": "குடும்ப வருமானம் ₹4.5 லட்சத்திற்குள் இருக்கும் மாணவர்கள் வாங்கும் கல்வி கடனுக்கான படிப்புக் காலத்தில் சேரும் வட்டியை முழுமையாக மத்திய அரசே ஏற்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "ews_students",
+        "education_loan_holders"
+      ],
+      "income_limit_annual": 450000,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "professional_undergraduate",
+        "professional_postgraduate",
+        "technical_diploma"
+      ],
+      "loan_type": "IBA_model_education_loan",
+      "study_location": "domestic_india",
+      "allowed_claims_per_student": 1
+    },
+    "benefits": {
+      "type": "interest_subsidy_waiver",
+      "value": "100% interest payment by Government during course duration + 1 year repayment holiday",
+      "frequency": "continuous_during_moratorium"
+    },
+    "documents_required": [
+      "Income Certificate from authorized State Authority",
+      "Proof of IBA Bank Education Loan Sanction Letter",
+      "Bonafide Certificate & Fee Structure from professional/technical college",
+      "Aadhaar Card of student and co-borrower parent",
+      "Vidya Lakshmi Portal Application ID"
+    ],
+    "apply_url": "https://www.vidyalakshmi.co.in",
+    "official_source": "https://www.education.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Central Sector Interest Subsidy Scheme Tamil",
+      "கல்வி கடன் வட்டி தள்ளுபடி திட்டம்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_025",
+    "name_en": "National Handloom Development Programme (NHDP): Scholarship Component",
+    "name_ta": "தேசிய கைத்தறி மேம்பாட்டுத் திட்டம் - கல்வி உதவித்தொகை கூறு",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Specialized sector scholarship for children of active handloom weavers, offering up to ₹2,00,000/year for institutional fees and a ₹5,000/month stipend for pursuing textile or fashion design degrees.",
+    "description_ta": "கைத்தறி நெசவாளர்களின் பிள்ளைகள் IIHT, NIFT போன்ற நிறுவனங்களில் ஜவுளித் தொழில்நுட்பம் சார்ந்த படிப்புகளை படிக்க ஆண்டுக்கு ₹2 லட்சம் வரை மற்றும் மாதந்தோறும் ₹5,000 உதவித்தொகை வழங்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "weaver_children",
+        "textile_students",
+        "undergraduates",
+        "diploma_undergraduates"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "parent_occupation_mandatory": "handloom_weaver_or_allied_worker",
+      "education_level": [
+        "college_undergraduate",
+        "technical_diploma"
+      ],
+      "course_mode": "full_time",
+      "eligible_streams": [
+        "textile_technology",
+        "handloom_technology",
+        "textile_design",
+        "fashion_technology"
+      ]
+    },
+    "benefits": {
+      "type": "comprehensive_financial_grant",
+      "value": "Up to ₹2,00,000 per year for institutional fees + ₹5,000 per month continuous maintenance stipend",
+      "frequency": "monthly_and_annual_split"
+    },
+    "documents_required": [
+      "Valid Handloom Weaver Photo ID Card / Pehchan Card of parent",
+      "Bonafide Certificate from recognized textile institute (e.g., IIHT/NIFT)",
+      "Detailed college fee structure and certified payment receipts",
+      "Class 10th and 12th final marksheets",
+      "Aadhaar Card of student and parent",
+      "Aadhaar-seeded savings bank account details"
+    ],
+    "apply_url": "https://handlooms.nic.in",
+    "official_source": "https://texmin.nic.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "National Handloom Development Programme Scholarship Tamil",
+      "நெசவாளர் குழந்தை கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_027",
+    "name_en": "AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Degree)",
+    "name_ta": "மாற்றுத்திறனாளி மாணவர்களுக்கான சாக்க்ஷம் தொழில்நுட்ப பட்டப்படிப்பு (Degree) உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "AICTE funded technical education scholarship providing a flat ₹50,000 annually to all eligible specially-abled students with 40%+ disability pursuing full-time technical degrees (B.E./B.Tech/B.Pharm).",
+    "description_ta": "AICTE அங்கீகாரம் பெற்ற கல்லூரிகளில் பொறியியல்/தொழில்நுட்ப பட்டப்படிப்பு படிக்கும், 40% மேல் மாற்றுத்திறன் மற்றும் ₹8 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட மாணவர்களுக்கான ₹50,000 கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "disabled_students",
+        "undergraduates",
+        "engineering_students"
+      ],
+      "income_limit_annual": 800000,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "min_disability_percentage": 40,
+      "education_level": [
+        "degree_1st_year",
+        "degree_2nd_year_lateral"
+      ],
+      "admission_mode": "centralized_counselling",
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "financial_lump_sum",
+      "value": "₹50,000 per annum (Max 4 years for regular / Max 3 years for lateral entry)",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Valid Disability Certificate / Unique Disability ID (UDID) Card",
+      "Class 10th & 12th final marksheets",
+      "Official admission letter issued by Directorate of Technical Education",
+      "Current year tuition fee payment receipt",
+      "Valid Income Certificate issued by Tehsildar/Competent Authority",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank passbook copy",
+      "Bonafide Certificate signed by College Principal/Director"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.aicte-india.org",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "AICTE Saksham Scholarship Tamil",
+      "மாற்றுத்திறனாளி பொறியியல் மாணவர் உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_FEL_003",
+    "name_en": "Junior Research Fellowship in Engineering & Technology",
+    "name_ta": "பொறியியல் மற்றும் தொழில்நுட்பத்திற்கான ஜூனியர் ரிசர்ச் பெல்லோஷிப் திட்டம்",
+    "type": "central",
+    "category": "fellowship",
+    "description_en": "UGC-funded doctoral fellowship offering up to ₹42,000/month plus HRA and contingency grants for GATE/NET qualified M.Tech students pursuing a full-time Ph.D. in engineering streams.",
+    "description_ta": "GATE அல்லது NET தேர்ச்சி பெற்று, பொறியியல் துறைகளில் முழுநேர பிஹெச்டி (Ph.D) ஆராய்ச்சி படிப்பு படிக்கும் மாணவர்களுக்கு மாதந்தோறும் ₹42,000 வரை வழங்கும் மத்திய அரசு நிதியுதவி.",
+    "eligibility": {
+      "target_group": [
+        "engineering_postgraduates",
+        "phd_scholars"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_max_general_male": 40,
+      "age_max_relaxed": 45,
+      "education_level": [
+        "phd_engineering_enrolled"
+      ],
+      "mandatory_qualifying_exams": [
+        "GATE",
+        "CSIR_UGC_NET"
+      ],
+      "min_post_graduation_percentage": 60,
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "fellowship_grant",
+      "value": "JRF: ₹37,000/month (Years 1-2) | SRF: ₹42,000/month (Years 3-5) + Location-based HRA + Annual Contingency up to ₹25,000",
+      "frequency": "monthly_split",
+      "max_duration_years": 5
+    },
+    "documents_required": [
+      "Valid GATE / CSIR-UGC NET scorecard",
+      "M.E. / M.Tech final consolidated marksheet & degree certificate",
+      "Official Ph.D Admission letter and institutional Joining Report",
+      "Detailed Ph.D Research Topic Abstract approved by the guide",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank passbook copy",
+      "Three-Member Committee upgrade certificate (required later for SRF activation)"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.ugc.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "UGC JRF Engineering Fellowship Tamil",
+      "பொறியியல் பிஹெச்டி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_INT_003",
+    "name_en": "AICTE – Mitacs Globalink Research Internship (GRI) Scheme",
+    "name_ta": "AICTE - மிட்டாக்ஸ் குளோபலிங்க் சர்வதேச ஆராய்ச்சி பயிற்சித் திட்டம்",
+    "type": "bilateral_international",
+    "category": "internship",
+    "description_en": "Elite, fully funded 12-week summer research internship in Canada for 3rd-year Indian STEM undergraduates with a CGPA of 8.0+, covering flight, housing, insurance, and stipends.",
+    "description_ta": "3ஆம் ஆண்டு பொறியியல்/அறிவியல் படிக்கும் தகுதியான மாணவர்கள் கனடா பல்கலைக்கழகங்களில் 12 வாரங்கள் முழுநேர ஆராய்ச்சி பயிற்சி பெற விமான டிக்கெட் மற்றும் தங்குமிட செலவுகளை ஏற்கும் சர்வதேச திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "undergraduates",
+        "engineering_students",
+        "stem_scholars"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "min_cgpa": 8.0,
+      "eligible_academic_years": [
+        "3rd_year_only_for_4_year_course"
+      ],
+      "course_mode": "full_time",
+      "target_domains": [
+        "STEM",
+        "science",
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "duration_weeks": 12
+    },
+    "benefits": {
+      "type": "fully_funded_international_internship",
+      "value": "100% Round-trip International Airfare + Free Accommodation & Living Stipend + Emergency Health Insurance + Canadian University Bench Fees",
+      "frequency": "once_per_event"
+    },
+    "documents_required": [
+      "Official undergraduate academic transcripts from Semester 1 onwards",
+      "Minimum of two (2) Academic Letters of Reference (LOR) from Indian faculty",
+      "Updated Research CV/Resume",
+      "Valid International Passport copy (with at least 6 months validity)",
+      "Statement of Purpose (SOP) detailing project selections"
+    ],
+    "apply_url": "https://www.mitacsglobalink.ca",
+    "official_source": "https://www.aicte-india.org",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "AICTE Mitacs Globalink Internship Tamil",
+      "கனடா இலவச இன்டர்ன்ஷிப் வாய்ப்பு"
+    ]
+  },
+  {
+    "scheme_id": "CN_FEL_004",
+    "name_en": "ICAR Senior Research Fellowship for Post-Graduate Studies in Agricultural Sciences",
+    "name_ta": "வேளாண் அறிவியல் முதுகலை படிப்புகளுக்கான ICAR சீனியர் ரிசர்ச் பெல்லோஷிப் திட்டம்",
+    "type": "central",
+    "category": "fellowship",
+    "description_en": "ICAR-funded doctoral fellowship offering up to ₹35,000/month plus HRA and contingency grants for NTA AICE-Ph.D. qualified students pursuing a full-time Ph.D. in agricultural streams.",
+    "description_ta": "ICAR அகில இந்திய நுழைவுத் தேர்வில் தேர்ச்சி பெற்று, வேளாண்மை மற்றும் அது சார்ந்த துறைகளில் முழுநேர பிஹெச்டி (Ph.D) படிக்கும் மாணவர்களுக்கு மாதந்தோறும் ₹35,000 வரை வழங்கும் மத்திய அரசு நிதியுதவி.",
+    "eligibility": {
+      "target_group": [
+        "agriculture_postgraduates",
+        "phd_scholars"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_max_general": 30,
+      "age_max_sc_st_female": 35,
+      "education_level": [
+        "phd_agriculture_enrolled"
+      ],
+      "mandatory_qualifying_exams": [
+        "AICE_JRF_SRF_PhD"
+      ],
+      "min_post_graduation_percentage_general": 60,
+      "min_post_graduation_percentage_reserved": 55,
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "fellowship_grant",
+      "value": "Initial 2 Years: ₹31,000/month | 3rd Year (SRF): ₹35,000/month + Location-based HRA + Annual Contingency of ₹10,000",
+      "frequency": "monthly_split",
+      "max_duration_years": 3
+    },
+    "documents_required": [
+      "Valid ICAR AICE-Ph.D. rank card / scorecard",
+      "M.Sc. Agriculture final consolidated marksheet & degree certificate",
+      "Official Ph.D Admission letter and institutional Joining Report",
+      "Detailed Ph.D Research Topic Proposal approved by the guide",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank passbook copy",
+      "Three-Member Committee upgrade certificate (required later for SRF activation)"
+    ],
+    "apply_url": "https://icar.org.in",
+    "official_source": "https://education.icar.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "ICAR SRF Fellowship Agriculture Tamil",
+      "வேளாண்மை பிஹெச்டி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_FEL_005",
+    "name_en": "ICAR Junior Research Fellowship for Post-Graduate Studies in Agricultural Sciences",
+    "name_ta": "வேளாண் அறிவியல் முதுகலை படிப்புகளுக்கான ICAR ஜூனியர் ரிசர்ச் பெல்லோஷிப் திட்டம்",
+    "type": "central",
+    "category": "fellowship",
+    "description_en": "ICAR-funded Master's fellowship providing ₹12,640/month plus annual contingency grants for NTA AICE-PG merit-rank holders pursuing full-time Master's degrees in agricultural sciences.",
+    "description_ta": "ICAR அகில இந்திய முதுகலை நுழைவுத் தேர்வில் (AICE-PG) சிறந்த மதிப்பெண் பெற்று, வேளாண் துறைகளில் எம்.எஸ்.சி (M.Sc) படிக்கும் மாணவர்களுக்கு மாதந்தோறும் ₹12,640 வழங்கும் மத்திய அரசு நிதியுதவி.",
+    "eligibility": {
+      "target_group": [
+        "agriculture_graduates",
+        "masters_students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_max_general": 30,
+      "education_level": [
+        "masters_agriculture_enrolled"
+      ],
+      "prior_degree_duration_years": 4,
+      "mandatory_qualifying_exams": [
+        "AICE_JRF_SRF_PG"
+      ],
+      "min_undergraduate_ogpa_general": 6.6,
+      "min_undergraduate_ogpa_reserved": 5.6,
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "fellowship_grant",
+      "value": "₹12,640 per month + Annual Contingency of ₹6,000",
+      "frequency": "monthly_split",
+      "max_duration_years": 2
+    },
+    "documents_required": [
+      "Valid ICAR AICE-PG rank card / NTA scorecard",
+      "4-Year Bachelor's Degree Professional Certificate and transcript",
+      "Official Master's Degree Admission letter and institutional Joining Report",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank passbook copy",
+      "Caste / Category certificate (if matching SC/ST/OBC quota tables)"
+    ],
+    "apply_url": "https://icar.org.in",
+    "official_source": "https://education.icar.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "ICAR JRF PG Fellowship Agriculture Tamil",
+      "வேளாண்மை முதுகலை உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_INT_004",
+    "name_en": "Food Safety & Standards Authority of India (FSSAI) Internship Scheme",
+    "name_ta": "இந்திய உணவு பாதுகாப்பு மற்றும் தரநிலைகள் ஆணையத்தின் (FSSAI) ஆராய்ச்சி பயிற்சித் திட்டம்",
+    "type": "statutory_central",
+    "category": "internship",
+    "description_en": "Structured government internship providing a monthly stipend of ₹10,000 for 2-6 months to postgraduate and advanced undergraduate students in STEM, Food Technology, Management, and IT fields.",
+    "description_ta": "FSSAI உணவு பாதுகாப்பு ஆணையத்தில் உணவு தொழில்நுட்பம், வேதியியல், ஐடி மற்றும் மேலாண்மை படிக்கும் மாணவர்கள் 2 முதல் 6 மாதங்கள் வரை கட்டணத்துடன் கூடிய நேரடி பயிற்சி பெறும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "postgraduates",
+        "final_year_undergraduates",
+        "food_tech_students",
+        "it_students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "current_enrollment_status": "regular_student_mandatory",
+      "eligible_degrees": [
+        "MSc",
+        "MTech",
+        "BTech_3rd_year_plus",
+        "MBA",
+        "MCA",
+        "PG_Diploma"
+      ],
+      "min_internship_duration_months": 2,
+      "max_internship_duration_months": 6,
+      "min_attendance_days_required": 45
+    },
+    "benefits": {
+      "type": "stipendiary_internship",
+      "value": "₹10,000 per month stipend + Official FSSAI Experience Certificate upon successful project submission",
+      "frequency": "monthly"
+    },
+    "documents_required": [
+      "Official Bonafide Certificate issued by the Head of Department/Institution",
+      "Recommendation Letter from the College Principal explicitly permitting the internship duration",
+      "Consolidated marksheets from graduation onwards",
+      "Short 500-word write-up / Statement of Purpose (SOP) on why they want to join FSSAI",
+      "Aadhaar Card copy"
+    ],
+    "apply_url": "https://www.fssai.gov.in/internship",
+    "official_source": "https://www.fssai.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "FSSAI Internship Scheme Tamil",
+      "மத்திய அரசு உணவு பாதுகாப்பு துறை இன்டர்ன்ஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "CN_FEL_006",
+    "name_en": "Junior Research Fellowship (JRF) And Research Associateship (RA) For Foreign Nationals",
+    "name_ta": "வெளிநாட்டு நாட்டினருக்கான ஜூனியர் ரிசர்ச் பெல்லோஷிப் மற்றும் ரிசர்ச் அசோசியேஷிப் திட்டம்",
+    "type": "central",
+    "category": "fellowship",
+    "description_en": "UGC-funded international exchange fellowship providing up to ₹47,000/month plus HRA and contingency grants to foreign research scholars and teachers from developing nations to pursue full-time Ph.D. or Post-Doctoral tracks in India.",
+    "description_ta": "ஆசியா, ஆப்பிரிக்கா மற்றும் லத்தீன் அமெரிக்கா போன்ற வளரும் நாடுகளைச் சேர்ந்த மாணவர்கள் மற்றும் ஆசிரியர்கள் இந்தியாவில் முழுநேர பிஹெச்டி அல்லது போஸ்ட்-டாக்டோரல் ஆராய்ச்சி செய்ய மாதந்தோறும் ₹47,000 வரை வழங்கும் மத்திய அரசு திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "foreign_nationals",
+        "international_scholars",
+        "foreign_teachers"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": false,
+      "eligible_regions": [
+        "Asia",
+        "Africa",
+        "Latin_America"
+      ],
+      "age_max_jrf": 35,
+      "age_max_ra": 45,
+      "education_level_jrf_req": "masters_degree_55_percent",
+      "education_level_ra_req": "phd_completed",
+      "course_mode": "full_time_in_india"
+    },
+    "benefits": {
+      "type": "international_fellowship_grant",
+      "value": "JRF: ₹37,000 to ₹42,000/month (Max 5 years) | RA: ₹47,000/month (Max 3 years) + Location-based HRA + Annual Contingency up to ₹50,000",
+      "frequency": "monthly_split"
+    },
+    "documents_required": [
+      "Valid Foreign Passport first and last page copy",
+      "Official Research Invitation / Supervisor Placement Letter from a UGC recognized Indian University",
+      "Certified translations of Master's or Ph.D. degree certificates and transcripts",
+      "Detailed Research Abstract / Project Proposal outlining work to be conducted in India",
+      "Medical Fitness Certificate from a registered international practitioner",
+      "Two Letters of Recommendation (LOR) from faculty in their home country"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.ugc.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "UGC Fellowship for Foreign Nationals India",
+      "வெளிநாட்டு மாணவர்களுக்கான இந்திய கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_FEL_007",
+    "name_en": "BSR Fellowship Scheme for Science Students - UGC",
+    "name_ta": "அறிவியல் மாணவர்களுக்கான UGC-BSR ஆராய்ச்சி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "fellowship",
+    "description_en": "UGC-funded scientific research fellowship providing up to ₹42,000/month plus HRA and contingency grants for full-time Ph.D. science students studying in SAP/CAS/DSA recognized university departments.",
+    "description_ta": "UGC அங்கீகாரம் பெற்ற பல்கலைக்கழக அறிவியல் துறைகளில் (SAP/CAS) முழுநேர பிஹெச்டி (Ph.D) ஆராய்ச்சி படிப்பு படிக்கும் மாணவர்களுக்கு மாதந்தோறும் ₹42,000 வரை வழங்கும் மத்திய அரசு நிதியுதவி.",
+    "eligibility": {
+      "target_group": [
+        "science_postgraduates",
+        "phd_scholars",
+        "stem_researchers"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_max_general_male": 40,
+      "age_max_relaxed": 45,
+      "education_level": [
+        "phd_science_enrolled"
+      ],
+      "department_accreditation_required": [
+        "UGC_SAP",
+        "UGC_CAS",
+        "UGC_DSA"
+      ],
+      "min_post_graduation_percentage_general": 55,
+      "min_post_graduation_percentage_reserved": 50,
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "fellowship_grant",
+      "value": "JRF: ₹37,000/month (Years 1-2) | SRF: ₹42,000/month (Years 3-5) + Location-based HRA + Annual Contingency of ₹12,000",
+      "frequency": "monthly_split",
+      "max_duration_years": 5
+    },
+    "documents_required": [
+      "M.Sc. final consolidated marksheet & degree certificate",
+      "Official Ph.D Admission letter and institutional Joining Report",
+      "UGC department status validation certificate (SAP/CAS endorsement letter)",
+      "Detailed Ph.D Research Topic Proposal approved by the guide",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank passbook copy",
+      "Three-Member Committee upgrade certificate (required later for SRF activation)"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.ugc.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "UGC BSR Science Fellowship Tamil",
+      "அறிவியல் ஆராய்ச்சி பிஹெச்டி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_FEL_008",
+    "name_en": "Savitribai Jyotirao Phule Fellowship for Single Girl Child",
+    "name_ta": "சாவித்ரிபாய் ஜோதிராவ் புலே ஒற்றைப் பெண் குழந்தை ஆராய்ச்சி உதவித்தொகைத் திட்டம்",
+    "type": "central",
+    "category": "fellowship",
+    "description_en": "Universal doctoral fellowship providing up to ₹42,000/month plus HRA and contingency grants across all science, engineering, and humanities domains for regular full-time female Ph.D. scholars who are the single girl child of their family.",
+    "description_ta": "குடும்பத்தில் ஒரே பெண் குழந்தையாக இருந்து, அறிவியல், பொறியியல் அல்லது கலைத் துறைகளில் முழுநேர பிஹெச்டி (Ph.D) ஆராய்ச்சி படிப்பு படிக்கும் மாணவிகளுக்கு மாதந்தோறும் ₹42,000 வரை வழங்கும் மத்திய அரசு நிதியுதவி.",
+    "eligibility": {
+      "target_group": [
+        "single_girl_child",
+        "twin_daughters",
+        "phd_scholars"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "female",
+      "state_resident": true,
+      "age_max_general": 40,
+      "age_max_reserved": 45,
+      "education_level": [
+        "phd_enrolled"
+      ],
+      "course_mode": "full_time",
+      "eligible_domains": [
+        "sciences",
+        "engineering",
+        "technology",
+        "humanities",
+        "social_sciences"
+      ],
+      "family_criteria": "only_girl_child_or_twin_triplet_daughters"
+    },
+    "benefits": {
+      "type": "fellowship_grant",
+      "value": "JRF: ₹37,000/month (Years 1-2) | SRF: ₹42,000/month (Years 3-5) + Location-based HRA + Annual Contingency up to ₹25,000",
+      "frequency": "monthly_split",
+      "max_duration_years": 5
+    },
+    "documents_required": [
+      "Affidavit on ₹50 Stamp Paper from a First Class Magistrate/SDM certifying Single Girl Child family status",
+      "Official Ph.D Admission and Joining Report format signed by Guide & Registrar",
+      "Post-Graduation final marksheet & degree certificate",
+      "Detailed Ph.D Research Topic Abstract/Proposal",
+      "Aadhaar card",
+      "Aadhaar-linked bank passbook details"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.ugc.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Savitribai Phule Single Girl Child Fellowship Tamil",
+      "சிங்கிள் கேர்ள் சைல்டு பிஹெச்டி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_029",
+    "name_en": "AICTE – Pragati Scholarship Scheme For Girl Students (Technical Degree)",
+    "name_ta": "மாணவிகளுக்கான பிரகதி தொழில்நுட்ப பட்டப்படிப்பு (Degree) உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "AICTE-funded STEM advancement scholarship providing a flat ₹50,000 annually to 5,000 meritorious girl students with family income under ₹8 Lakhs pursuing full-time technical degrees (B.E./B.Tech/B.Pharm).",
+    "description_ta": "AICTE அங்கீகாரம் பெற்ற கல்லூரிகளில் பொறியியல்/தொழில்நுட்ப பட்டப்படிப்பு முதலாம் அல்லது இரண்டாம் ஆண்டு (Lateral Entry) படிக்கும், ₹8 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட மாணவிகளுக்கான ₹50,000 கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "female_students",
+        "undergraduates",
+        "engineering_students"
+      ],
+      "income_limit_annual": 800000,
+      "caste": "all",
+      "gender": "female",
+      "state_resident": true,
+      "education_level": [
+        "degree_1st_year",
+        "degree_2nd_year_lateral"
+      ],
+      "admission_mode": "centralized_counselling",
+      "course_mode": "full_time",
+      "max_girls_per_family": 2,
+      "max_national_slots": 5000
+    },
+    "benefits": {
+      "type": "financial_lump_sum",
+      "value": "₹50,000 per annum (Max 4 years for regular / Max 3 years for lateral entry)",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Class 10th & 12th final marksheets",
+      "Polytechnic Diploma certificate (mandatory for lateral entry validation)",
+      "Official admission letter issued by Directorate of Technical Education",
+      "Current year tuition fee payment receipt",
+      "Valid Income Certificate issued by Tehsildar/Competent Authority",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank passbook copy",
+      "Family declaration form confirming maximum two girl children benefit limits"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.aicte-india.org",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "AICTE Pragati Scholarship Tamil",
+      "மாணவிகள் பிரகதி பொறியியல் உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_EMP_002",
+    "name_en": "National Apprenticeship Promotion Scheme-2 (NAPS-2)",
+    "name_ta": "தேசிய தொழிற்பழகுநர் ஊக்குவிப்புத் திட்டம்-2",
+    "type": "central",
+    "category": "skilling_stipend",
+    "description_en": "Government co-funding skilling scheme that directly pays 25% of an apprentice's monthly stipend (capped at ₹1,500/month) via DBT, supporting formal industrial onboarding under the Apprentices Act, 1961.",
+    "description_ta": "மத்திய அரசின் தொழிற்பயிற்சி திட்டம். நிறுவனங்களில் பயிற்சி பெறும் இளைஞர்களின் மாதாந்திர உதவித்தொகையில் 25% பங்கை (அதிகபட்சம் ₹1,500) மத்திய அரசே நேரடியாக மாணவர் வங்கி கணக்கில் செலுத்தும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "job_seekers",
+        "iti_graduates",
+        "diploma_holders",
+        "undergraduates",
+        "school_dropouts"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "min_age": 14,
+      "min_education_completed": 5,
+      "contract_duration_months": {
+        "min": 6,
+        "max": 36
+      },
+      "employer_size_min_workers": 4
+    },
+    "benefits": {
+      "type": "stipend_co_funding",
+      "value": "25% of prescribed monthly stipend up to a hard ceiling of ₹1,500 per month paid via DBT + up to ₹7,500 for Basic Training costs if applicable",
+      "frequency": "monthly"
+    },
+    "documents_required": [
+      "Aadhaar Card of the candidate (Aadhaar-seeded status mandatory)",
+      "Educational passing certificate / ITI Marksheet / Graduation Degree",
+      "Active Bank Account Passbook copy",
+      "Digitally executed contract generated through the apprenticeship portal",
+      "Employer active registration tokens (PAN/GSTIN/LIN)"
+    ],
+    "apply_url": "https://www.apprenticeshipindia.gov.in",
+    "official_source": "https://www.msde.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "National Apprenticeship Promotion Scheme NAPS Tamil",
+      "மத்திய அரசு நிறுவன இன்டர்ன்ஷிப் ட்ரைனிங்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_030",
+    "name_en": "Post Graduate Scholarship for University Rank Holders Scheme",
+    "name_ta": "பல்கலைக்கழக தரவரிசையில் முதலிடம் பிடித்த மாணவர்களுக்கான முதுகலை கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "UGC-funded merit scholarship providing ₹3,100/month for 2 years to 1st and 2nd university rank holders in undergraduate streams pursuing a regular full-time Master's degree, with no income cap.",
+    "description_ta": "இளங்கலை பட்டப்படிப்பில் (UG) பல்கலைக்கழக அளவில் 1 அல்லது 2ஆம் இடம் பிடித்து, தற்போது முழுநேர முதுகலை (PG) படிக்கும் மாணவர்களுக்கான கல்வி உதவித்தொகை திட்டம். இதற்கு குடும்ப வருமான வரம்பு இல்லை.",
+    "eligibility": {
+      "target_group": [
+        "university_rank_holders",
+        "meritorious_graduates",
+        "postgraduates"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "age_max_general": 30,
+      "allowed_ug_ranks": [
+        1,
+        2
+      ],
+      "min_stream_cohort_size": 100,
+      "education_level": [
+        "masters_1st_year_enrolled"
+      ],
+      "course_mode": "full_time",
+      "eligible_streams": [
+        "life_sciences",
+        "physical_sciences",
+        "chemical_sciences",
+        "earth_sciences",
+        "mathematical_sciences",
+        "social_sciences",
+        "commerce",
+        "languages"
+      ]
+    },
+    "benefits": {
+      "type": "financial_stipend",
+      "value": "₹3,100 per month continuous through the postgraduate tenure",
+      "frequency": "monthly",
+      "max_duration_years": 2
+    },
+    "documents_required": [
+      "Official University Rank Certificate confirming 1st or 2nd position issued by the Registrar/Controller of Examinations",
+      "Consolidated undergraduate final marksheet showing total marks",
+      "Official Master's Degree Admission letter and regular verification token",
+      "Bonafide Certificate signed by College Principal/Director or University HOD",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded personal bank account passbook details"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.ugc.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "UGC Rank Holders Scholarship Tamil",
+      "பல்கலைக்கழக ரேங்க் ஹோல்டர் உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_031",
+    "name_en": "ICAR National Talent Scholarship for Postgraduate Studies",
+    "name_ta": "வேளாண் முதுகலை படிப்புகளுக்கான ICAR தேசிய திறமை உதவித்தொகை திட்டம் (NTS-PG)",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "ICAR merit scholarship providing ₹5,000/month for 2 years to postgraduate agricultural students who secure admission in an agricultural university outside their home domicile state through the NTA AICE-PG exam.",
+    "description_ta": "ICAR அகில இந்திய நுழைவுத்தேர்வு மூலமாக, தனது சொந்த மாநிலம் அல்லாத வேறு மாநில பல்கலைக்கழகங்களில் முதுகலை வேளாண் படிப்புகளில் (PG) சேரும் மாணவர்களுக்கு மாதந்தோறும் ₹5,000 வழங்கும் மத்திய அரசு உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "agriculture_graduates",
+        "masters_students",
+        "inter_state_migrants"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "require_cross_state_admission": true,
+      "education_level": [
+        "masters_1st_year_enrolled"
+      ],
+      "mandatory_qualifying_exams": [
+        "AICE_JRF_SRF_PG"
+      ],
+      "min_undergraduate_ogpa_general": 6.6,
+      "min_undergraduate_ogpa_reserved": 5.6,
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "financial_stipend",
+      "value": "₹5,000 per month continuous through the postgraduate tenure",
+      "frequency": "monthly",
+      "max_duration_years": 2
+    },
+    "documents_required": [
+      "Valid ICAR AICE-PG scorecard / NTA rank card",
+      "Official Domicile Certificate / Resident Proof issued by competent state authority",
+      "Official Master's Degree Admission letter confirming seat allocation outside home state",
+      "4-Year professional Bachelor's Degree transcript / final marksheet",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded bank account passbook details",
+      "Bonafide student certificate signed by Dean/Registrar of host university"
+    ],
+    "apply_url": "https://icar.org.in",
+    "official_source": "https://education.icar.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "ICAR National Talent Scholarship Postgraduate Tamil",
+      "ICAR NTS PG Scholarship Agriculture"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_032",
+    "name_en": "Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers – Pre & Post-Matric",
+    "name_ta": "பீடி/சினிமா/சுரங்கத் தொழிலாளர்களின் குழந்தைகளுக்கான கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Labour Ministry funded educational assistance providing stratified annual scholarship tiers between ₹1,000 and ₹25,000 for the biological children of registered Beedi, Cine, and non-coal mine workers.",
+    "description_ta": "பதிவு செய்யப்பட்ட பீடி, சினிமா மற்றும் சுரங்கத் தொழிலாளர்களின் குழந்தைகளுக்கு 1ஆம் வகுப்பு முதல் தொழில்முறை பட்டப்படிப்புகள் (B.E/MBBS) வரை ஆண்டுதோறும் ₹1,000 முதல் ₹25,000 வரை கல்வி உதவித்தொகை வழங்கும் மத்திய அரசு திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "beedi_workers_children",
+        "cine_workers_children",
+        "mine_workers_children",
+        "students"
+      ],
+      "income_limit_monthly_household": 10000,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "class_1_to_12",
+        "iti",
+        "diploma",
+        "undergraduate_degree",
+        "professional_degree"
+      ],
+      "max_children_per_family": 2,
+      "course_mode": "full_time",
+      "mandatory_parental_professions": [
+        "beedi_manufacturing",
+        "cine_production_labor",
+        "iron_ore_mining",
+        "manganese_mining",
+        "chrome_mining",
+        "limestone_mining",
+        "dolomite_mining"
+      ]
+    },
+    "benefits": {
+      "type": "stratified_educational_allowance",
+      "value": "Annual scaling matrix: Schooling: ₹1,000 - ₹6,000 | UG/Diploma: ₹6,000 - ₹12,000 | Professional Technical Track: ₹25,000",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Valid Beedi/Cine/Mine Worker Identity Card copy of the parent",
+      "Attested copy of previous academic year pass marksheet",
+      "Official Bonafide student certificate issued by school or university",
+      "Aadhaar Card copy of the student",
+      "Aadhaar-seeded bank passbook copy showcasing active IFSC token",
+      "Income Certificate issued by employer or revenue authority"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://labour.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Beedi Workers Scholarship National Scholarship Portal Tamil",
+      "பீடி தொழிலாளர் குழந்தை கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_033",
+    "name_en": "SMILE - Comprehensive Rehabilitation for Welfare of Transgender Persons (Scholarship Component)",
+    "name_ta": "மாற்றுப்பாலின மாணவர்களுக்கான SMILE கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Ministry of Social Justice funded educational stipend providing annual assistance to transgender students in Classes 9 to 12 with family income under ₹2.5 Lakhs, requiring a National Transgender Portal Identity Card.",
+    "description_ta": "9ஆம் வகுப்பு முதல் 12ஆம் வகுப்பு வரை அரசு அல்லது அரசு அங்கீகாரம் பெற்ற பள்ளிகளில் படிக்கும் மாற்றுப்பாலின (Transgender) மாணவர்களின் பள்ளிப் படிப்பை ஊக்குவிக்க மத்திய அரசு வழங்கும் கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "transgender_students",
+        "school_students"
+      ],
+      "income_limit_annual": 250000,
+      "caste": "all",
+      "gender": "transgender",
+      "state_resident": true,
+      "education_level": [
+        "class_9",
+        "class_10",
+        "class_11",
+        "class_12"
+      ],
+      "mandatory_identity_token": "national_transgender_id_card",
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "annual_educational_allowance",
+      "value": "Flat ₹1,200 per annum paid directly via DBT to the student's account",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Official Transgender Certificate / Identity Card issued by the National Portal for Transgender Persons",
+      "Previous academic year mark-sheet / promotion certificate",
+      "Current academic year admission proof or fee receipt",
+      "Income Certificate issued by a competent revenue authority (Tehsildar/Collector)",
+      "Student Aadhaar Card copy",
+      "Aadhaar-seeded active Bank Account Passbook details"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://socialjustice.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "SMILE Scholarship Transgender Students Tamil",
+      "மாற்றுப்பாலினத்தவர் கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_INT_005",
+    "name_en": "Internship Scheme For PG/Research Students In Directorate General Of Trade Remedies (DGTR)",
+    "name_ta": "வர்த்தக தீர்வுகள் பொது இயக்குனரகத்தின் (DGTR) முதுகலை மற்றும் ஆராய்ச்சி மாணவர்களுக்கான இன்டர்ன்ஷிப் திட்டம்",
+    "type": "attached_central",
+    "category": "internship",
+    "description_en": "Specialized un-stipendiary government internship spanning 2-3 months at DGTR (New Delhi) for advanced law, economics, and finance students to learn about anti-dumping and international trade remedy investigations.",
+    "description_ta": "மத்திய வர்த்தக அமைச்சகத்தின் (DGTR) கீழ் சட்டம், பொருளாதாரம் மற்றும் நிதி (Finance/CA) படிக்கும் உயர்நிலை மாணவர்கள் சர்வதேச வர்த்தக விதிகள் மற்றும் விசாரணைகளை நேரடியாகக் கற்கும் 2-3 மாத இலவசப் பயிற்சித் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "law_students",
+        "economics_postgraduates",
+        "finance_scholars",
+        "ca_aspirants"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "min_graduation_percentage": 60,
+      "eligible_academic_stages": [
+        "masters_students",
+        "llb_final_years",
+        "llm_scholars",
+        "ca_intermediate_passed",
+        "fresh_graduates_within_6_months"
+      ],
+      "course_mode": "full_time",
+      "internship_duration_months": {
+        "min": 2,
+        "max": 3
+      },
+      "min_attendance_percentage_required": 90
+    },
+    "benefits": {
+      "type": "experience_internship",
+      "value": "Zero Stipend + Official DGTR Elite International Trade Experience Certificate upon successful research presentation",
+      "frequency": "once_per_event"
+    },
+    "documents_required": [
+      "Official Recommendation Letter / Bonafide Certificate from the Head of the Educational Institution",
+      "Consolidated Undergraduate degree graduation marksheet showcasing >= 60% marks",
+      "Detailed Resume / CV outlining research interests in trade law or economics",
+      "Short 250-word Statement of Purpose (SOP) focusing on trade remedies",
+      "Aadhaar Card copy"
+    ],
+    "apply_url": "https://www.dgtr.gov.in",
+    "official_source": "https://commerce.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "DGTR Ministry of Commerce Internship Tamil",
+      "மத்திய வர்த்தக அமைச்சகம் இன்டர்ன்ஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_034",
+    "name_en": "PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",
+    "name_ta": "பிற்படுத்தப்பட்ட மாணவர்களுக்கான PM-YASASVI உயர்தர கல்லூரி கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Centrally funded higher education scholarship providing up to ₹2 Lakhs/year tuition fees, ₹3,000/month living expenses, and a ₹45,000 one-time computer grant to meritorious OBC, EBC, and DNT students with family income under ₹2.5 Lakhs studying in notified top-class institutes.",
+    "description_ta": "மத்திய அரசின் உயர் கல்வித் திட்டம். ஐஐடி, என்ஐடி (IIT/NIT) போன்ற இந்தியாவின் சிறந்த கல்லூரிகளில் படிக்கும், ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட OBC, EBC மற்றும் DNT பிரிவு மாணவர்களின் முழு கல்விச் செலவையும் ஏற்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "obc_students",
+        "ebc_students",
+        "dnt_scholars",
+        "undergraduates"
+      ],
+      "income_limit_annual": 250000,
+      "caste_categories_allowed": [
+        "OBC",
+        "EBC",
+        "DNT"
+      ],
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "undergraduate_degree_enrolled",
+        "professional_diploma_enrolled"
+      ],
+      "institution_restriction": "notified_top_class_institutes_only",
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "full_educational_funding_caps",
+      "value": "Tuition Fees (Govt: Actuals / Private: Max ₹2 Lakhs/year) + Living Expenses (₹3,000/month) + Books Grant (₹5,000/year) + One-time Computer Grant (₹45,000)",
+      "frequency": "annual_split"
+    },
+    "documents_required": [
+      "Valid Caste/Community Certificate (OBC/EBC/DNT status verification)",
+      "Income Certificate issued by competent revenue authority (Tehsildar/Collector)",
+      "Class 10th and 12th passing marksheets",
+      "Official Fee Structure statement issued by the Head of Institution",
+      "Proof of admission / Seat allotment letter from the notified college",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded personal bank account passbook details"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://socialjustice.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "PM YASASVI Top Class College Scholarship Tamil",
+      "மத்திய அரசு உயர்கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_035",
+    "name_en": "Prime Minister's Scholarship Scheme (PMSS) for Ex-Servicemen / Ex-Coast Guard Personnel",
+    "name_ta": "முன்னாள் ராணுவத்தினரின் குழந்தைகளுக்கான பிரதமரின் கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "Ministry of Defence funded professional education scholarship providing up to ₹36,000/year to dependent children and widows of Ex-Servicemen and Ex-Coast Guard personnel based on a strict 7-tier service priority matrix.",
+    "description_ta": "முன்னாள் ராணுவத்தினர் மற்றும் கடலோர காவல்படை வீரர்களின் பிள்ளைகள் பொறியியல், மருத்துவம் போன்ற தொழில்முறை பட்டப்படிகளைப் படிக்க ஆண்டுக்கு ₹36,000 வரை வழங்கும் பிரதமரின் சிறப்பு உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "esm_dependent_children",
+        "military_widows",
+        "professional_degree_students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "genders_allowed": [
+        "male",
+        "female"
+      ],
+      "state_resident": true,
+      "min_meq_percentage": 60,
+      "education_level": [
+        "undergraduate_professional_1st_year",
+        "lateral_entry_2nd_year"
+      ],
+      "allowed_parental_services": [
+        "Indian_Army",
+        "Indian_Navy",
+        "Indian_Air_Force",
+        "Indian_Coast_Guard"
+      ],
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "gender_stratified_stipend",
+      "value": "Girls: ₹3,000 per month (₹36,000/year) | Boys: ₹2,500 per month (₹30,000/year) continuous through the course duration",
+      "frequency": "annual_lump_sum"
+    },
+    "documents_required": [
+      "Official Ex-Servicemen (ESM) Certificate / Discharge Book copy showing dependency details",
+      "Class 12th passing marksheet or Polytechnic Diploma consolidated certificate",
+      "Official Bonafide Student Certificate signed by the College Dean/Principal",
+      "Detailed course fee structure and active admission allocation token",
+      "Aadhaar Card copy of the student",
+      "Annexure-1 / Specimen Joining Report formatted by the institution",
+      "Aadhaar-seeded bank passbook copy highlighting clear account details"
+    ],
+    "apply_url": "https://ksb.gov.in",
+    "official_source": "https://desw.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Prime Ministers Scholarship Scheme KSB Tamil",
+      "முன்னாள் ராணுவத்தினர் பிள்ளை கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_036",
+    "name_en": "AICTE Post Graduate Scholarship Scheme for GATE/GPAT/CEED Qualified Students",
+    "name_ta": "கேட்/ஜிபேட் தேர்ச்சி பெற்றவர்களுக்கான AICTE முதுகலை கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "AICTE technical postgraduate stipend providing ₹12,400/month for a maximum of 2 years to full-time regular M.E./M.Tech/M.Pharm/M.Des students who hold valid GATE/GPAT/CEED qualifications inside approved seat intakes.",
+    "description_ta": "AICTE அங்கீகாரம் பெற்ற கல்லூரிகளில் முழுநேர எம்.இ/எம்.டெக் (M.E/M.Tech/M.Pharm) படிக்கும், GATE/GPAT தேர்வுகளில் தேர்ச்சி பெற்ற மாணவர்களுக்கு மாதம் ₹12,400 வீதம் இரண்டு ஆண்டுகளுக்கு வழங்கும் மத்திய அரசு நிதியுதவி.",
+    "eligibility": {
+      "target_group": [
+        "gate_qualified_students",
+        "gpat_qualified_scholars",
+        "ceed_candidates",
+        "postgraduates"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "masters_technical_1st_year_enrolled"
+      ],
+      "mandatory_qualifying_exams": [
+        "GATE",
+        "GPAT",
+        "CEED"
+      ],
+      "course_mode": "full_time",
+      "institution_accreditation_required": [
+        "AICTE_APPROVED"
+      ],
+      "within_approved_intake_quota": true,
+      "mandatory_teaching_assistantship_hours_per_week": 8
+    },
+    "benefits": {
+      "type": "financial_stipend",
+      "value": "₹12,400 per month continuous through the technical postgraduate course",
+      "frequency": "monthly",
+      "max_duration_years": 2
+    },
+    "documents_required": [
+      "Valid GATE / GPAT / CEED scorecard matching the applicant name",
+      "Official Post-Graduate Admission letter confirming selection under approved intake",
+      "Institutional Bonafide Student Certificate signed by Principal/Registrar",
+      "Class 10th, 12th, and final B.E./B.Tech/B.Pharm graduation marksheets",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded personal bank account passbook details featuring clear IFSC token"
+    ],
+    "apply_url": "https://pgscholarship.aicte-india.org",
+    "official_source": "https://www.aicte-india.org",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "AICTE PG Scholarship GATE MTech Tamil",
+      "கேட் தேர்வு எம்டெக் உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_037",
+    "name_en": "Merit-cum-Means Scholarships For Under Graduate Studies In Various Branches Of Agriculture And Animal Science Subjects",
+    "name_ta": "வேளான் மற்றும் கால்நடை அறிவியல் இளங்கலை படிப்புகளுக்கான தகுதி மற்றும் வருவாய் அடிப்படையிலான உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "ICAR merit-cum-means scholarship providing ₹1,000/month to undergraduate agricultural and veterinary students who maintain a minimum 6.0 OGPA with an annual family income under ₹2.5 Lakhs.",
+    "description_ta": "அரசு வேளாண் பல்கலைக்கழகங்களில் இளங்கலை (UG) படிக்கும், தகுதி மற்றும் ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் கொண்ட மாணவர்களுக்கு மாதம் ₹1,000 வீதம் பட்டப்படிப்பு முடியும் வரை வழங்கும் மத்திய அரசு உதவித்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "agriculture_undergraduates",
+        "veterinary_students",
+        "ug_scholars"
+      ],
+      "income_limit_annual": 250000,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "undergraduate_1st_year_enrolled"
+      ],
+      "min_class_12_percentage_general": 60,
+      "min_class_12_percentage_reserved": 50,
+      "course_mode": "full_time",
+      "institutional_quota_cap_percentage": 7,
+      "renewal_min_ogpa_required": 6.0
+    },
+    "benefits": {
+      "type": "financial_stipend",
+      "value": "₹1,000 per month continuous throughout the undergraduate degree program",
+      "frequency": "monthly",
+      "max_duration_years": 5.5
+    },
+    "documents_required": [
+      "Class 12th final examination passing certificate and marksheet",
+      "Official Income Certificate issued by a competent revenue authority (Tehsildar/Collector)",
+      "Official UG Admission Letter and seat allotment token from the Agricultural University",
+      "Bonafide student certificate signed by the Dean or Registrar of the College",
+      "Aadhaar Card copy",
+      "Aadhaar-seeded personal bank account passbook copy highlighting active IFSC details"
+    ],
+    "apply_url": "https://icar.org.in",
+    "official_source": "https://education.icar.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "ICAR Merit Cum Means Scholarship UG Tamil",
+      "வேளாண்மை கல்லூரி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_INT_006",
+    "name_en": "Scheme of Internship of Students to DRDO Labs/Estts for Project Training",
+    "name_ta": "DRDO ஆய்வகங்களுக்கான மாணவர்கள் ஆராய்ச்சி மற்றும் திட்டப் பயிற்சி திட்டம்",
+    "type": "attached_central",
+    "category": "internship",
+    "description_en": "Advanced un-stipendiary defence research training spanning 1-6 months across specialized DRDO laboratories for final-year engineering and postgraduate science students holding a minimum 60% score.",
+    "description_ta": "மத்திய பாதுகாப்பு ஆராய்ச்சி நிறுவனத்தில் (DRDO) இறுதி ஆண்டு பொறியியல் மற்றும் அறிவியல் மாணவர்கள் 1 முதல் 6 மாதங்கள் வரை கட்டணமில்லா நேரடி திட்டப் பயிற்சி (Project Training) பெறும் உயர்தர திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "engineering_students",
+        "postgraduates",
+        "mtech_scholars",
+        "science_students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "nationality": "Indian_only",
+      "min_aggregate_percentage": 60,
+      "min_aggregate_cgpa": 6.75,
+      "eligible_academic_stages": [
+        "btech_final_year",
+        "mtech_final_year",
+        "msc_final_year",
+        "mca_final_year"
+      ],
+      "course_mode": "full_time",
+      "internship_duration_months": {
+        "min": 1,
+        "max": 6
+      },
+      "security_clearance_required": true
+    },
+    "benefits": {
+      "type": "project_thesis_training",
+      "value": "Zero Stipend + Access to state-of-the-art Defence R&D Labs + Official DRDO Project Completion Certificate",
+      "frequency": "once_per_event"
+    },
+    "documents_required": [
+      "Official institutional No Objection Certificate (NOC) signed by the Principal/HOD in original",
+      "Detailed resume highlighting specific technical skills and lab matching fields",
+      "Consolidated semester marksheets up to the pre-final semester showcasing >=60% marks",
+      "Two passport size photographs",
+      "Valid College Identity Card and Aadhaar Card copy"
+    ],
+    "apply_url": "https://www.drdo.gov.in/careers",
+    "official_source": "https://www.drdo.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "DRDO Project Training Internship Scheme Tamil",
+      "டிஆர்டிஓ ஆய்வக இன்டர்ன்ஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "CN_INT_007",
+    "name_en": "Internship Programme Of The Wildlife Crime Control Bureau (WCCB)",
+    "name_ta": "வனவிலங்கு குற்றக் கட்டுப்பாட்டு வாரியத்தின் (WCCB) ஆராய்ச்சிப் பயிற்சித் திட்டம்",
+    "type": "statutory_central",
+    "category": "internship",
+    "description_en": "Specialized un-stipendiary government enforcement internship spanning 1-2 months at WCCB stations for advanced law, stem, and forestry students to learn about wildlife trafficking intelligence and environmental law litigation.",
+    "description_ta": "மத்திய சுற்றுச்சூழல் அமைச்சகத்தின் (WCCB) கீழ் சட்டம், வனவியல், விலங்கியல் மற்றும் ஐடி படிக்கும் மாணவர்கள் வனவிலங்கு குற்றத்தடுப்பு மற்றும் புலனாய்வு குறித்து நேரடியாகக் கற்கும் 1-2 மாத இலவசப் பயிற்சித் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "law_students",
+        "zoology_graduates",
+        "environmental_scholars",
+        "it_students"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "nationality": "Indian_only",
+      "eligible_academic_stages": [
+        "llb_completed_2nd_year",
+        "postgraduate_scholars",
+        "btech_computer_science",
+        "phd_researchers"
+      ],
+      "course_mode": "full_time",
+      "internship_duration_months": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "benefits": {
+      "type": "experience_internship",
+      "value": "Zero Stipend + Direct Exposure to Anti-Poaching Intelligence Operations + Official Statutory WCCB Experience Certificate",
+      "frequency": "once_per_event"
+    },
+    "documents_required": [
+      "Official Recommendation Letter / Bonafide Certificate issued by the Head of Department/Institution",
+      "Consolidated academic transcripts from graduation onwards",
+      "Detailed Statement of Purpose (SOP) under 500 words focusing on wildlife crime control",
+      "Valid institutional Identity Card copy",
+      "Aadhaar Card copy"
+    ],
+    "apply_url": "https://wccb.gov.in",
+    "official_source": "http://moef.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Wildlife Crime Control Bureau WCCB Internship Tamil",
+      "மத்திய அரசு வனத்துறை இன்டர்ன்ஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "CN_INT_008",
+    "name_en": "DPIIT Internship Scheme",
+    "name_ta": "தொழில் மற்றும் உள்நாட்டு வர்த்தகத்தை ஊக்குவிக்கும் துறையின் (DPIIT) இன்டர்ன்ஷிப் திட்டம்",
+    "type": "central_admin",
+    "category": "internship",
+    "description_en": "Flexible 1-3 month stipend-based (₹10,000/month) government internship for UG, PG, and Research students to support industrial policy, startup growth, and IPR frameworks.",
+    "description_ta": "தொழில் மற்றும் வர்த்தக அமைச்சகத்தின் (DPIIT) கீழ் ஸ்டார்ட்அப் இந்தியா, அறிவுசார் சொத்துரிமை (IPR) மற்றும் கொள்கை உருவாக்கத்தில் மாணவர்கள் பங்களிக்க உதவும் 1-3 மாத கால கட்டணத்துடன் கூடிய பயிற்சி திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "ug_students",
+        "pg_students",
+        "research_scholars"
+      ],
+      "income_limit_annual": null,
+      "caste": "all",
+      "gender": "all",
+      "state_resident": true,
+      "min_aggregate_percentage": 60,
+      "course_mode": "full_time",
+      "internship_duration_options_months": [
+        1,
+        2,
+        3
+      ]
+    },
+    "benefits": {
+      "type": "stipendiary_internship",
+      "value": "₹10,000 per month stipend + DPIIT official experience certificate",
+      "frequency": "monthly_conditional"
+    },
+    "documents_required": [
+      "Official HOD/Registrar Recommendation Letter",
+      "Consolidated marksheet showing minimum 60% aggregate",
+      "Detailed CV highlighting interest in Policy/IPR/Startups",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank passbook copy for DBT"
+    ],
+    "apply_url": "https://dpiit.gov.in",
+    "official_source": "https://dpiit.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "DPIIT Internship Scheme Tamil",
+      "ஸ்டார்ட்அப் இந்தியா இன்டர்ன்ஷிப்"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_038",
+    "name_en": "AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Diploma)",
+    "name_ta": "மாற்றுத்திறனாளி மாணவர்களுக்கான AICTE சக்ஷம் (Diploma) கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "AICTE-funded scholarship providing ₹50,000 annually to specially-abled students (min 40% disability) pursuing technical Diploma programs with family income under ₹8 Lakhs.",
+    "description_ta": "AICTE அங்கீகாரம் பெற்ற கல்லூரிகளில் தொழில்நுட்ப டிப்ளமோ (Diploma) படிக்கும், 40% மேல் மாற்றுத்திறன் கொண்ட, ₹8 லட்சத்திற்குள் குடும்ப வருமானம் உள்ள மாணவர்களுக்கான ₹50,000 கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "specially_abled_students",
+        "diploma_students"
+      ],
+      "income_limit_annual": 800000,
+      "disability_min_percentage": 40,
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "diploma_1st_year",
+        "diploma_2nd_year_lateral"
+      ],
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "financial_lump_sum",
+      "value": "₹50,000 per annum (Max 3 years for regular / Max 2 years for lateral entry)",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Medical Board issued Disability Certificate (min 40%)",
+      "Class 10th marksheet",
+      "Official Admission Letter from State/Central Counseling Board",
+      "Fee receipt for current academic year",
+      "Income Certificate issued by Tehsildar/Competent Authority",
+      "Aadhaar Card",
+      "Aadhaar-seeded bank passbook"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.aicte-india.org",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "AICTE Saksham Scholarship Diploma Tamil",
+      "மாற்றுத்திறனாளி மாணவர் கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_039",
+    "name_en": "Pre-Matric Scholarship for Scheduled Caste Students",
+    "name_ta": "ஆதிதிராவிட மாணவர்களுக்கான முன்-மெட்ரிக் கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "MoSJE-funded pre-matric scholarship providing annual maintenance and book grants to SC students in Classes 9 and 10 with family income below ₹2.5 Lakhs.",
+    "description_ta": "9 மற்றும் 10ஆம் வகுப்பு படிக்கும் ஆதிதிராவிட (SC) மாணவர்களின் கல்விச் செலவை ஈடுகட்ட, ₹2.5 லட்சத்திற்குள் குடும்ப வருமானம் உள்ளவர்களுக்கு அரசு வழங்கும் கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students",
+        "school_students"
+      ],
+      "income_limit_annual": 250000,
+      "caste": "SC",
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "class_9",
+        "class_10"
+      ],
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "maintenance_allowance_plus_grant",
+      "value": "Day Scholar: ₹4,000/year | Hosteller: ₹7,750/year",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Valid Scheduled Caste (SC) Certificate",
+      "Income Certificate issued by Tehsildar/Collector",
+      "Student's Aadhaar Card",
+      "Bonafide Certificate from school",
+      "Aadhaar-seeded bank account passbook copy"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://socialjustice.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "SC Pre Matric Scholarship Tamil",
+      "ஆதிதிராவிட மாணவர் கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_040",
+    "name_en": "Top Class Education for Scheduled Caste Students",
+    "name_ta": "ஆதிதிராவிட மாணவர்களுக்கான உயர்தர கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "MoSJE-funded elite education scholarship covering 100% tuition fees, living expenses (₹3,000/mo), and a ₹45,000 one-time hardware grant for SC students with family income under ₹8 Lakhs studying in notified top-tier institutes.",
+    "description_ta": "ஐஐடி, என்ஐடி மற்றும் உயர்தர தேசிய கல்வி நிறுவனங்களில் படிக்கும் ஆதிதிராவிட (SC) மாணவர்களின் முழு கல்விச் செலவு, தங்கும் செலவு மற்றும் மடிக்கணினி வாங்குவதற்கான உதவித்தொகையை வழங்கும் மத்திய அரசு திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students",
+        "top_class_education_aspirants"
+      ],
+      "income_limit_annual": 800000,
+      "caste": "SC",
+      "gender": "all",
+      "state_resident": true,
+      "institution_restriction": "notified_top_tier_institutes_only",
+      "course_mode": "full_time"
+    },
+    "benefits": {
+      "type": "full_educational_funding",
+      "value": "100% Tuition Fees + ₹3,000/month living costs + ₹5,000/year books + ₹45,000 one-time hardware grant",
+      "frequency": "annual_split"
+    },
+    "documents_required": [
+      "Valid Scheduled Caste (SC) Certificate",
+      "Income Certificate (Annual family income < ₹8 Lakhs)",
+      "Proof of admission in a notified Top Class Institution",
+      "Fee payment receipts",
+      "Aadhaar Card",
+      "Aadhaar-seeded Bank Account passbook copy"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://socialjustice.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Top Class Education Scholarship SC Tamil",
+      "ஆதிதிராவிட மாணவர் உயர்தர கல்வி உதவித்தொகை"
+    ]
+  },
+  {
+    "scheme_id": "CN_SCH_041",
+    "name_en": "Coaching Scheme for SC/ST/OBC (Non-Creamy Layer) & Minority Students",
+    "name_ta": "SC/ST/OBC மற்றும் சிறுபான்மையின மாணவர்களுக்கான போட்டித்தேர்வு பயிற்சித் திட்டம்",
+    "type": "central",
+    "category": "competitive_coaching",
+    "description_en": "Ministry-funded coaching scheme providing professional training for competitive exams (UPSC, JEE, NEET, etc.) to marginalized communities with family income below ₹8 Lakhs.",
+    "description_ta": "பிற்படுத்தப்பட்ட மற்றும் சிறுபான்மையின சமூகத்தைச் சேர்ந்த மாணவர்கள் யு.பி.எஸ்.சி (UPSC), ஜே.இ.இ (JEE), நீட் (NEET) போன்ற போட்டித்தேர்வுகளுக்கு இலவசமாக பயிற்சி பெற அரசு வழங்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students",
+        "st_students",
+        "obc_non_creamy_layer",
+        "minority_students"
+      ],
+      "income_limit_annual": 800000,
+      "caste_categories_allowed": [
+        "SC",
+        "ST",
+        "OBC_NCL",
+        "Minority"
+      ],
+      "gender": "all",
+      "state_resident": true,
+      "education_level": [
+        "degree_holders",
+        "final_year_undergraduates"
+      ]
+    },
+    "benefits": {
+      "type": "professional_coaching_fee_subsidy",
+      "value": "Direct payment of coaching fees to institute + Optional stipend for boarding/lodging (exam dependent)",
+      "frequency": "one_time_per_exam_cycle"
+    },
+    "documents_required": [
+      "Valid Caste/Community Certificate",
+      "Income Certificate (Annual family income < ₹8 Lakhs)",
+      "Aadhaar Card",
+      "Educational certificates matching the exam eligibility",
+      "Aadhaar-seeded bank passbook copy for any direct stipend payout"
+    ],
+    "apply_url": "https://coaching.minorityaffairs.gov.in",
+    "official_source": "https://www.minorityaffairs.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true,
+    "youtube_keywords": [
+      "Free Coaching Scheme SC ST OBC Tamil",
+      "சிறுபான்மையினர் போட்டித்தேர்வு இலவச பயிற்சி"
+    ]
+  },
+  {
+    "scheme_id": "ICAR_PMS_SCSTC",
+    "name_en": "Post-Matric Scholarship for Scheduled Caste / Scheduled Tribes Candidates",
+    "name_ta": "ஆதிதிராவிட மற்றும் பழங்குடியின மாணவர்களுக்கான ICAR முதுகலை-முந்தைய கல்வி உதவித்தொகை",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "ICAR-funded financial assistance for SC/ST students pursuing Bachelor’s degrees in Agriculture and allied sciences, providing ₹1,000/month plus a ₹750/year contingency grant.",
+    "description_ta": "வேளாண்மை மற்றும் அது சார்ந்த துறைகளில் இளங்கலை (UG) படிக்கும் ஆதிதிராவிட (SC) மற்றும் பழங்குடியின (ST) மாணவர்களுக்கு ICAR மூலம் வழங்கப்படும் மாதாந்திர உதவித்தொகை மற்றும் வருடாந்திர கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students",
+        "st_students",
+        "undergraduate_agriculture_students"
+      ],
+      "caste_categories_allowed": [
+        "SC",
+        "ST"
+      ],
+      "course_mode": "full_time",
+      "education_level": [
+        "undergraduate_degree"
+      ]
+    },
+    "benefits": {
+      "type": "financial_stipend",
+      "value": "₹1,000 per month + ₹750 per annum contingency grant",
+      "frequency": "monthly_and_annual"
+    },
+    "apply_url": "https://www.myscheme.gov.in/schemes/icar-pms-scstc",
+    "official_source": "https://icar.org.in",
+    "active": true
+  },
+  {
+    "scheme_id": "ICAR_PMS_SCSTC",
+    "name_en": "Post-Matric Scholarship for Scheduled Caste / Scheduled Tribes Candidates",
+    "name_ta": "ஆதிதிராவிட மற்றும் பழங்குடியின மாணவர்களுக்கான ICAR முதுகலை-முந்தைய கல்வி உதவித்தொகை",
+    "type": "central",
+    "category": "scholarship",
+    "description_en": "ICAR-funded financial assistance for SC/ST students pursuing Bachelor’s degrees in Agriculture and allied sciences, providing ₹1,000/month plus a ₹750/year contingency grant.",
+    "description_ta": "வேளாண்மை மற்றும் அது சார்ந்த துறைகளில் இளங்கலை (UG) படிக்கும் ஆதிதிராவிட (SC) மற்றும் பழங்குடியின (ST) மாணவர்களுக்கு ICAR மூலம் வழங்கப்படும் மாதாந்திர உதவித்தொகை மற்றும் வருடாந்திர கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students",
+        "st_students",
+        "undergraduate_agriculture_students"
+      ],
+      "caste_categories_allowed": [
+        "SC",
+        "ST"
+      ],
+      "course_mode": "full_time",
+      "education_level": [
+        "undergraduate_degree"
+      ]
+    },
+    "benefits": {
+      "type": "financial_stipend",
+      "value": "₹1,000 per month + ₹750 per annum contingency grant",
+      "frequency": "monthly_and_annual"
+    },
+    "apply_url": "https://www.myscheme.gov.in/schemes/icar-pms-scstc",
+    "official_source": "https://icar.org.in",
+    "active": true
+  },
+  {
+    "scheme_id": "CN_SCH_042",
+    "name_en": "National Overseas Scholarship (NOS) for SC, etc.",
+    "name_ta": "ஆதிதிராவிடர் மற்றும் இதர பிரிவினருக்கான தேசிய வெளிநாட்டு கல்வி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "international_scholarship",
+    "description_en": "MoSJE-funded international scholarship for SC, DNT, and traditional artisan students to pursue Master's/Ph.D. programs at top 500 QS-ranked foreign universities with full tuition and maintenance coverage.",
+    "description_ta": "ஆதிதிராவிடர், நாடோடி மற்றும் பாரம்பரிய கைவினைஞர் சமூக மாணவர்களுக்கு வெளிநாடுகளில் உள்ள முன்னணி பல்கலைக்கழகங்களில் முதுகலை அல்லது பி.ஹெச்டி (Ph.D) படிக்கத் தேவையான அனைத்துச் செலவுகளையும் ஏற்கும் மத்திய அரசு திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students",
+        "dnt_students",
+        "artisans"
+      ],
+      "income_limit_annual": 800000,
+      "age_limit": 35,
+      "min_degree_percentage": 60,
+      "course_level": [
+        "masters",
+        "phd"
+      ],
+      "ranking_requirement": "top_500_qs_ranked_universities"
+    },
+    "benefits": {
+      "type": "full_funding",
+      "value": "100% Tuition Fees + Maintenance Allowance + Round-trip Airfare + Visa Fees",
+      "frequency": "program_duration"
+    },
+    "documents_required": [
+      "Confirmed admission offer from foreign university",
+      "Caste Certificate",
+      "Income Certificate",
+      "Statement of Purpose (SOP)",
+      "Two letters of recommendation",
+      "Passport copy"
+    ],
+    "apply_url": "https://nosmsje.gov.in",
+    "official_source": "https://socialjustice.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "CN_VOC_012",
+    "name_en": "National Career Service Centers for SC/STs",
+    "name_ta": "SC/ST மாணவர்களுக்கான தேசிய தொழில் சேவை மையங்கள்",
+    "type": "central",
+    "category": "vocational_guidance",
+    "description_en": "Government centers offering free vocational guidance, skill training (computer/typing), and competitive exam coaching exclusively for unemployed SC/ST job seekers.",
+    "description_ta": "வேலைவாய்ப்பற்ற ஆதிதிராவிட மற்றும் பழங்குடியின இளைஞர்களுக்கு, அரசு வேலைவாய்ப்பு மற்றும் போட்டித்தேர்வுகளுக்கான இலவசப் பயிற்சி மற்றும் தொழில் வழிகாட்டுதல் வழங்கும் மத்திய அரசு மையங்கள்.",
+    "eligibility": {
+      "target_group": [
+        "sc_jobseekers",
+        "st_jobseekers"
+      ],
+      "employment_status": "unemployed",
+      "min_qualification": "class_10",
+      "registration": "mandatory_ncs_portal_id"
+    },
+    "benefits": {
+      "type": "vocational_services",
+      "value": "Free coaching, personality development, computer training, and shorthand/typing practice",
+      "frequency": "as_scheduled_by_center"
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Aadhaar Card",
+      "Educational Qualification Certificates (10th/12th/Degree)",
+      "Employment Exchange Registration / NCS ID"
+    ],
+    "apply_url": "https://ncs.gov.in",
+    "official_source": "https://labour.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true
+  },
+  {
+    "scheme_id": "CN_SCH_043",
+    "name_en": "National Fellowship for Scheduled Caste Students (NFSC)",
+    "name_ta": "ஆதிதிராவிட மாணவர்களுக்கான தேசிய ஆராய்ச்சி உதவித்தொகை திட்டம்",
+    "type": "central",
+    "category": "research_fellowship",
+    "description_en": "MoSJE-funded 5-year fellowship for SC students pursuing regular M.Phil./Ph.D. research, providing up to ₹42,000/month plus contingency grants, following the clearance of UGC-NET (JRF).",
+    "description_ta": "UGC-NET (JRF) தேர்ச்சி பெற்ற ஆதிதிராவிட (SC) மாணவர்கள் இந்தியப் பல்கலைக்கழகங்களில் முழுநேர ஆராய்ச்சி (Ph.D.) செய்ய மாதம் ₹42,000 வரை வழங்கும் மத்திய அரசின் ஆராய்ச்சி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students",
+        "phd_researchers"
+      ],
+      "income_limit_annual": null,
+      "caste": "SC",
+      "mandatory_qualifying_exam": [
+        "UGC-NET-JRF",
+        "Joint-UGC-CSIR-NET-JRF"
+      ],
+      "course_mode": "full_time",
+      "education_level": [
+        "mphil",
+        "phd"
+      ]
+    },
+    "benefits": {
+      "type": "research_stipend",
+      "value": "₹37,000-₹42,000 per month + Contingency + HRA",
+      "frequency": "monthly"
+    },
+    "documents_required": [
+      "NET-JRF qualifying certificate",
+      "University registration letter for M.Phil./Ph.D.",
+      "Caste Certificate",
+      "Aadhaar Card",
+      "Bank passbook for DBT"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://socialjustice.gov.in",
+    "last_updated": "2026-06-11",
+    "active": true
+  },
+  {
+    "scheme_id": "WMCL_CB_001",
+    "name_en": "Welfare Measures for Children of Labourers (Coffee Board)",
+    "type": "central_sector",
+    "category": "educational_welfare",
+    "description_en": "Ministry of Commerce and Industry scheme providing stipends, merit incentives, and financial assistance to SC/ST coffee plantation labourers' children for post-10th grade education.",
+    "eligibility": {
+      "target_group": [
+        "sc_st_labourer_children"
+      ],
+      "parental_workplace": [
+        "coffee_plantations",
+        "licensed_coffee_curing_works"
+      ],
+      "birth_order": "first_two_surviving_children",
+      "education_level": [
+        "post_10th_grade",
+        "higher_education"
+      ],
+      "institution_type": "govt_recognized"
+    },
+    "benefits": {
+      "type": "stipend_and_financial_assistance",
+      "value": "Up to ₹7,500 for higher/professional education",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Filled application form",
+      "SC/ST caste certificate",
+      "Previous class marksheet",
+      "Student Aadhaar/ID card"
+    ],
+    "official_source": "https://www.myscheme.gov.in/schemes/wmcl",
+    "active": true
+  },
+  {
+    "scheme_id": "CN_SCH_044",
+    "name_en": "National Scheme of Incentive to Girls for Secondary Education (NSIGSE)",
+    "name_ta": "இடைநிலை கல்விக்கான சிறுமிகளின் ஊக்கத்தொகை திட்டம்",
+    "type": "centrally_sponsored",
+    "category": "education_incentive",
+    "description_en": "Ministry of Education scheme providing a ₹3,000 fixed deposit incentive to SC/ST and KGBV-passed girls enrolling in Class 9, payable upon passing Class 10 and turning 18.",
+    "description_ta": "எட்டாம் வகுப்பு முடித்து ஒன்பதாம் வகுப்பில் சேரும் ஆதிதிராவிட/பழங்குடியின மற்றும் KGBV மாணவிகளுக்கு ₹3,000 ஊக்கத்தொகையாக வழங்கும் மத்திய அரசு திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_st_girls",
+        "kgbv_passed_girls"
+      ],
+      "age_limit": 16,
+      "marital_status": "unmarried",
+      "education_level": [
+        "enrolled_in_class_9"
+      ],
+      "institution_type": [
+        "govt_schools",
+        "govt_aided_schools",
+        "local_body_schools"
+      ]
+    },
+    "benefits": {
+      "type": "fixed_term_deposit",
+      "value": "₹3,000 plus accrued interest",
+      "withdrawal_condition": [
+        "passed_class_10",
+        "attained_18_years_age"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Class 8 Marksheet",
+      "School Enrollment Certificate",
+      "Bank Account Details"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.education.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "CSS_UMSC",
+    "name_en": "Centrally Sponsored Scheme of Upgradation of Merit of Scheduled Caste Students",
+    "name_ta": "ஆதிதிராவிட மாணவர்களின் தரம் உயர்த்துவதற்கான மத்திய அரசுத் திட்டம்",
+    "type": "centrally_sponsored",
+    "category": "educational_support",
+    "description_en": "A remedial and special coaching scheme for SC students (Classes IX-XII) to improve academic performance and prepare them for competitive professional entrance exams.",
+    "description_ta": "9 முதல் 12-ஆம் வகுப்பு வரை படிக்கும் ஆதிதிராவிட மாணவர்களின் கல்வித் தரத்தை மேம்படுத்தவும், போட்டித் தேர்வுகளுக்குத் தயார் செய்யவும் அரசு வழங்கும் உதவித்தொகை மற்றும் பயிற்சித் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students"
+      ],
+      "education_level": [
+        "class_ix",
+        "class_x",
+        "class_xi",
+        "class_xii"
+      ],
+      "residence_status": [
+        "residential",
+        "non_residential"
+      ],
+      "income_limit_annual": 300000
+    },
+    "benefits": {
+      "type": "package_grant",
+      "value": "₹25,000 per student per year (Breakdown: ₹15,000 for student needs, ₹10,000 for school/expert support)",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Academic Records",
+      "School Enrollment Proof",
+      "Disability Certificate (if applicable)"
+    ],
+    "official_source": "https://socialjustice.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "NSFDC_ELS_001",
+    "name_en": "Education Loan Scheme (NSFDC)",
+    "name_ta": "NSFDC கல்விக்கடன் திட்டம்",
+    "type": "credit_linked",
+    "category": "education_loan",
+    "description_en": "Concessional education loan scheme for SC students to pursue full-time professional courses in India (up to ₹30L) and abroad (up to ₹40L) at low interest rates.",
+    "description_ta": "ஆதிதிராவிட (SC) மாணவர்கள் இந்தியாவில் உயர்கல்வி (₹30 லட்சம் வரை) மற்றும் வெளிநாட்டில் உயர்கல்வி (₹40 லட்சம் வரை) பயில குறைந்த வட்டி விகிதத்தில் வழங்கும் கல்விக்கடன் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students"
+      ],
+      "income_limit_annual": 300000,
+      "course_mode": "full_time",
+      "course_type": [
+        "professional",
+        "technical"
+      ],
+      "nationality": "Indian"
+    },
+    "benefits": {
+      "type": "concessional_loan",
+      "value": "Up to ₹30 Lakhs (India) / ₹40 Lakhs (Abroad) at 6-7% interest",
+      "frequency": "one_time_disbursement"
+    },
+    "documents_required": [
+      "SC Certificate",
+      "Income Certificate",
+      "Admission letter from recognized institution",
+      "Aadhaar Card",
+      "Bank passbook"
+    ],
+    "official_source": "https://nsfdc.nic.in",
+    "active": true
+  },
+  {
+    "scheme_id": "TN_SCH_001",
+    "name_en": "Awards to Bright Students",
+    "name_ta": "சிறந்த மாணவர்களுக்கான விருதுத் திட்டம்",
+    "type": "state_sector",
+    "category": "merit_award",
+    "description_en": "A Tamil Nadu state-run merit scheme rewarding the top two boys and two girls from SC/ST and converted Christian communities in each district who excel in 10th-grade exams.",
+    "description_ta": "ஒவ்வொரு மாவட்டத்திலும் 10-ஆம் வகுப்பு பொதுத்தேர்வில் அதிக மதிப்பெண் பெறும் ஆதிதிராவிட/பழங்குடியின மற்றும் கிறிஸ்தவ மதம் மாறிய ஆதிதிராவிட சமூகத்தைச் சேர்ந்த முதல் இரண்டு மாணவர் மற்றும் மாணவியருக்கு வழங்கப்படும் ஊக்கத்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "adi_dravidar_students",
+        "tribal_students",
+        "converted_christian_adi_dravidar"
+      ],
+      "merit_criteria": "top_2_per_gender_per_district",
+      "exam_level": "class_10_sslc",
+      "continuation_requirement": "must_continue_studies"
+    },
+    "benefits": {
+      "type": "merit_award_cash",
+      "value": "One-time cash incentive",
+      "frequency": "one_time"
+    },
+    "official_source": "https://adw.tn.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "TN_SCH_002",
+    "name_en": "Book Bank Scheme: II",
+    "name_ta": "புத்தக வங்கித் திட்டம்: II",
+    "type": "state_sector",
+    "category": "educational_resource",
+    "description_en": "Tamil Nadu state scheme providing professional course textbooks (Medical, Engineering, Law, MBA) on a loan basis to Adi Dravidar and Tribal students, to be returned post-completion.",
+    "description_ta": "ஆதிதிராவிட மற்றும் பழங்குடியின மாணவர்கள் மருத்துவம், பொறியியல், சட்டம் மற்றும் எம்பிஏ போன்ற தொழில்முறை படிப்புகளுக்குத் தேவையான விலையுயர்ந்த புத்தகங்களை இலவசமாகப் பெற்று, படிப்பு முடிந்ததும் திருப்பி ஒப்படைக்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "adi_dravidar_students",
+        "tribal_students"
+      ],
+      "course_type": [
+        "professional",
+        "technical"
+      ],
+      "return_requirement": true
+    },
+    "benefits": {
+      "type": "book_loan",
+      "value": "Full set of required professional textbooks",
+      "frequency": "degree_duration"
+    },
+    "official_source": "https://adw.tn.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "TN_SCH_003",
+    "name_en": "Annal Gandhi Memorial Award",
+    "name_ta": "அண்ணல் காந்தி நினைவு விருது",
+    "type": "state_sector",
+    "category": "merit_award",
+    "description_en": "State-sponsored merit award for Hindu Adi Dravidar students in Tamil Nadu, providing financial support (₹2,000 in first year, ₹1,500/year for 5 years) to the district-level first-rank holders of 12th standard exams.",
+    "description_ta": "தமிழ்நாட்டில் உள்ள மாவட்டங்களில் 12-ஆம் வகுப்பு பொதுத்தேர்வில் முதலிடம் பெறும் இந்து ஆதிதிராவிட சமூகத்தைச் சேர்ந்த மாணவர் மற்றும் மாணவிக்கு வழங்கப்படும் கல்வி உதவித்தொகை திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "hindu_adi_dravidar"
+      ],
+      "merit_criteria": "first_rank_in_district",
+      "exam_level": "class_12",
+      "gender": [
+        "male",
+        "female"
+      ]
+    },
+    "benefits": {
+      "type": "financial_assistance",
+      "value": "₹2,000 (1st year) + ₹1,500/annum (next 5 years)",
+      "frequency": "annual_installment"
+    },
+    "official_source": "https://adw.tn.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "TN_SCH_004",
+    "name_en": "Chief Minister Merit Award",
+    "name_ta": "முதலமைச்சரின் தகுதி விருது",
+    "type": "state_sector",
+    "category": "merit_award",
+    "description_en": "State-sponsored merit award for SC/ST and converted Christian students in Tamil Nadu, providing ₹3,000/year for 5 years to the top 1,000 boys and 1,000 girls in Plus 2 exams who continue higher education.",
+    "description_ta": "பிளஸ் 2 பொதுத்தேர்வில் அதிக மதிப்பெண் பெற்று உயர்கல்வியைத் தொடரும் ஆதிதிராவிட, பழங்குடியின மற்றும் கிறிஸ்தவ மதம் மாறிய ஆதிதிராவிட சமூகத்தைச் சேர்ந்த 1000 மாணவர்கள் மற்றும் 1000 மாணவிகளுக்கு ஆண்டுக்கு ₹3,000 வீதம் 5 ஆண்டுகளுக்கு வழங்கப்படும் ஊக்கத்தொகை.",
+    "eligibility": {
+      "target_group": [
+        "adi_dravidar",
+        "tribal",
+        "adi_dravidar_converted_to_christianity"
+      ],
+      "merit_criteria": "top_1000_boys_top_1000_girls_in_plus_2",
+      "education_level": "higher_education_ug",
+      "continuation_requirement": true
+    },
+    "benefits": {
+      "type": "financial_stipend",
+      "value": "₹3,000 per annum",
+      "frequency": "annual_for_5_years"
+    },
+    "official_source": "https://adw.tn.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "MTA_PMS_ST_001",
+    "name_en": "Post-Matric Scholarship Scheme for ST Students",
+    "name_ta": "பழங்குடியின மாணவர்களுக்கான கல்விக்குப் பிந்தைய கல்வி உதவித்தொகை திட்டம்",
+    "type": "centrally_sponsored",
+    "category": "scholarship",
+    "description_en": "Ministry of Tribal Affairs scheme providing tuition fee reimbursement and monthly maintenance stipends to ST students for post-matriculation courses in India.",
+    "description_ta": "பழங்குடியின (ST) மாணவர்கள் 11-ஆம் வகுப்பு முதல் முதுகலை மற்றும் ஆராய்ச்சி வரை இந்தியாவில் பயில கல்விக்கட்டணம் மற்றும் மாதாந்திர உதவித்தொகை வழங்கும் மத்திய அரசின் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "st_students"
+      ],
+      "income_limit_annual": 250000,
+      "education_level": [
+        "class_xi",
+        "class_xii",
+        "undergraduate",
+        "postgraduate",
+        "phd"
+      ],
+      "residency": "permanent_resident_of_state_ut"
+    },
+    "benefits": {
+      "type": "fee_reimbursement_and_stipend",
+      "value": "Compulsory fees + Monthly maintenance allowance (₹230 - ₹1,200)",
+      "frequency": "annual_and_monthly"
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Aadhaar Card",
+      "Bank passbook linked to Aadhaar",
+      "Fee receipt of current year",
+      "Previous class marksheet"
+    ],
+    "official_source": "https://tribal.nic.in",
+    "apply_url": "https://scholarships.gov.in",
+    "active": true
+  },
+  {
+    "schemes": [
+      {
+        "scheme_name": "Free Coaching Scheme for SC, OBC and PM CARES",
+        "nodal_ministry": "Ministry of Social Justice and Empowerment",
+        "target_beneficiaries": [
+          "SC",
+          "OBC-Non-Creamy Layer",
+          "PM CARES beneficiaries"
+        ],
+        "implementation_mode": "DACE - Central Universities",
+        "income_limit_annual": 800000,
+        "official_portal": "https://coaching.dosje.gov.in"
+      },
+      {
+        "scheme_name": "Naya Savera (Free Coaching and Allied Scheme)",
+        "nodal_ministry": "Ministry of Minority Affairs",
+        "target_beneficiaries": [
+          "Muslim",
+          "Christian",
+          "Sikh",
+          "Buddhist",
+          "Zoroastrian",
+          "Jain"
+        ],
+        "implementation_mode": "Empanelled Private/Govt Institutes",
+        "income_limit_annual": 800000,
+        "official_portal": "https://www.minorityaffairs.gov.in"
+      }
+    ]
+  },
+  {
+    "scheme_id": "ICAR_PMS_ST_001",
+    "name_en": "ICAR Post-Matric Scholarship for SC/ST Candidates",
+    "name_ta": "ICAR ஆதிதிராவிடர்/பழங்குடியின மாணவர்களுக்கான கல்விக்குப் பிந்தைய உதவித்தொகை",
+    "type": "central_sector",
+    "category": "education_scholarship",
+    "description_en": "ICAR scheme providing a monthly stipend of ₹1,000 and an annual contingency of ₹750 to SC/ST students pursuing undergraduate degrees in Agriculture and allied sciences at accredited universities.",
+    "description_ta": "வேளாண்மை மற்றும் அது சார்ந்த இளங்கலை பட்டப்படிப்புகளைப் பயிலும் ஆதிதிராவிட/பழங்குடியின மாணவர்களுக்கு ICAR வழங்கும் மாதாந்திர ₹1,000 உதவித்தொகை மற்றும் ஆண்டுதோறும் ₹750 contingency grant வழங்கும் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "sc_students",
+        "st_students"
+      ],
+      "course_stream": [
+        "agriculture_and_allied_sciences"
+      ],
+      "education_level": [
+        "undergraduate_degree"
+      ],
+      "duality_restriction": "no_other_scholarship_allowed"
+    },
+    "benefits": {
+      "type": "stipend_and_contingency",
+      "value": "₹1,000/month + ₹750/annum",
+      "frequency": "monthly_stipend"
+    },
+    "official_source": "https://icar.org.in",
+    "active": true
+  },
+  {
+    "scheme_id": "MTA_NOS_ST_001",
+    "name_en": "National Overseas Scholarship for ST Students",
+    "name_ta": "பழங்குடியின மாணவர்களுக்கான வெளிநாட்டு உயர்கல்வி உதவித்தொகை",
+    "type": "central_sector",
+    "category": "international_scholarship",
+    "description_en": "Ministry of Tribal Affairs scheme providing full funding for Master's, Ph.D., and Post-Doctoral studies abroad for 20 meritorious ST/PVTG students annually.",
+    "description_ta": "பழங்குடியின (ST/PVTG) மாணவர்கள் வெளிநாடுகளில் முதுகலை, முனைவர் (Ph.D) மற்றும் பிந்தைய முனைவர் ஆராய்ச்சிப் படிப்புகளை மேற்கொள்ள முழுமையான நிதி உதவி வழங்கும் மத்திய அரசின் திட்டம்.",
+    "eligibility": {
+      "target_group": [
+        "st_students",
+        "pvtg_students"
+      ],
+      "income_limit_annual": 600000,
+      "age_limit": {
+        "master": 32,
+        "phd": 35,
+        "post_doc": 38
+      },
+      "academic_threshold": "55_percent_marks",
+      "university_ranking": "qs_top_ranked"
+    },
+    "benefits": {
+      "type": "full_funding",
+      "value": "Tuition fees + USD 15,400 annual maintenance + travel/visa/insurance",
+      "frequency": "duration_of_course"
+    },
+    "official_portal": "https://overseas.tribal.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "MSJE_NFSC_001",
+    "old_name": "Rajiv Gandhi National Fellowship (RGNF)",
+    "current_name": "National Fellowship for Scheduled Caste Students (NFSC)",
+    "type": "central_sector",
+    "category": "higher_education_fellowship",
+    "description_en": "Ministry of Social Justice and Empowerment fellowship for SC students pursuing full-time Ph.D. programs, selected via UGC-NET/CSIR-NET JRF.",
+    "eligibility": {
+      "target_group": [
+        "sc_students"
+      ],
+      "education_level": [
+        "phd"
+      ],
+      "selection_criteria": [
+        "ugc_net_jrf",
+        "joint_ugc_csir_net_jrf"
+      ],
+      "age_limit": "none"
+    },
+    "benefits": {
+      "type": "fellowship_stipend",
+      "value": "JRF/SRF rates as per UGC norms",
+      "frequency": "monthly"
+    },
+    "official_portal": "https://scholarships.gov.in (or SFMP portal)",
+    "active": true
+  },
+  {
+    "scheme_id": "WMCL_CB_001",
+    "name_en": "Welfare Measures for Children of Labourers (Coffee Board)",
+    "type": "central_sector",
+    "category": "educational_welfare",
+    "description_en": "Ministry of Commerce and Industry scheme providing stipends, merit incentives, and financial assistance to SC/ST coffee plantation labourers' children for post-10th grade education.",
+    "eligibility": {
+      "target_group": [
+        "sc_st_labourer_children"
+      ],
+      "parental_workplace": [
+        "coffee_plantations",
+        "licensed_coffee_curing_works"
+      ],
+      "birth_order": "first_two_surviving_children",
+      "education_level": [
+        "post_10th_grade",
+        "higher_education"
+      ],
+      "institution_type": "govt_recognized"
+    },
+    "benefits": {
+      "type": "stipend_and_financial_assistance",
+      "value": "Up to ₹7,500 for higher/professional education",
+      "frequency": "annual"
+    },
+    "documents_required": [
+      "Filled application form",
+      "SC/ST caste certificate",
+      "Previous class marksheet",
+      "Student Aadhaar/ID card"
+    ],
+    "official_source": "https://www.myscheme.gov.in/schemes/wmcl",
+    "active": true
+  },
+  {
+    "scheme_id": "NSIGSE_MOE_008",
+    "name_en": "National Scheme of Incentive to Girls for Secondary Education",
+    "type": "centrally_sponsored",
+    "category": "education_incentive",
+    "description_en": "Ministry of Education scheme providing a ₹3,000 fixed deposit incentive to SC/ST and KGBV-passed girls enrolling in Class 9, payable upon passing Class 10 and turning 18.",
+    "eligibility": {
+      "target_group": [
+        "sc_st_girls",
+        "kgbv_passed_girls"
+      ],
+      "age_limit": 16,
+      "marital_status": "unmarried",
+      "education_level": [
+        "enrolled_in_class_9"
+      ],
+      "institution_type": [
+        "govt_schools",
+        "govt_aided_schools",
+        "local_body_schools"
+      ]
+    },
+    "benefits": {
+      "type": "fixed_term_deposit",
+      "value": "₹3,000 plus accrued interest",
+      "withdrawal_condition": [
+        "passed_class_10",
+        "attained_18_years_age"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Class 8 Marksheet",
+      "School Enrollment Certificate",
+      "Bank Account Details"
+    ],
+    "apply_url": "https://scholarships.gov.in",
+    "official_source": "https://www.education.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "BPVGK_MOTA",
+    "name_en": "Pre-Matric Scholarship for ST Students",
+    "name_ta": "பழங்குடியின மாணவர்களுக்கான மெட்ரிகுலேஷனுக்கு முந்தைய கல்வி உதவித்தொகை",
+    "type": "centrally_sponsored",
+    "category": "educational_scholarship",
+    "description_en": "A Ministry of Tribal Affairs scheme providing monthly stipends and annual grants to ST students in classes IX and X from families with annual income ≤ ₹2.50 Lakhs.",
+    "eligibility": {
+      "target_group": [
+        "st_students"
+      ],
+      "class_level": [
+        "ix",
+        "x"
+      ],
+      "income_limit_annual": 250000,
+      "enrollment": "regular_full_time"
+    },
+    "benefits": {
+      "type": "stipend_and_grant",
+      "value": "₹225-₹525/month + ₹750-₹1,000 annual grant",
+      "duration": "10 months per academic year"
+    },
+    "official_source": "https://tribal.nic.in",
+    "active": true
+  },
+  {
+    "coaching_support_schemes": {
+      "sc_obc_coaching": {
+        "scheme_name": "Free Coaching for SCs, OBCs and beneficiaries of PM CARES",
+        "nodal_ministry": "Ministry of Social Justice and Empowerment (MoSJE)",
+        "implementing_agency": "Dr. Ambedkar Foundation (DAF)",
+        "delivery_mode": "Dr. Ambedkar Centres of Excellence (DACE) in Central Universities",
+        "target_groups": [
+          "SC",
+          "OBC-Non-Creamy Layer",
+          "PM CARES beneficiaries"
+        ],
+        "annual_income_limit": 800000,
+        "key_benefits": {
+          "stipend": "₹4,000 per month",
+          "fee_coverage": "Full course fee (up to specified limits)",
+          "incentives": "₹15,000 for clearing Civil Services Mains"
+        },
+        "official_portal": "https://coaching.dosje.gov.in"
+      },
+      "minority_coaching": {
+        "scheme_name": "Naya Savera (Free Coaching and Allied Scheme)",
+        "status": "Discontinued",
+        "discontinuation_year": "2022-2023",
+        "note": "Students belonging to minority communities are advised to seek support through state-specific minority welfare schemes or general central education support schemes."
+      }
+    }
+  },
+  {
+    "scheme_id": "BHMNS_MMA_001",
+    "name_en": "Begum Hazrat Mahal National Scholarship",
+    "name_ta": "பேகம் ஹஸ்ரத் மஹால் தேசிய கல்வி உதவித்தொகை",
+    "status": "Subsumed into Pre-Matric/Post-Matric Minority Scholarships (2022-23)",
+    "category": "educational_scholarship",
+    "description_en": "A scholarship for meritorious girls from six minority communities (Muslim, Christian, Sikh, Buddhist, Jain, Parsi) studying in Classes 9-12, now part of the unified minority scholarship framework.",
+    "eligibility": {
+      "target_group": [
+        "minority_girl_students"
+      ],
+      "education_level": [
+        "class_ix",
+        "class_x",
+        "class_xi",
+        "class_xii"
+      ],
+      "income_limit_annual": 200000,
+      "academic_threshold": "50_percent_marks"
+    },
+    "benefits": {
+      "type": "financial_stipend",
+      "value": "Varies by class level (typically ₹5,000 - ₹6,000)",
+      "frequency": "annual"
+    },
+    "official_portal": "https://scholarships.gov.in",
+    "active": true
+  },
+  {
+    "scheme_id": "NSIGSE_MOE_2008",
+    "name_en": "National Scheme of Incentive to Girls for Secondary Education",
+    "name_ta": "பெண்களுக்கான இடைநிலை கல்வி ஊக்கத்தொகை திட்டம்",
+    "nodal_ministry": "Ministry of Education (Department of School Education & Literacy)",
+    "type": "Centrally Sponsored Scheme (CSS)",
+    "category": "Educational Incentive",
+    "description": "A financial incentive scheme providing a ₹3,000 fixed deposit to eligible girl students upon enrollment in Class 9, payable with interest upon passing Class 10 and attaining 18 years of age.",
+    "eligibility_criteria": {
+      "gender": "Female",
+      "marital_status": "Unmarried",
+      "age_limit": "Below 16 years (as of March 31st) upon joining Class 9",
+      "academic_status": [
+        "Passed Class 8",
+        "Enrolled in Class 9 in State/UT Government, Government-aided, or local body schools"
+      ],
+      "social_category": [
+        "SC/ST communities",
+        "All girls who pass Class 8 from Kasturba Gandhi Balika Vidyalayas (KGBVs), regardless of caste/tribe"
+      ]
+    },
+    "benefits": {
+      "incentive_amount": "₹3,000",
+      "mode_of_deposit": "Fixed/Term Deposit in a Public Sector Bank or Post Office",
+      "withdrawal_conditions": [
+        "Must have passed Class 10 Board Examination",
+        "Must have attained 18 years of age"
+      ]
+    },
+    "application_mode": "National Scholarship Portal (NSP) / State-verified proposals",
+    "active": true
+  },
+  {
+    "scheme_id": "MTA_PMS_ST_001",
+    "name_en": "Post-Matric Scholarship Scheme for ST Students",
+    "name_ta": "பழங்குடியின மாணவர்களுக்கான கல்விக்குப் பிந்தைய கல்வி உதவித்தொகை திட்டம்",
+    "nodal_ministry": "Ministry of Tribal Affairs",
+    "type": "Centrally Sponsored Scheme (CSS)",
+    "category": "Education & Scholarship",
+    "description": "Financial assistance scheme for ST students pursuing post-matriculation courses in India, covering non-refundable fees and maintenance allowance.",
+    "eligibility_criteria": {
+      "target_group": "Scheduled Tribe (ST) students",
+      "education_level": "Class XI to Post-Graduation/PhD",
+      "annual_income_limit": 250000,
+      "residency": "Permanent resident of the State/UT"
+    },
+    "benefits": {
+      "fee_reimbursement": "100% of compulsory non-refundable fees",
+      "maintenance_allowance": "Monthly stipend (₹230 - ₹1,200 depending on course/residency)"
+    },
+    "application_mode": "Online via National Scholarship Portal (NSP) or State portals",
+    "active": true
+  },
+  {
+    "scheme_id": "MTA_NOS_ST_001",
+    "name_en": "National Overseas Scholarship for ST Students",
+    "nodal_ministry": "Ministry of Tribal Affairs",
+    "type": "Central Sector Scheme",
+    "category": "International Higher Education Scholarship",
+    "description": "Financial assistance for ST/PVTG students to pursue PG, Ph.D., and Post-Doctoral research at top 1,000 QS-ranked foreign universities.",
+    "eligibility_criteria": {
+      "target_group": [
+        "ST",
+        "PVTG"
+      ],
+      "annual_income_limit": 600000,
+      "academic_threshold": "55% marks in qualifying degree",
+      "age_limits": {
+        "masters": 32,
+        "phd": 35,
+        "post_doc": 38
+      }
+    },
+    "benefits": {
+      "maintenance_allowance": "USD 15,400 per annum",
+      "contingency_allowance": "USD 1,532 per annum",
+      "tuition": "Full non-refundable fee coverage"
+    },
+    "application_deadline": "June 30, 2026",
+    "official_portal": "https://overseas.tribal.gov.in/"
+  },
+  {
+    "scheme_id": "MSJE_NFSC_001",
+    "old_name": "Rajiv Gandhi National Fellowship (RGNF)",
+    "current_name": "National Fellowship for Scheduled Caste Students (NFSC)",
+    "type": "central_sector",
+    "category": "higher_education_fellowship",
+    "description_en": "Ministry of Social Justice and Empowerment fellowship for SC students pursuing full-time Ph.D. programs, selected via UGC-NET/CSIR-NET JRF.",
+    "eligibility": {
+      "target_group": [
+        "sc_students"
+      ],
+      "education_level": [
+        "phd"
+      ],
+      "selection_criteria": [
+        "ugc_net_jrf",
+        "joint_ugc_csir_net_jrf"
+      ],
+      "age_limit": "none"
+    },
+    "benefits": {
+      "type": "fellowship_stipend",
+      "value": "JRF/SRF rates as per UGC norms",
+      "frequency": "monthly"
+    },
+    "official_portal": "https://scholarships.gov.in (or SFMP portal)",
+    "active": true
+  },
+  {
+    "scheme_id": "MOTA_PRE_MATRIC_ST_001",
+    "name_en": "Pre-Matric Scholarship for Scheduled Tribe Students",
+    "name_ta": "பழங்குடியின மாணவர்களுக்கான மெட்ரிகுலேஷனுக்கு முந்தைய கல்வி உதவித்தொகை",
+    "nodal_ministry": "Ministry of Tribal Affairs",
+    "type": "Centrally Sponsored Scheme (CSS)",
+    "category": "Education & Learning",
+    "description": "Financial assistance (stipend + book grant) for ST students in Classes 9 and 10 to reduce dropout rates and support educational continuity.",
+    "eligibility_criteria": {
+      "target_group": "Scheduled Tribe (ST)",
+      "education_level": [
+        "Class 9",
+        "Class 10"
+      ],
+      "annual_income_limit": 250000,
+      "enrollment": "Full-time regular student"
+    },
+    "benefits": {
+      "stipend": {
+        "day_scholar": "₹225/month",
+        "hosteller": "₹525/month"
+      },
+      "grants": {
+        "day_scholar": "₹750/annum",
+        "hosteller": "₹1,000/annum"
+      },
+      "duration": "10 months per academic year"
+    },
+    "application_mode": "National Scholarship Portal (NSP) or State Scholarship Portals",
+    "active": true
+  }
+]

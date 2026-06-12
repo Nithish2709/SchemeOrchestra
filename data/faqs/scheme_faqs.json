@@ -1,0 +1,18 @@
+{
+  "TN_SCH_002": [
+    {
+      "q_en": "When is the laptop distributed?",
+      "a_en": "Laptops are distributed after the first year of college, typically during the second year.",
+      "q_ta": "மடிக்கணினி எப்போது வழங்கப்படும்?",
+      "a_ta": "மடிக்கணினி பொதுவாக கல்லூரியின் இரண்டாம் ஆண்டில் வழங்கப்படும்."
+    }
+  ],
+  "TN_SCH_003": [
+    {
+      "q_en": "What does 'first graduate' mean?",
+      "a_en": "It means neither of your parents has a college degree.",
+      "q_ta": "முதல் தலைமுறை பட்டதாரி என்றால் என்ன?",
+      "a_ta": "உங்கள் பெற்றோரில் யாருக்கும் கல்லூரி பட்டம் இல்லாதது."
+    }
+  ]
+}
