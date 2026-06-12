@@ -17,7 +17,12 @@ def format_scheme(scheme: dict, lang: str = "en") -> str:
         benefit_obj = scheme.get("benefits", {})
         benefit = benefit_obj.get("value", "N/A") if isinstance(benefit_obj, dict) else str(benefit_obj)
         url = scheme.get("apply_url", "")
-        return f"🎓 {name}\n{desc}\n💰 {benefit}\n🔗 {url}"
+        
+        result = f"🎓 {name}\n{desc}\n💰 {benefit}"
+        if url and str(url).strip():
+            result += f"\n🔗 {url}"
+            
+        return result
     except Exception as e:
         from loguru import logger
         logger.exception(f"Error formatting scheme: {e}")
@@ -113,14 +118,15 @@ def format_scheme_detailed(scheme: dict, lang: str = "en") -> str:
             lines.append("")
         
         # How to Apply
-        lines.append("🔗 HOW TO APPLY:" if lang == "en" else "🔗 விண்ணப்பிக்கும் முறை:")
         apply_url = scheme.get("apply_url", "")
         official_source = scheme.get("official_source", "")
         
-        if apply_url:
-            lines.append(f"  • Application Link: {apply_url}")
-        if official_source and official_source != apply_url:
-            lines.append(f"  • Official Info: {official_source}")
+        if apply_url or official_source:
+            lines.append("🔗 HOW TO APPLY:" if lang == "en" else "🔗 விண்ணப்பிக்கும் முறை:")
+            if apply_url:
+                lines.append(f"  • Application Link: {apply_url}")
+            if official_source and official_source != apply_url:
+                lines.append(f"  • Official Info: {official_source}")
         
         last_updated = scheme.get("last_updated", "")
         if last_updated:

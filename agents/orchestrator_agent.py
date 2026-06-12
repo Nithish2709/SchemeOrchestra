@@ -18,7 +18,7 @@ _sessions: dict[int, dict] = {}
 
 def get_session(user_id: int) -> dict:
     if user_id not in _sessions:
-        _sessions[user_id] = {"lang": "en", "intent": None, "profile": {}, "history": []}
+        _sessions[user_id] = {"lang": None, "intent": None, "profile": {}, "history": []}
     return _sessions[user_id]
 
 
@@ -29,9 +29,9 @@ def clear_session(user_id: int):
 async def handle_message(user_id: int, text: str) -> str:
     session = get_session(user_id)
 
-    # Auto-detect language
-    session["lang"] = detect_language(text)
-    lang = session["lang"]
+    lang = session.get("lang")
+    if not lang:
+        lang = "en"  # fallback if somehow not set
 
     # If currently in eligibility collection flow
     if session["intent"] == "eligibility_check":
@@ -124,16 +124,31 @@ def _handle_general_query(session: dict, text: str, lang: str) -> str:
     prompt = f"{ORCHESTRATOR_PROMPT}\n{scheme_context}\n\nUser query: {text}\n\nRespond in {'English' if lang == 'en' else 'Tamil'}."
     
     session["history"].append({"role": "user", "parts": [text]})
+    kwargs = {
+        "model": "gemini-2.5-flash",
+        "contents": [{"role": "user", "parts": [{"text": prompt}]}]
+    }
+    
+    if lang == "ta":
+        from config.prompts import TAMIL_SYSTEM_PROMPT
+        from google.genai import types
+        kwargs["config"] = types.GenerateContentConfig(system_instruction=TAMIL_SYSTEM_PROMPT)
+    else:
+        from config.prompts import ENGLISH_SYSTEM_PROMPT
+        from google.genai import types
+        kwargs["config"] = types.GenerateContentConfig(system_instruction=ENGLISH_SYSTEM_PROMPT)
+        
     try:
-        response = _client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=[{"role": "user", "parts": [{"text": prompt}]}],
-        )
+        response = _client.models.generate_content(**kwargs)
         reply = response.text
     except Exception as e:
         from loguru import logger
         logger.exception(f"General query failed: {e}")
-        reply = "I'm currently unable to process your request. Please try again in a moment." if lang == "en" else "உங்கள் கோரிக்கையை செயலாக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
+        if matching_schemes:
+            from utils.formatter import format_eligible_schemes
+            reply = format_eligible_schemes(matching_schemes[:3], lang)
+        else:
+            reply = "I'm currently unable to process your request. Please try again in a moment." if lang == "en" else "உங்கள் கோரிக்கையை செயலாக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
     
     session["history"].append({"role": "model", "parts": [reply]})
     return reply

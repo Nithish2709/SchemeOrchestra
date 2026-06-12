@@ -2,8 +2,8 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 
 LANG_KEYBOARD = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("English 🇬🇧", callback_data="lang_en"),
-        InlineKeyboardButton("தமிழ் 🇮🇳", callback_data="lang_ta"),
+        InlineKeyboardButton("🇮🇳 தமிழ்", callback_data="lang_ta"),
+        InlineKeyboardButton("🇬🇧 English", callback_data="lang_en"),
     ]
 ])
 

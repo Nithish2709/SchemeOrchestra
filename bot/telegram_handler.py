@@ -8,17 +8,17 @@ from bot.message_router import route_text, route_voice
 
 async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "🎼 *Welcome to SchemeOrchestra!*\n"
-        "I help students in Tamil Nadu find government schemes.\n\n"
-        "Choose language / மொழி தேர்வு:",
-        parse_mode="Markdown",
+        "Please choose your preferred language / உங்கள் விருப்ப மொழியைத் தேர்ந்தெடுக்கவும்:",
         reply_markup=LANG_KEYBOARD,
     )
 
 
 async def cmd_reset(update: Update, context: ContextTypes.DEFAULT_TYPE):
     clear_session(update.effective_user.id)
-    await update.message.reply_text("Session reset. Send /start to begin again.")
+    await update.message.reply_text(
+        "Please choose your preferred language / உங்கள் விருப்ப மொழியைத் தேர்ந்தெடுக்கவும்:",
+        reply_markup=LANG_KEYBOARD,
+    )
 
 
 async def cmd_help(update: Update, context: ContextTypes.DEFAULT_TYPE):

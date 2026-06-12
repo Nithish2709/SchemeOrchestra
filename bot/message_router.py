@@ -10,6 +10,16 @@ from pydub import AudioSegment
 
 async def route_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
+    session = get_session(user_id)
+    
+    if session.get("lang") is None:
+        from bot.keyboards import LANG_KEYBOARD
+        await update.message.reply_text(
+            "Please choose your preferred language / உங்கள் விருப்ப மொழியைத் தேர்ந்தெடுக்கவும்:",
+            reply_markup=LANG_KEYBOARD,
+        )
+        return
+        
     text = update.message.text
     try:
         reply = await handle_message(user_id, text)
@@ -27,7 +37,15 @@ async def route_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def route_voice(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     session = get_session(user_id)
-    lang = session.get("lang", "ta")
+    
+    if session.get("lang") is None:
+        from bot.keyboards import LANG_KEYBOARD
+        await update.message.reply_text(
+            "Please choose your preferred language / உங்கள் விருப்ப மொழியைத் தேர்ந்தெடுக்கவும்:",
+            reply_markup=LANG_KEYBOARD,
+        )
+        return
+        
     try:
         voice_file = await update.message.voice.get_file()
         with tempfile.NamedTemporaryFile(suffix=".ogg", delete=False) as ogg_f:
@@ -41,7 +59,18 @@ async def route_voice(update: Update, context: ContextTypes.DEFAULT_TYPE):
         text = transcribe(wav_path)
         os.remove(wav_path)
 
+        # Feed the transcribed text into the existing agent flow
         reply_text = await handle_message(user_id, text)
+
+        # Retrieve the updated language preference after detection
+        session = get_session(user_id)
+        lang = session.get("lang", "en")
+
+        # Always send both text and voice reply together
+        try:
+            await update.message.reply_text(reply_text, parse_mode="Markdown")
+        except Exception:
+            await update.message.reply_text(reply_text, parse_mode=None)
 
         ogg_reply = text_to_voice(reply_text, lang=lang)
         await update.message.reply_voice(voice=open(ogg_reply, "rb"))

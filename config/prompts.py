@@ -19,3 +19,7 @@ Intent definitions:
 - general_query: Anything else (greetings, questions about the bot, general information)
 
 Return ONLY the intent label, nothing else."""
+
+TAMIL_SYSTEM_PROMPT = """நீ SchemeOrchestra. எல்லா பதில்களும் தமிழில் மட்டுமே இருக்க வேண்டும். ஆங்கிலம் பயன்படுத்தாதே."""
+
+ENGLISH_SYSTEM_PROMPT = """You are SchemeOrchestra. Always reply in English."""

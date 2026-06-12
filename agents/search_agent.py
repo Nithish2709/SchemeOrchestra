@@ -44,10 +44,20 @@ Recommend they apply or find more info via the provided URLs.
 Respond in {'English' if lang == 'en' else 'Tamil'}.
 """
         try:
-            response = _client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=fallback_prompt
-            )
+            kwargs = {
+                "model": "gemini-2.5-flash",
+                "contents": fallback_prompt
+            }
+            if lang == "ta":
+                from config.prompts import TAMIL_SYSTEM_PROMPT
+                from google.genai import types
+                kwargs["config"] = types.GenerateContentConfig(system_instruction=TAMIL_SYSTEM_PROMPT)
+            else:
+                from config.prompts import ENGLISH_SYSTEM_PROMPT
+                from google.genai import types
+                kwargs["config"] = types.GenerateContentConfig(system_instruction=ENGLISH_SYSTEM_PROMPT)
+                
+            response = _client.models.generate_content(**kwargs)
             return re.sub(r'\*', '', response.text)
         except Exception:
             return "No schemes found matching your query. Please try different keywords." if lang == "en" else "உங்கள் தேடலுக்கு திட்டங்கள் கிடைக்கவில்லை. வேறு வார்த்தைகளை முயற்சிக்கவும்."
@@ -94,10 +104,20 @@ Always end with: "Would you like YouTube video explanations for any of these sch
 """
     
     try:
-        response = _client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=prompt
-        )
+        kwargs = {
+            "model": "gemini-2.5-flash",
+            "contents": prompt
+        }
+        if lang == "ta":
+            from config.prompts import TAMIL_SYSTEM_PROMPT
+            from google.genai import types
+            kwargs["config"] = types.GenerateContentConfig(system_instruction=TAMIL_SYSTEM_PROMPT)
+        else:
+            from config.prompts import ENGLISH_SYSTEM_PROMPT
+            from google.genai import types
+            kwargs["config"] = types.GenerateContentConfig(system_instruction=ENGLISH_SYSTEM_PROMPT)
+            
+        response = _client.models.generate_content(**kwargs)
         return re.sub(r'\*', '', response.text)
     except Exception as e:
         # Fallback to simple list
